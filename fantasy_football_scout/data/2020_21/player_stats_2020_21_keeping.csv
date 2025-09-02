@@ -1,0 +1,766 @@
+match_id,nick_name,full_name,pos,team,saves,pen_saves
+2128286,Pope,Nick Pope,Goalkeeper,BUR,6,0
+2128286,De Gea,David De Gea,Goalkeeper,MUN,0,0
+2128287,Guaita,Vicente Guaita,Goalkeeper,CRY,5,0
+2128287,McCarthy (Alex),Alex McCarthy,Goalkeeper,SOU,2,0
+2128288,Leno,Bernd Leno,Goalkeeper,ARS,2,0
+2128288,Rodák,Marek Rodák,Goalkeeper,FUL,2,0
+2128289,Meslier,Illan Meslier,Goalkeeper,LEE,3,0
+2128289,Alisson,Alisson Ramses Becker,Goalkeeper,LIV,0,0
+2128290,Martinez,Emiliano Martinez,Goalkeeper,AVL,7,0
+2128290,Ederson,Ederson Santana de Moraes,Goalkeeper,MCI,4,0
+2128291,Pickford,Jordan Pickford,Goalkeeper,EVE,5,0
+2128291,Lloris,Hugo Lloris,Goalkeeper,TOT,3,0
+2128292,Schmeichel,Kasper Schmeichel,Goalkeeper,LEI,1,0
+2128292,Johnstone,Sam Johnstone,Goalkeeper,WBA,4,0
+2128293,Darlow,Karl Darlow,Goalkeeper,NEW,3,0
+2128293,Fabianski,Lukasz Fabianski,Goalkeeper,WHU,0,0
+2128294,Mat Ryan,Mathew Ryan,Goalkeeper,BHA,2,0
+2128294,Kepa,Kepa Arrizabalaga Revuelta,Goalkeeper,CHE,2,0
+2128295,Ramsdale,Aaron Ramsdale,Goalkeeper,SHU,2,0
+2128295,Rui Patrício,Rui Pedro dos Santos Patrício,Goalkeeper,WOL,1,0
+2128296,Leno,Bernd Leno,Goalkeeper,ARS,2,0
+2128296,Fabianski,Lukasz Fabianski,Goalkeeper,WHU,1,0
+2128297,Martinez,Emiliano Martinez,Goalkeeper,AVL,1,1
+2128297,Ramsdale,Aaron Ramsdale,Goalkeeper,SHU,1,0
+2128298,Kepa,Kepa Arrizabalaga Revuelta,Goalkeeper,CHE,3,0
+2128298,Alisson,Alisson Ramses Becker,Goalkeeper,LIV,3,1
+2128299,Pickford,Jordan Pickford,Goalkeeper,EVE,2,0
+2128299,Johnstone,Sam Johnstone,Goalkeeper,WBA,2,0
+2128300,Areola,Alphonse Areola,Goalkeeper,FUL,3,0
+2128300,Meslier,Illan Meslier,Goalkeeper,LEE,3,0
+2128301,Pope,Nick Pope,Goalkeeper,BUR,3,0
+2128301,Schmeichel,Kasper Schmeichel,Goalkeeper,LEI,3,0
+2128302,Guaita,Vicente Guaita,Goalkeeper,CRY,3,0
+2128302,De Gea,David De Gea,Goalkeeper,MUN,2,0
+2128303,Mat Ryan,Mathew Ryan,Goalkeeper,BHA,0,0
+2128303,Darlow,Karl Darlow,Goalkeeper,NEW,4,0
+2128304,McCarthy (Alex),Alex McCarthy,Goalkeeper,SOU,1,0
+2128304,Lloris,Hugo Lloris,Goalkeeper,TOT,5,0
+2128305,Ederson,Ederson Santana de Moraes,Goalkeeper,MCI,0,0
+2128305,Rui Patrício,Rui Pedro dos Santos Patrício,Goalkeeper,WOL,6,0
+2128306,Mat Ryan,Mathew Ryan,Goalkeeper,BHA,1,0
+2128306,De Gea,David De Gea,Goalkeeper,MUN,3,0
+2128307,Pope,Nick Pope,Goalkeeper,BUR,0,0
+2128307,McCarthy (Alex),Alex McCarthy,Goalkeeper,SOU,2,0
+2128308,Guaita,Vicente Guaita,Goalkeeper,CRY,3,0
+2128308,Pickford,Jordan Pickford,Goalkeeper,EVE,0,0
+2128309,Martinez,Emiliano Martinez,Goalkeeper,AVL,2,0
+2128309,Areola,Alphonse Areola,Goalkeeper,FUL,2,0
+2128310,Leno,Bernd Leno,Goalkeeper,ARS,5,0
+2128310,Alisson,Alisson Ramses Becker,Goalkeeper,LIV,2,0
+2128311,Schmeichel,Kasper Schmeichel,Goalkeeper,LEI,3,0
+2128311,Ederson,Ederson Santana de Moraes,Goalkeeper,MCI,2,0
+2128312,Meslier,Illan Meslier,Goalkeeper,LEE,4,0
+2128312,Ramsdale,Aaron Ramsdale,Goalkeeper,SHU,7,0
+2128313,Darlow,Karl Darlow,Goalkeeper,NEW,11,0
+2128313,Lloris,Hugo Lloris,Goalkeeper,TOT,0,0
+2128314,Caballero,Willy Caballero,Goalkeeper,CHE,0,0
+2128314,Johnstone,Sam Johnstone,Goalkeeper,WBA,7,0
+2128315,Fabianski,Lukasz Fabianski,Goalkeeper,WHU,3,0
+2128315,Rui Patrício,Rui Pedro dos Santos Patrício,Goalkeeper,WOL,4,0
+2128316,Leno,Bernd Leno,Goalkeeper,ARS,1,0
+2128316,Ramsdale,Aaron Ramsdale,Goalkeeper,SHU,3,0
+2128317,Martinez,Emiliano Martinez,Goalkeeper,AVL,6,0
+2128317,Adrián,Adrián San Miguel del Castillo,Goalkeeper,LIV,4,0
+2128318,Mendy (Edouard),Edouard Mendy,Goalkeeper,CHE,0,0
+2128318,Guaita,Vicente Guaita,Goalkeeper,CRY,2,0
+2128319,Mat Ryan,Mathew Ryan,Goalkeeper,BHA,2,0
+2128319,Pickford,Jordan Pickford,Goalkeeper,EVE,1,0
+2128320,Meslier,Illan Meslier,Goalkeeper,LEE,1,0
+2128320,Ederson,Ederson Santana de Moraes,Goalkeeper,MCI,6,0
+2128321,Schmeichel,Kasper Schmeichel,Goalkeeper,LEI,3,0
+2128321,Fabianski,Lukasz Fabianski,Goalkeeper,WHU,0,0
+2128322,De Gea,David De Gea,Goalkeeper,MUN,2,0
+2128322,Lloris,Hugo Lloris,Goalkeeper,TOT,1,0
+2128323,Pope,Nick Pope,Goalkeeper,BUR,3,0
+2128323,Darlow,Karl Darlow,Goalkeeper,NEW,2,0
+2128324,McCarthy (Alex),Alex McCarthy,Goalkeeper,SOU,3,0
+2128324,Johnstone,Sam Johnstone,Goalkeeper,WBA,6,0
+2128325,Areola,Alphonse Areola,Goalkeeper,FUL,4,0
+2128325,Rui Patrício,Rui Pedro dos Santos Patrício,Goalkeeper,WOL,2,0
+2128326,Kepa,Kepa Arrizabalaga Revuelta,Goalkeeper,CHE,3,0
+2128326,McCarthy (Alex),Alex McCarthy,Goalkeeper,SOU,2,0
+2128327,Mat Ryan,Mathew Ryan,Goalkeeper,BHA,0,0
+2128327,Guaita,Vicente Guaita,Goalkeeper,CRY,2,0
+2128328,Pickford,Jordan Pickford,Goalkeeper,EVE,6,0
+2128328,Adrián,Adrián San Miguel del Castillo,Goalkeeper,LIV,3,0
+2128329,Meslier,Illan Meslier,Goalkeeper,LEE,2,0
+2128329,Rui Patrício,Rui Pedro dos Santos Patrício,Goalkeeper,WOL,2,0
+2128330,Martinez,Emiliano Martinez,Goalkeeper,AVL,5,0
+2128330,Schmeichel,Kasper Schmeichel,Goalkeeper,LEI,3,0
+2128331,Leno,Bernd Leno,Goalkeeper,ARS,4,0
+2128331,Ederson,Ederson Santana de Moraes,Goalkeeper,MCI,3,0
+2128332,De Gea,David De Gea,Goalkeeper,MUN,4,0
+2128332,Darlow,Karl Darlow,Goalkeeper,NEW,8,1
+2128333,Areola,Alphonse Areola,Goalkeeper,FUL,5,0
+2128333,Ramsdale,Aaron Ramsdale,Goalkeeper,SHU,5,0
+2128334,Lloris,Hugo Lloris,Goalkeeper,TOT,2,0
+2128334,Fabianski,Lukasz Fabianski,Goalkeeper,WHU,3,0
+2128335,Pope,Nick Pope,Goalkeeper,BUR,6,0
+2128335,Johnstone,Sam Johnstone,Goalkeeper,WBA,4,0
+2128336,Leno,Bernd Leno,Goalkeeper,ARS,1,0
+2128336,Schmeichel,Kasper Schmeichel,Goalkeeper,LEI,4,0
+2128337,Martinez,Emiliano Martinez,Goalkeeper,AVL,7,0
+2128337,Meslier,Illan Meslier,Goalkeeper,LEE,3,0
+2128338,Mat Ryan,Mathew Ryan,Goalkeeper,BHA,2,0
+2128338,Johnstone,Sam Johnstone,Goalkeeper,WBA,3,0
+2128339,Pope,Nick Pope,Goalkeeper,BUR,2,0
+2128339,Lloris,Hugo Lloris,Goalkeeper,TOT,3,0
+2128340,Guaita,Vicente Guaita,Goalkeeper,CRY,2,0
+2128340,Areola,Alphonse Areola,Goalkeeper,FUL,8,0
+2128341,Alisson,Alisson Ramses Becker,Goalkeeper,LIV,1,0
+2128341,Ramsdale,Aaron Ramsdale,Goalkeeper,SHU,3,0
+2128342,Mendy (Edouard),Edouard Mendy,Goalkeeper,CHE,4,0
+2128342,De Gea,David De Gea,Goalkeeper,MUN,1,0
+2128343,Pickford,Jordan Pickford,Goalkeeper,EVE,4,0
+2128343,McCarthy (Alex),Alex McCarthy,Goalkeeper,SOU,2,0
+2128344,Ederson,Ederson Santana de Moraes,Goalkeeper,MCI,1,0
+2128344,Fabianski,Lukasz Fabianski,Goalkeeper,WHU,6,0
+2128345,Darlow,Karl Darlow,Goalkeeper,NEW,3,0
+2128345,Rui Patrício,Rui Pedro dos Santos Patrício,Goalkeeper,WOL,1,0
+2128346,Martinez,Emiliano Martinez,Goalkeeper,AVL,0,0
+2128346,McCarthy (Alex),Alex McCarthy,Goalkeeper,SOU,7,0
+2128347,Pope,Nick Pope,Goalkeeper,BUR,6,0
+2128347,Mendy (Edouard),Edouard Mendy,Goalkeeper,CHE,0,0
+2128348,Areola,Alphonse Areola,Goalkeeper,FUL,1,0
+2128348,Johnstone,Sam Johnstone,Goalkeeper,WBA,2,0
+2128349,Meslier,Illan Meslier,Goalkeeper,LEE,4,0
+2128349,Schmeichel,Kasper Schmeichel,Goalkeeper,LEI,3,0
+2128350,Alisson,Alisson Ramses Becker,Goalkeeper,LIV,2,0
+2128350,Fabianski,Lukasz Fabianski,Goalkeeper,WHU,4,0
+2128351,Leno,Bernd Leno,Goalkeeper,ARS,3,0
+2128351,De Gea,David De Gea,Goalkeeper,MUN,1,0
+2128352,Olsen,Robin Olsen,Goalkeeper,EVE,2,0
+2128352,Darlow,Karl Darlow,Goalkeeper,NEW,3,0
+2128353,Ederson,Ederson Santana de Moraes,Goalkeeper,MCI,1,0
+2128353,Ramsdale,Aaron Ramsdale,Goalkeeper,SHU,7,0
+2128354,Sanchez,Robert Sanchez,Goalkeeper,BHA,2,0
+2128354,Lloris,Hugo Lloris,Goalkeeper,TOT,1,0
+2128355,Guaita,Vicente Guaita,Goalkeeper,CRY,3,0
+2128355,Rui Patrício,Rui Pedro dos Santos Patrício,Goalkeeper,WOL,2,0
+2128356,Leno,Bernd Leno,Goalkeeper,ARS,3,0
+2128356,Martinez,Emiliano Martinez,Goalkeeper,AVL,2,0
+2128357,Mat Ryan,Mathew Ryan,Goalkeeper,BHA,1,0
+2128357,Pope,Nick Pope,Goalkeeper,BUR,3,0
+2128358,Mendy (Edouard),Edouard Mendy,Goalkeeper,CHE,2,0
+2128358,Ramsdale,Aaron Ramsdale,Goalkeeper,SHU,6,0
+2128359,Guaita,Vicente Guaita,Goalkeeper,CRY,2,0
+2128359,Meslier,Illan Meslier,Goalkeeper,LEE,3,0
+2128360,Pickford,Jordan Pickford,Goalkeeper,EVE,2,0
+2128360,De Gea,David De Gea,Goalkeeper,MUN,0,0
+2128361,Schmeichel,Kasper Schmeichel,Goalkeeper,LEI,2,0
+2128361,Rui Patrício,Rui Pedro dos Santos Patrício,Goalkeeper,WOL,2,1
+2128362,Alisson,Alisson Ramses Becker,Goalkeeper,LIV,1,0
+2128362,Ederson,Ederson Santana de Moraes,Goalkeeper,MCI,2,0
+2128363,Darlow,Karl Darlow,Goalkeeper,NEW,5,0
+2128363,McCarthy (Alex),Alex McCarthy,Goalkeeper,SOU,2,0
+2128364,Lloris,Hugo Lloris,Goalkeeper,TOT,2,0
+2128364,Johnstone,Sam Johnstone,Goalkeeper,WBA,4,0
+2128365,Areola,Alphonse Areola,Goalkeeper,FUL,6,0
+2128365,Fabianski,Lukasz Fabianski,Goalkeeper,WHU,3,1
+2128366,Martinez,Emiliano Martinez,Goalkeeper,AVL,1,0
+2128366,Mat Ryan,Mathew Ryan,Goalkeeper,BHA,3,0
+2128367,Pope,Nick Pope,Goalkeeper,BUR,5,0
+2128367,Guaita,Vicente Guaita,Goalkeeper,CRY,3,0
+2128368,Pickford,Jordan Pickford,Goalkeeper,EVE,4,0
+2128368,Areola,Alphonse Areola,Goalkeeper,FUL,4,0
+2128369,Leno,Bernd Leno,Goalkeeper,ARS,4,0
+2128369,Meslier,Illan Meslier,Goalkeeper,LEE,2,0
+2128370,Schmeichel,Kasper Schmeichel,Goalkeeper,LEI,9,0
+2128370,Alisson,Alisson Ramses Becker,Goalkeeper,LIV,4,0
+2128371,De Gea,David De Gea,Goalkeeper,MUN,2,0
+2128371,Johnstone,Sam Johnstone,Goalkeeper,WBA,6,0
+2128372,Mendy (Edouard),Edouard Mendy,Goalkeeper,CHE,1,0
+2128372,Darlow,Karl Darlow,Goalkeeper,NEW,2,0
+2128373,Ramsdale,Aaron Ramsdale,Goalkeeper,SHU,2,0
+2128373,Fabianski,Lukasz Fabianski,Goalkeeper,WHU,5,0
+2128374,Ederson,Ederson Santana de Moraes,Goalkeeper,MCI,0,0
+2128374,Lloris,Hugo Lloris,Goalkeeper,TOT,5,0
+2128375,McCarthy (Alex),Alex McCarthy,Goalkeeper,SOU,8,0
+2128375,Rui Patrício,Rui Pedro dos Santos Patrício,Goalkeeper,WOL,1,0
+2128376,Leno,Bernd Leno,Goalkeeper,ARS,3,0
+2128376,Rui Patrício,Rui Pedro dos Santos Patrício,Goalkeeper,WOL,1,0
+2128377,Mat Ryan,Mathew Ryan,Goalkeeper,BHA,1,0
+2128377,Alisson,Alisson Ramses Becker,Goalkeeper,LIV,2,0
+2128378,Mendy (Edouard),Edouard Mendy,Goalkeeper,CHE,1,0
+2128378,Lloris,Hugo Lloris,Goalkeeper,TOT,3,0
+2128379,Guaita,Vicente Guaita,Goalkeeper,CRY,5,0
+2128379,Darlow,Karl Darlow,Goalkeeper,NEW,3,0
+2128380,Pickford,Jordan Pickford,Goalkeeper,EVE,5,0
+2128380,Meslier,Illan Meslier,Goalkeeper,LEE,8,0
+2128381,Areola,Alphonse Areola,Goalkeeper,FUL,2,0
+2128381,Schmeichel,Kasper Schmeichel,Goalkeeper,LEI,3,0
+2128382,Peacock-Farrell,Bailey Peacock-Farrell,Goalkeeper,BUR,1,0
+2128382,Ederson,Ederson Santana de Moraes,Goalkeeper,MCI,1,0
+2128383,De Gea,David De Gea,Goalkeeper,MUN,1,0
+2128383,Henderson (Dean),Dean Henderson,Goalkeeper,MUN,2,0
+2128383,McCarthy (Alex),Alex McCarthy,Goalkeeper,SOU,3,0
+2128384,Ramsdale,Aaron Ramsdale,Goalkeeper,SHU,5,0
+2128384,Johnstone,Sam Johnstone,Goalkeeper,WBA,5,0
+2128385,Martinez,Emiliano Martinez,Goalkeeper,AVL,0,0
+2128385,Fabianski,Lukasz Fabianski,Goalkeeper,WHU,5,0
+2128386,Martinez,Emiliano Martinez,Goalkeeper,AVL,1,0
+2128386,Darlow,Karl Darlow,Goalkeeper,NEW,3,0
+2128387,Mat Ryan,Mathew Ryan,Goalkeeper,BHA,1,0
+2128387,McCarthy (Alex),Alex McCarthy,Goalkeeper,SOU,3,0
+2128388,Pope,Nick Pope,Goalkeeper,BUR,5,0
+2128388,Pickford,Jordan Pickford,Goalkeeper,EVE,2,0
+2128389,Mendy (Edouard),Edouard Mendy,Goalkeeper,CHE,2,0
+2128389,Meslier,Illan Meslier,Goalkeeper,LEE,7,0
+2128390,Kelleher,Caoimhin Kelleher,Goalkeeper,LIV,3,0
+2128390,Rui Patrício,Rui Pedro dos Santos Patrício,Goalkeeper,WOL,3,0
+2128391,Areola,Alphonse Areola,Goalkeeper,FUL,4,0
+2128391,Ederson,Ederson Santana de Moraes,Goalkeeper,MCI,1,0
+2128392,Schmeichel,Kasper Schmeichel,Goalkeeper,LEI,0,0
+2128392,Ramsdale,Aaron Ramsdale,Goalkeeper,SHU,2,0
+2128393,Leno,Bernd Leno,Goalkeeper,ARS,1,0
+2128393,Lloris,Hugo Lloris,Goalkeeper,TOT,2,0
+2128394,Guaita,Vicente Guaita,Goalkeeper,CRY,3,0
+2128394,Johnstone,Sam Johnstone,Goalkeeper,WBA,2,0
+2128395,Henderson (Dean),Dean Henderson,Goalkeeper,MUN,5,0
+2128395,Fabianski,Lukasz Fabianski,Goalkeeper,WHU,3,0
+2128396,Leno,Bernd Leno,Goalkeeper,ARS,2,0
+2128396,Pope,Nick Pope,Goalkeeper,BUR,6,0
+2128397,Guaita,Vicente Guaita,Goalkeeper,CRY,5,0
+2128397,Lloris,Hugo Lloris,Goalkeeper,TOT,4,0
+2128398,Mendy (Edouard),Edouard Mendy,Goalkeeper,CHE,3,0
+2128398,Pickford,Jordan Pickford,Goalkeeper,EVE,3,0
+2128399,Areola,Alphonse Areola,Goalkeeper,FUL,5,0
+2128399,Alisson,Alisson Ramses Becker,Goalkeeper,LIV,4,0
+2128400,Meslier,Illan Meslier,Goalkeeper,LEE,6,0
+2128400,Fabianski,Lukasz Fabianski,Goalkeeper,WHU,7,0
+2128401,Mat Ryan,Mathew Ryan,Goalkeeper,BHA,3,0
+2128401,Schmeichel,Kasper Schmeichel,Goalkeeper,LEI,4,0
+2128402,Ederson,Ederson Santana de Moraes,Goalkeeper,MCI,2,0
+2128402,De Gea,David De Gea,Goalkeeper,MUN,2,0
+2128403,Darlow,Karl Darlow,Goalkeeper,NEW,2,0
+2128403,Johnstone,Sam Johnstone,Goalkeeper,WBA,4,0
+2128404,Ramsdale,Aaron Ramsdale,Goalkeeper,SHU,3,0
+2128404,McCarthy (Alex),Alex McCarthy,Goalkeeper,SOU,0,0
+2128405,Martinez,Emiliano Martinez,Goalkeeper,AVL,7,0
+2128405,Rui Patrício,Rui Pedro dos Santos Patrício,Goalkeeper,WOL,1,0
+2128406,Leno,Bernd Leno,Goalkeeper,ARS,2,0
+2128406,McCarthy (Alex),Alex McCarthy,Goalkeeper,SOU,4,0
+2128407,Martinez,Emiliano Martinez,Goalkeeper,AVL,4,0
+2128407,Pope,Nick Pope,Goalkeeper,BUR,6,0
+2128408,Sanchez,Robert Sanchez,Goalkeeper,BHA,4,0
+2128408,Areola,Alphonse Areola,Goalkeeper,FUL,4,0
+2128409,Meslier,Illan Meslier,Goalkeeper,LEE,2,0
+2128409,Darlow,Karl Darlow,Goalkeeper,NEW,5,0
+2128410,Olsen,Robin Olsen,Goalkeeper,EVE,2,0
+2128410,Schmeichel,Kasper Schmeichel,Goalkeeper,LEI,4,0
+2128411,Henderson (Dean),Dean Henderson,Goalkeeper,MUN,4,0
+2128411,Ramsdale,Aaron Ramsdale,Goalkeeper,SHU,5,0
+2128412,Guaita,Vicente Guaita,Goalkeeper,CRY,1,0
+2128412,Fabianski,Lukasz Fabianski,Goalkeeper,WHU,1,0
+2128413,Mendy (Edouard),Edouard Mendy,Goalkeeper,CHE,2,0
+2128413,Rui Patrício,Rui Pedro dos Santos Patrício,Goalkeeper,WOL,2,0
+2128414,Alisson,Alisson Ramses Becker,Goalkeeper,LIV,2,0
+2128414,Lloris,Hugo Lloris,Goalkeeper,TOT,9,0
+2128415,Ederson,Ederson Santana de Moraes,Goalkeeper,MCI,1,0
+2128415,Johnstone,Sam Johnstone,Goalkeeper,WBA,7,0
+2128416,Sanchez,Robert Sanchez,Goalkeeper,BHA,2,0
+2128416,Ramsdale,Aaron Ramsdale,Goalkeeper,SHU,3,0
+2128417,Pope,Nick Pope,Goalkeeper,BUR,2,0
+2128417,Rui Patrício,Rui Pedro dos Santos Patrício,Goalkeeper,WOL,2,0
+2128418,Mendy (Edouard),Edouard Mendy,Goalkeeper,CHE,0,0
+2128418,Fabianski,Lukasz Fabianski,Goalkeeper,WHU,4,0
+2128419,Guaita,Vicente Guaita,Goalkeeper,CRY,0,0
+2128419,Alisson,Alisson Ramses Becker,Goalkeeper,LIV,3,0
+2128420,Leno,Bernd Leno,Goalkeeper,ARS,1,0
+2128420,Pickford,Jordan Pickford,Goalkeeper,EVE,1,0
+2128421,Meslier,Illan Meslier,Goalkeeper,LEE,9,0
+2128421,De Gea,David De Gea,Goalkeeper,MUN,3,0
+2128422,Areola,Alphonse Areola,Goalkeeper,FUL,4,0
+2128422,Darlow,Karl Darlow,Goalkeeper,NEW,4,0
+2128423,Ederson,Ederson Santana de Moraes,Goalkeeper,MCI,3,0
+2128423,McCarthy (Alex),Alex McCarthy,Goalkeeper,SOU,4,0
+2128424,Schmeichel,Kasper Schmeichel,Goalkeeper,LEI,3,0
+2128424,Lloris,Hugo Lloris,Goalkeeper,TOT,3,0
+2128425,Martinez,Emiliano Martinez,Goalkeeper,AVL,1,0
+2128425,Johnstone,Sam Johnstone,Goalkeeper,WBA,7,0
+2128426,Leno,Bernd Leno,Goalkeeper,ARS,2,1
+2128426,Mendy (Edouard),Edouard Mendy,Goalkeeper,CHE,4,0
+2128427,Martinez,Emiliano Martinez,Goalkeeper,AVL,6,0
+2128427,Guaita,Vicente Guaita,Goalkeeper,CRY,6,0
+2128428,Areola,Alphonse Areola,Goalkeeper,FUL,2,0
+2128428,McCarthy (Alex),Alex McCarthy,Goalkeeper,SOU,1,0
+2128429,Pope,Nick Pope,Goalkeeper,BUR,3,0
+2128429,Meslier,Illan Meslier,Goalkeeper,LEE,6,0
+2128430,Schmeichel,Kasper Schmeichel,Goalkeeper,LEI,2,0
+2128430,De Gea,David De Gea,Goalkeeper,MUN,1,0
+2128431,Alisson,Alisson Ramses Becker,Goalkeeper,LIV,2,0
+2128431,Johnstone,Sam Johnstone,Goalkeeper,WBA,1,0
+2128432,Ederson,Ederson Santana de Moraes,Goalkeeper,MCI,2,0
+2128432,Darlow,Karl Darlow,Goalkeeper,NEW,4,0
+2128433,Pickford,Jordan Pickford,Goalkeeper,EVE,1,0
+2128433,Ramsdale,Aaron Ramsdale,Goalkeeper,SHU,2,0
+2128434,Sanchez,Robert Sanchez,Goalkeeper,BHA,2,0
+2128434,Fabianski,Lukasz Fabianski,Goalkeeper,WHU,2,0
+2128435,Lloris,Hugo Lloris,Goalkeeper,TOT,5,0
+2128435,Rui Patrício,Rui Pedro dos Santos Patrício,Goalkeeper,WOL,2,0
+2128436,Leno,Bernd Leno,Goalkeeper,ARS,2,0
+2128436,Sanchez,Robert Sanchez,Goalkeeper,BHA,2,0
+2128437,Pope,Nick Pope,Goalkeeper,BUR,2,0
+2128437,Ramsdale,Aaron Ramsdale,Goalkeeper,SHU,2,0
+2128438,Martinez,Emiliano Martinez,Goalkeeper,AVL,4,0
+2128438,Mendy (Edouard),Edouard Mendy,Goalkeeper,CHE,1,0
+2128439,Guaita,Vicente Guaita,Goalkeeper,CRY,2,1
+2128439,Schmeichel,Kasper Schmeichel,Goalkeeper,LEI,0,0
+2128440,Pickford,Jordan Pickford,Goalkeeper,EVE,4,0
+2128440,Ederson,Ederson Santana de Moraes,Goalkeeper,MCI,1,0
+2128441,De Gea,David De Gea,Goalkeeper,MUN,5,0
+2128441,Rui Patrício,Rui Pedro dos Santos Patrício,Goalkeeper,WOL,2,0
+2128442,Alisson,Alisson Ramses Becker,Goalkeeper,LIV,2,0
+2128442,Darlow,Karl Darlow,Goalkeeper,NEW,4,0
+2128443,McCarthy (Alex),Alex McCarthy,Goalkeeper,SOU,3,0
+2128443,Fabianski,Lukasz Fabianski,Goalkeeper,WHU,4,0
+2128444,Areola,Alphonse Areola,Goalkeeper,FUL,5,0
+2128444,Lloris,Hugo Lloris,Goalkeeper,TOT,3,0
+2128445,Meslier,Illan Meslier,Goalkeeper,LEE,1,0
+2128445,Johnstone,Sam Johnstone,Goalkeeper,WBA,2,0
+2128446,Sanchez,Robert Sanchez,Goalkeeper,BHA,2,0
+2128446,Rui Patrício,Rui Pedro dos Santos Patrício,Goalkeeper,WOL,1,0
+2128447,Pope,Nick Pope,Goalkeeper,BUR,2,0
+2128447,Areola,Alphonse Areola,Goalkeeper,FUL,2,0
+2128448,Mendy (Edouard),Edouard Mendy,Goalkeeper,CHE,3,0
+2128448,Steffen,Zackary Steffen,Goalkeeper,MCI,1,0
+2128449,Guaita,Vicente Guaita,Goalkeeper,CRY,2,0
+2128449,Ramsdale,Aaron Ramsdale,Goalkeeper,SHU,2,0
+2128450,Pickford,Jordan Pickford,Goalkeeper,EVE,4,0
+2128450,Randolph,Darren Randolph,Goalkeeper,WHU,2,0
+2128451,Martinez,Emiliano Martinez,Goalkeeper,AVL,7,0
+2128451,De Gea,David De Gea,Goalkeeper,MUN,4,0
+2128452,Schmeichel,Kasper Schmeichel,Goalkeeper,LEI,1,0
+2128452,Darlow,Karl Darlow,Goalkeeper,NEW,1,0
+2128453,Alisson,Alisson Ramses Becker,Goalkeeper,LIV,1,0
+2128453,Forster,Fraser Forster,Goalkeeper,SOU,1,0
+2128454,Meslier,Illan Meslier,Goalkeeper,LEE,4,0
+2128454,Lloris,Hugo Lloris,Goalkeeper,TOT,5,0
+2128455,Leno,Bernd Leno,Goalkeeper,ARS,3,0
+2128455,Johnstone,Sam Johnstone,Goalkeeper,WBA,8,0
+2128456,Leno,Bernd Leno,Goalkeeper,ARS,2,0
+2128456,Guaita,Vicente Guaita,Goalkeeper,CRY,4,0
+2128457,Martinez,Emiliano Martinez,Goalkeeper,AVL,1,0
+2128457,Lloris,Hugo Lloris,Goalkeeper,TOT,1,0
+2128458,Areola,Alphonse Areola,Goalkeeper,FUL,3,0
+2128458,De Gea,David De Gea,Goalkeeper,MUN,4,0
+2128459,Meslier,Illan Meslier,Goalkeeper,LEE,5,0
+2128459,McCarthy (Alex),Alex McCarthy,Goalkeeper,SOU,4,0
+2128460,Mendy (Edouard),Edouard Mendy,Goalkeeper,CHE,4,0
+2128460,Schmeichel,Kasper Schmeichel,Goalkeeper,LEI,5,0
+2128461,Darlow,Karl Darlow,Goalkeeper,NEW,3,0
+2128461,Ramsdale,Aaron Ramsdale,Goalkeeper,SHU,3,0
+2128462,Johnstone,Sam Johnstone,Goalkeeper,WBA,4,0
+2128462,Fabianski,Lukasz Fabianski,Goalkeeper,WHU,2,0
+2128463,Pickford,Jordan Pickford,Goalkeeper,EVE,2,0
+2128463,Rui Patrício,Rui Pedro dos Santos Patrício,Goalkeeper,WOL,1,0
+2128464,Pope,Nick Pope,Goalkeeper,BUR,6,0
+2128464,Alisson,Alisson Ramses Becker,Goalkeeper,LIV,3,0
+2128465,Sanchez,Robert Sanchez,Goalkeeper,BHA,5,0
+2128465,Ederson,Ederson Santana de Moraes,Goalkeeper,MCI,1,0
+2128466,Leno,Bernd Leno,Goalkeeper,ARS,1,0
+2128466,Darlow,Karl Darlow,Goalkeeper,NEW,4,0
+2128467,Martinez,Emiliano Martinez,Goalkeeper,AVL,5,0
+2128467,Pickford,Jordan Pickford,Goalkeeper,EVE,2,0
+2128468,Mendy (Edouard),Edouard Mendy,Goalkeeper,CHE,2,0
+2128468,Areola,Alphonse Areola,Goalkeeper,FUL,5,0
+2128469,Sanchez,Robert Sanchez,Goalkeeper,BHA,2,0
+2128469,Kiko Casilla,Francisco Casilla Cortés,Goalkeeper,LEE,1,0
+2128470,Schmeichel,Kasper Schmeichel,Goalkeeper,LEI,3,0
+2128470,McCarthy (Alex),Alex McCarthy,Goalkeeper,SOU,2,0
+2128471,Alisson,Alisson Ramses Becker,Goalkeeper,LIV,4,0
+2128471,De Gea,David De Gea,Goalkeeper,MUN,3,0
+2128472,Guaita,Vicente Guaita,Goalkeeper,CRY,2,0
+2128472,Ederson,Ederson Santana de Moraes,Goalkeeper,MCI,0,0
+2128473,Ramsdale,Aaron Ramsdale,Goalkeeper,SHU,2,0
+2128473,Lloris,Hugo Lloris,Goalkeeper,TOT,4,0
+2128474,Pope,Nick Pope,Goalkeeper,BUR,2,0
+2128474,Fabianski,Lukasz Fabianski,Goalkeeper,WHU,2,0
+2128475,Button,David Button,Goalkeeper,WBA,4,0
+2128475,Rui Patrício,Rui Pedro dos Santos Patrício,Goalkeeper,WOL,2,0
+2128476,Sanchez,Robert Sanchez,Goalkeeper,BHA,2,0
+2128476,Areola,Alphonse Areola,Goalkeeper,FUL,5,0
+2128477,Martinez,Emiliano Martinez,Goalkeeper,AVL,2,0
+2128477,Pope,Nick Pope,Goalkeeper,BUR,8,0
+2128478,Pickford,Jordan Pickford,Goalkeeper,EVE,5,0
+2128478,Schmeichel,Kasper Schmeichel,Goalkeeper,LEI,1,0
+2128479,De Gea,David De Gea,Goalkeeper,MUN,1,0
+2128479,Ramsdale,Aaron Ramsdale,Goalkeeper,SHU,3,0
+2128480,Ederson,Ederson Santana de Moraes,Goalkeeper,MCI,1,0
+2128480,Johnstone,Sam Johnstone,Goalkeeper,WBA,2,0
+2128481,Mendy (Edouard),Edouard Mendy,Goalkeeper,CHE,0,0
+2128481,Rui Patrício,Rui Pedro dos Santos Patrício,Goalkeeper,WOL,5,0
+2128482,Guaita,Vicente Guaita,Goalkeeper,CRY,5,0
+2128482,Fabianski,Lukasz Fabianski,Goalkeeper,WHU,1,0
+2128483,Meslier,Illan Meslier,Goalkeeper,LEE,4,0
+2128483,Darlow,Karl Darlow,Goalkeeper,NEW,1,0
+2128484,Leno,Bernd Leno,Goalkeeper,ARS,4,0
+2128484,McCarthy (Alex),Alex McCarthy,Goalkeeper,SOU,1,0
+2128485,Alisson,Alisson Ramses Becker,Goalkeeper,LIV,1,0
+2128485,Lloris,Hugo Lloris,Goalkeeper,TOT,4,0
+2128486,Leno,Bernd Leno,Goalkeeper,ARS,4,0
+2128486,De Gea,David De Gea,Goalkeeper,MUN,3,0
+2128487,Sanchez,Robert Sanchez,Goalkeeper,BHA,4,0
+2128487,Lloris,Hugo Lloris,Goalkeeper,TOT,2,0
+2128488,Pope,Nick Pope,Goalkeeper,BUR,7,0
+2128488,Mendy (Edouard),Edouard Mendy,Goalkeeper,CHE,0,0
+2128489,Guaita,Vicente Guaita,Goalkeeper,CRY,4,0
+2128489,Rui Patrício,Rui Pedro dos Santos Patrício,Goalkeeper,WOL,1,0
+2128490,Pickford,Jordan Pickford,Goalkeeper,EVE,1,0
+2128490,Darlow,Karl Darlow,Goalkeeper,NEW,3,0
+2128491,Meslier,Illan Meslier,Goalkeeper,LEE,7,0
+2128491,Schmeichel,Kasper Schmeichel,Goalkeeper,LEI,3,0
+2128492,Ederson,Ederson Santana de Moraes,Goalkeeper,MCI,1,0
+2128492,Ramsdale,Aaron Ramsdale,Goalkeeper,SHU,4,0
+2128493,Martinez,Emiliano Martinez,Goalkeeper,AVL,4,0
+2128493,McCarthy (Alex),Alex McCarthy,Goalkeeper,SOU,3,0
+2128494,Areola,Alphonse Areola,Goalkeeper,FUL,1,0
+2128494,Johnstone,Sam Johnstone,Goalkeeper,WBA,5,0
+2128495,Alisson,Alisson Ramses Becker,Goalkeeper,LIV,1,0
+2128495,Fabianski,Lukasz Fabianski,Goalkeeper,WHU,2,0
+2128496,Martinez,Emiliano Martinez,Goalkeeper,AVL,6,0
+2128496,Fabianski,Lukasz Fabianski,Goalkeeper,WHU,1,0
+2128497,Pope,Nick Pope,Goalkeeper,BUR,4,0
+2128497,Ederson,Ederson Santana de Moraes,Goalkeeper,MCI,0,0
+2128498,Areola,Alphonse Areola,Goalkeeper,FUL,3,0
+2128498,Schmeichel,Kasper Schmeichel,Goalkeeper,LEI,1,0
+2128499,Olsen,Robin Olsen,Goalkeeper,EVE,6,0
+2128499,Meslier,Illan Meslier,Goalkeeper,LEE,4,0
+2128500,De Gea,David De Gea,Goalkeeper,MUN,1,0
+2128500,McCarthy (Alex),Alex McCarthy,Goalkeeper,SOU,6,0
+2128501,Ramsdale,Aaron Ramsdale,Goalkeeper,SHU,3,0
+2128501,Johnstone,Sam Johnstone,Goalkeeper,WBA,4,0
+2128502,Leno,Bernd Leno,Goalkeeper,ARS,3,0
+2128502,Rúnarsson,Rúnar Rúnarsson,Goalkeeper,ARS,2,0
+2128502,Rui Patrício,Rui Pedro dos Santos Patrício,Goalkeeper,WOL,2,0
+2128503,Sanchez,Robert Sanchez,Goalkeeper,BHA,1,0
+2128503,Kelleher,Caoimhin Kelleher,Goalkeeper,LIV,3,0
+2128504,Guaita,Vicente Guaita,Goalkeeper,CRY,4,0
+2128504,Darlow,Karl Darlow,Goalkeeper,NEW,1,0
+2128505,Mendy (Edouard),Edouard Mendy,Goalkeeper,CHE,2,0
+2128505,Lloris,Hugo Lloris,Goalkeeper,TOT,1,0
+2128506,Mat Ryan,Mathew Ryan,Goalkeeper,ARS,7,0
+2128506,Martinez,Emiliano Martinez,Goalkeeper,AVL,3,0
+2128507,Sanchez,Robert Sanchez,Goalkeeper,BHA,6,0
+2128507,Pope,Nick Pope,Goalkeeper,BUR,1,0
+2128508,Areola,Alphonse Areola,Goalkeeper,FUL,1,0
+2128508,Fabianski,Lukasz Fabianski,Goalkeeper,WHU,3,0
+2128509,Guaita,Vicente Guaita,Goalkeeper,CRY,5,0
+2128509,Meslier,Illan Meslier,Goalkeeper,LEE,3,0
+2128510,Alisson,Alisson Ramses Becker,Goalkeeper,LIV,1,0
+2128510,Ederson,Ederson Santana de Moraes,Goalkeeper,MCI,2,0
+2128511,Olsen,Robin Olsen,Goalkeeper,EVE,2,0
+2128511,De Gea,David De Gea,Goalkeeper,MUN,0,0
+2128512,Darlow,Karl Darlow,Goalkeeper,NEW,3,0
+2128512,McCarthy (Alex),Alex McCarthy,Goalkeeper,SOU,1,0
+2128513,Mendy (Edouard),Edouard Mendy,Goalkeeper,CHE,3,0
+2128513,Ramsdale,Aaron Ramsdale,Goalkeeper,SHU,0,0
+2128514,Lloris,Hugo Lloris,Goalkeeper,TOT,1,0
+2128514,Johnstone,Sam Johnstone,Goalkeeper,WBA,4,0
+2128515,Schmeichel,Kasper Schmeichel,Goalkeeper,LEI,1,0
+2128515,Rui Patrício,Rui Pedro dos Santos Patrício,Goalkeeper,WOL,3,0
+2128516,Leno,Bernd Leno,Goalkeeper,ARS,3,0
+2128516,Meslier,Illan Meslier,Goalkeeper,LEE,1,0
+2128517,Martinez,Emiliano Martinez,Goalkeeper,AVL,9,0
+2128517,Sanchez,Robert Sanchez,Goalkeeper,BHA,1,0
+2128518,Kepa,Kepa Arrizabalaga Revuelta,Goalkeeper,CHE,4,0
+2128518,Darlow,Karl Darlow,Goalkeeper,NEW,3,0
+2128519,Pope,Nick Pope,Goalkeeper,BUR,3,0
+2128519,Guaita,Vicente Guaita,Goalkeeper,CRY,1,0
+2128520,Olsen,Robin Olsen,Goalkeeper,EVE,1,0
+2128520,Areola,Alphonse Areola,Goalkeeper,FUL,2,0
+2128521,Schmeichel,Kasper Schmeichel,Goalkeeper,LEI,3,0
+2128521,Alisson,Alisson Ramses Becker,Goalkeeper,LIV,3,0
+2128522,Ederson,Ederson Santana de Moraes,Goalkeeper,MCI,3,0
+2128522,Lloris,Hugo Lloris,Goalkeeper,TOT,3,0
+2128523,McCarthy (Alex),Alex McCarthy,Goalkeeper,SOU,2,0
+2128523,Rui Patrício,Rui Pedro dos Santos Patrício,Goalkeeper,WOL,2,0
+2128524,De Gea,David De Gea,Goalkeeper,MUN,2,0
+2128524,Johnstone,Sam Johnstone,Goalkeeper,WBA,5,0
+2128525,Ramsdale,Aaron Ramsdale,Goalkeeper,SHU,6,0
+2128525,Fabianski,Lukasz Fabianski,Goalkeeper,WHU,5,0
+2128526,Leno,Bernd Leno,Goalkeeper,ARS,2,0
+2128526,Ederson,Ederson Santana de Moraes,Goalkeeper,MCI,1,0
+2128527,Martinez,Emiliano Martinez,Goalkeeper,AVL,5,0
+2128527,Schmeichel,Kasper Schmeichel,Goalkeeper,LEI,1,0
+2128528,Sanchez,Robert Sanchez,Goalkeeper,BHA,0,0
+2128528,Guaita,Vicente Guaita,Goalkeeper,CRY,4,0
+2128529,Pope,Nick Pope,Goalkeeper,BUR,2,0
+2128529,Johnstone,Sam Johnstone,Goalkeeper,WBA,1,0
+2128530,Areola,Alphonse Areola,Goalkeeper,FUL,2,0
+2128530,Ramsdale,Aaron Ramsdale,Goalkeeper,SHU,4,0
+2128531,Pickford,Jordan Pickford,Goalkeeper,EVE,6,0
+2128531,Alisson,Alisson Ramses Becker,Goalkeeper,LIV,4,0
+2128532,De Gea,David De Gea,Goalkeeper,MUN,5,0
+2128532,Darlow,Karl Darlow,Goalkeeper,NEW,5,0
+2128533,Mendy (Edouard),Edouard Mendy,Goalkeeper,CHE,0,0
+2128533,McCarthy (Alex),Alex McCarthy,Goalkeeper,SOU,2,0
+2128534,Lloris,Hugo Lloris,Goalkeeper,TOT,2,0
+2128534,Fabianski,Lukasz Fabianski,Goalkeeper,WHU,3,0
+2128535,Meslier,Illan Meslier,Goalkeeper,LEE,5,0
+2128535,Rui Patrício,Rui Pedro dos Santos Patrício,Goalkeeper,WOL,8,0
+2128536,Mendy (Edouard),Edouard Mendy,Goalkeeper,CHE,4,0
+2128536,De Gea,David De Gea,Goalkeeper,MUN,6,0
+2128537,Guaita,Vicente Guaita,Goalkeeper,CRY,4,0
+2128537,Areola,Alphonse Areola,Goalkeeper,FUL,1,0
+2128538,Pickford,Jordan Pickford,Goalkeeper,EVE,1,0
+2128538,Forster,Fraser Forster,Goalkeeper,SOU,0,0
+2128539,Martinez,Emiliano Martinez,Goalkeeper,AVL,3,0
+2128539,Meslier,Illan Meslier,Goalkeeper,LEE,3,0
+2128540,Leno,Bernd Leno,Goalkeeper,ARS,2,0
+2128540,Schmeichel,Kasper Schmeichel,Goalkeeper,LEI,1,0
+2128541,Ederson,Ederson Santana de Moraes,Goalkeeper,MCI,2,0
+2128541,Randolph,Darren Randolph,Goalkeeper,WHU,1,0
+2128542,Dubravka,Martin Dubravka,Goalkeeper,NEW,3,0
+2128542,Rui Patrício,Rui Pedro dos Santos Patrício,Goalkeeper,WOL,5,0
+2128543,Adrián,Adrián San Miguel del Castillo,Goalkeeper,LIV,3,0
+2128543,Ramsdale,Aaron Ramsdale,Goalkeeper,SHU,7,0
+2128544,Pope,Nick Pope,Goalkeeper,BUR,3,0
+2128544,Lloris,Hugo Lloris,Goalkeeper,TOT,3,0
+2128545,Sanchez,Robert Sanchez,Goalkeeper,BHA,1,0
+2128545,Johnstone,Sam Johnstone,Goalkeeper,WBA,6,0
+2128546,Martinez,Emiliano Martinez,Goalkeeper,AVL,2,0
+2128546,Rui Patrício,Rui Pedro dos Santos Patrício,Goalkeeper,WOL,1,0
+2128547,Sanchez,Robert Sanchez,Goalkeeper,BHA,2,0
+2128547,Schmeichel,Kasper Schmeichel,Goalkeeper,LEI,1,0
+2128548,Leno,Bernd Leno,Goalkeeper,ARS,4,0
+2128548,Pope,Nick Pope,Goalkeeper,BUR,1,0
+2128549,Mendy (Edouard),Edouard Mendy,Goalkeeper,CHE,1,0
+2128549,Pickford,Jordan Pickford,Goalkeeper,EVE,8,0
+2128550,Areola,Alphonse Areola,Goalkeeper,FUL,3,0
+2128550,Alisson,Alisson Ramses Becker,Goalkeeper,LIV,2,0
+2128551,Ederson,Ederson Santana de Moraes,Goalkeeper,MCI,4,0
+2128551,Henderson (Dean),Dean Henderson,Goalkeeper,MUN,6,0
+2128552,Ramsdale,Aaron Ramsdale,Goalkeeper,SHU,5,0
+2128552,Forster,Fraser Forster,Goalkeeper,SOU,2,0
+2128553,Guaita,Vicente Guaita,Goalkeeper,CRY,1,0
+2128553,Lloris,Hugo Lloris,Goalkeeper,TOT,0,0
+2128554,Dubravka,Martin Dubravka,Goalkeeper,NEW,3,0
+2128554,Johnstone,Sam Johnstone,Goalkeeper,WBA,5,0
+2128555,Meslier,Illan Meslier,Goalkeeper,LEE,3,1
+2128555,Fabianski,Lukasz Fabianski,Goalkeeper,WHU,2,0
+2128556,Leno,Bernd Leno,Goalkeeper,ARS,2,0
+2128556,Lloris,Hugo Lloris,Goalkeeper,TOT,1,0
+2128557,Guaita,Vicente Guaita,Goalkeeper,CRY,1,0
+2128557,Johnstone,Sam Johnstone,Goalkeeper,WBA,3,0
+2128558,Pope,Nick Pope,Goalkeeper,BUR,3,0
+2128558,Pickford,Jordan Pickford,Goalkeeper,EVE,0,0
+2128558,João Virgínia,João Manuel Neves Virgínia,Goalkeeper,EVE,3,0
+2128559,Areola,Alphonse Areola,Goalkeeper,FUL,4,0
+2128559,Ederson,Ederson Santana de Moraes,Goalkeeper,MCI,0,0
+2128560,Mendy (Edouard),Edouard Mendy,Goalkeeper,CHE,4,0
+2128560,Meslier,Illan Meslier,Goalkeeper,LEE,8,0
+2128561,Schmeichel,Kasper Schmeichel,Goalkeeper,LEI,0,0
+2128561,Ramsdale,Aaron Ramsdale,Goalkeeper,SHU,5,0
+2128562,Henderson (Dean),Dean Henderson,Goalkeeper,MUN,0,0
+2128562,Fabianski,Lukasz Fabianski,Goalkeeper,WHU,4,0
+2128563,Martinez,Emiliano Martinez,Goalkeeper,AVL,3,0
+2128563,Dubravka,Martin Dubravka,Goalkeeper,NEW,6,0
+2128564,Sanchez,Robert Sanchez,Goalkeeper,BHA,3,0
+2128564,Forster,Fraser Forster,Goalkeeper,SOU,4,0
+2128565,Alisson,Alisson Ramses Becker,Goalkeeper,LIV,5,0
+2128565,Ruddy,John Ruddy,Goalkeeper,WOL,0,0
+2128565,Rui Patrício,Rui Pedro dos Santos Patrício,Goalkeeper,WOL,3,0
+2128566,Sanchez,Robert Sanchez,Goalkeeper,BHA,1,0
+2128566,Dubravka,Martin Dubravka,Goalkeeper,NEW,3,0
+2128567,Pope,Nick Pope,Goalkeeper,BUR,3,0
+2128567,Schmeichel,Kasper Schmeichel,Goalkeeper,LEI,6,0
+2128568,Guaita,Vicente Guaita,Goalkeeper,CRY,1,0
+2128568,Henderson (Dean),Dean Henderson,Goalkeeper,MUN,2,0
+2128569,Areola,Alphonse Areola,Goalkeeper,FUL,2,0
+2128569,Meslier,Illan Meslier,Goalkeeper,LEE,5,0
+2128570,Mendy (Edouard),Edouard Mendy,Goalkeeper,CHE,1,0
+2128570,Alisson,Alisson Ramses Becker,Goalkeeper,LIV,3,0
+2128571,Ederson,Ederson Santana de Moraes,Goalkeeper,MCI,0,0
+2128571,Rui Patrício,Rui Pedro dos Santos Patrício,Goalkeeper,WOL,7,0
+2128572,Martinez,Emiliano Martinez,Goalkeeper,AVL,1,0
+2128572,Ramsdale,Aaron Ramsdale,Goalkeeper,SHU,4,0
+2128573,McCarthy (Alex),Alex McCarthy,Goalkeeper,SOU,1,0
+2128573,Lloris,Hugo Lloris,Goalkeeper,TOT,4,0
+2128574,Pickford,Jordan Pickford,Goalkeeper,EVE,3,0
+2128574,Johnstone,Sam Johnstone,Goalkeeper,WBA,2,0
+2128575,Leno,Bernd Leno,Goalkeeper,ARS,2,0
+2128575,Fabianski,Lukasz Fabianski,Goalkeeper,WHU,5,0
+2128576,Leno,Bernd Leno,Goalkeeper,ARS,4,0
+2128576,Alisson,Alisson Ramses Becker,Goalkeeper,LIV,2,0
+2128577,Martinez,Emiliano Martinez,Goalkeeper,AVL,6,0
+2128577,Areola,Alphonse Areola,Goalkeeper,FUL,1,0
+2128578,Mendy (Edouard),Edouard Mendy,Goalkeeper,CHE,2,0
+2128578,Johnstone,Sam Johnstone,Goalkeeper,WBA,5,0
+2128579,Guaita,Vicente Guaita,Goalkeeper,CRY,6,0
+2128579,Olsen,Robin Olsen,Goalkeeper,EVE,5,0
+2128580,Meslier,Illan Meslier,Goalkeeper,LEE,0,0
+2128580,Ramsdale,Aaron Ramsdale,Goalkeeper,SHU,7,0
+2128581,Schmeichel,Kasper Schmeichel,Goalkeeper,LEI,2,0
+2128581,Ederson,Ederson Santana de Moraes,Goalkeeper,MCI,2,0
+2128582,Sanchez,Robert Sanchez,Goalkeeper,BHA,5,0
+2128582,Henderson (Dean),Dean Henderson,Goalkeeper,MUN,2,0
+2128583,Dubravka,Martin Dubravka,Goalkeeper,NEW,2,0
+2128583,Lloris,Hugo Lloris,Goalkeeper,TOT,4,0
+2128584,Pope,Nick Pope,Goalkeeper,BUR,5,0
+2128584,Forster,Fraser Forster,Goalkeeper,SOU,3,0
+2128585,Fabianski,Lukasz Fabianski,Goalkeeper,WHU,3,0
+2128585,Rui Patrício,Rui Pedro dos Santos Patrício,Goalkeeper,WOL,3,0
+2128586,Sanchez,Robert Sanchez,Goalkeeper,BHA,1,0
+2128586,Olsen,Robin Olsen,Goalkeeper,EVE,3,0
+2128587,Peacock-Farrell,Bailey Peacock-Farrell,Goalkeeper,BUR,2,0
+2128587,Dubravka,Martin Dubravka,Goalkeeper,NEW,4,0
+2128588,Mendy (Edouard),Edouard Mendy,Goalkeeper,CHE,0,0
+2128588,Guaita,Vicente Guaita,Goalkeeper,CRY,5,0
+2128589,Areola,Alphonse Areola,Goalkeeper,FUL,2,0
+2128589,Rui Patrício,Rui Pedro dos Santos Patrício,Goalkeeper,WOL,3,0
+2128590,Martinez,Emiliano Martinez,Goalkeeper,AVL,8,0
+2128590,Alisson,Alisson Ramses Becker,Goalkeeper,LIV,4,0
+2128591,Meslier,Illan Meslier,Goalkeeper,LEE,6,0
+2128591,Ederson,Ederson Santana de Moraes,Goalkeeper,MCI,0,0
+2128592,Leno,Bernd Leno,Goalkeeper,ARS,2,0
+2128592,Ramsdale,Aaron Ramsdale,Goalkeeper,SHU,2,0
+2128593,Henderson (Dean),Dean Henderson,Goalkeeper,MUN,2,0
+2128593,Lloris,Hugo Lloris,Goalkeeper,TOT,4,0
+2128594,Forster,Fraser Forster,Goalkeeper,SOU,3,0
+2128594,Johnstone,Sam Johnstone,Goalkeeper,WBA,4,1
+2128595,Schmeichel,Kasper Schmeichel,Goalkeeper,LEI,1,0
+2128595,Fabianski,Lukasz Fabianski,Goalkeeper,WHU,2,0
+2128596,Mat Ryan,Mathew Ryan,Goalkeeper,ARS,0,0
+2128596,Areola,Alphonse Areola,Goalkeeper,FUL,4,0
+2128597,Martinez,Emiliano Martinez,Goalkeeper,AVL,1,0
+2128597,Ederson,Ederson Santana de Moraes,Goalkeeper,MCI,2,0
+2128598,Sanchez,Robert Sanchez,Goalkeeper,BHA,4,0
+2128598,Kepa,Kepa Arrizabalaga Revuelta,Goalkeeper,CHE,2,0
+2128599,Pickford,Jordan Pickford,Goalkeeper,EVE,1,0
+2128599,Lloris,Hugo Lloris,Goalkeeper,TOT,5,0
+2128600,Meslier,Illan Meslier,Goalkeeper,LEE,6,0
+2128600,Alisson,Alisson Ramses Becker,Goalkeeper,LIV,4,0
+2128601,Schmeichel,Kasper Schmeichel,Goalkeeper,LEI,1,0
+2128601,Johnstone,Sam Johnstone,Goalkeeper,WBA,4,0
+2128602,Peacock-Farrell,Bailey Peacock-Farrell,Goalkeeper,BUR,5,0
+2128602,Henderson (Dean),Dean Henderson,Goalkeeper,MUN,2,0
+2128603,Dubravka,Martin Dubravka,Goalkeeper,NEW,4,0
+2128603,Fabianski,Lukasz Fabianski,Goalkeeper,WHU,4,0
+2128604,Guaita,Vicente Guaita,Goalkeeper,CRY,3,0
+2128604,Forster,Fraser Forster,Goalkeeper,SOU,3,1
+2128605,Ramsdale,Aaron Ramsdale,Goalkeeper,SHU,3,0
+2128605,Rui Patrício,Rui Pedro dos Santos Patrício,Goalkeeper,WOL,2,0
+2128606,Leno,Bernd Leno,Goalkeeper,ARS,1,0
+2128606,Pickford,Jordan Pickford,Goalkeeper,EVE,3,0
+2128607,Martinez,Emiliano Martinez,Goalkeeper,AVL,3,0
+2128607,Johnstone,Sam Johnstone,Goalkeeper,WBA,9,0
+2128608,Areola,Alphonse Areola,Goalkeeper,FUL,2,0
+2128608,Lloris,Hugo Lloris,Goalkeeper,TOT,3,0
+2128609,Meslier,Illan Meslier,Goalkeeper,LEE,4,0
+2128609,Henderson (Dean),Dean Henderson,Goalkeeper,MUN,3,0
+2128610,Guaita,Vicente Guaita,Goalkeeper,CRY,3,0
+2128610,Schmeichel,Kasper Schmeichel,Goalkeeper,LEI,1,0
+2128611,Alisson,Alisson Ramses Becker,Goalkeeper,LIV,3,0
+2128611,Dubravka,Martin Dubravka,Goalkeeper,NEW,8,0
+2128612,Ederson,Ederson Santana de Moraes,Goalkeeper,MCI,4,0
+2128612,McCarthy (Alex),Alex McCarthy,Goalkeeper,SOU,5,0
+2128613,Sanchez,Robert Sanchez,Goalkeeper,BHA,2,0
+2128613,Ramsdale,Aaron Ramsdale,Goalkeeper,SHU,4,0
+2128614,Mendy (Edouard),Edouard Mendy,Goalkeeper,CHE,2,0
+2128614,Fabianski,Lukasz Fabianski,Goalkeeper,WHU,5,0
+2128615,Pope,Nick Pope,Goalkeeper,BUR,2,0
+2128615,Rui Patrício,Rui Pedro dos Santos Patrício,Goalkeeper,WOL,3,0
+2128616,Sanchez,Robert Sanchez,Goalkeeper,BHA,2,0
+2128616,Meslier,Illan Meslier,Goalkeeper,LEE,3,0
+2128617,Pope,Nick Pope,Goalkeeper,BUR,2,0
+2128617,Fabianski,Lukasz Fabianski,Goalkeeper,WHU,1,0
+2128618,Mendy (Edouard),Edouard Mendy,Goalkeeper,CHE,3,0
+2128618,Areola,Alphonse Areola,Goalkeeper,FUL,3,0
+2128619,Guaita,Vicente Guaita,Goalkeeper,CRY,1,0
+2128619,Ederson,Ederson Santana de Moraes,Goalkeeper,MCI,4,0
+2128620,Martinez,Emiliano Martinez,Goalkeeper,AVL,2,0
+2128620,Pickford,Jordan Pickford,Goalkeeper,EVE,3,0
+2128621,Alisson,Alisson Ramses Becker,Goalkeeper,LIV,0,0
+2128621,Henderson (Dean),Dean Henderson,Goalkeeper,MUN,4,0
+2128622,Mat Ryan,Mathew Ryan,Goalkeeper,ARS,1,0
+2128622,Dubravka,Martin Dubravka,Goalkeeper,NEW,2,0
+2128623,Schmeichel,Kasper Schmeichel,Goalkeeper,LEI,2,0
+2128623,McCarthy (Alex),Alex McCarthy,Goalkeeper,SOU,8,0
+2128624,Ramsdale,Aaron Ramsdale,Goalkeeper,SHU,6,0
+2128624,Lloris,Hugo Lloris,Goalkeeper,TOT,1,0
+2128625,Johnstone,Sam Johnstone,Goalkeeper,WBA,9,0
+2128625,Rui Patrício,Rui Pedro dos Santos Patrício,Goalkeeper,WOL,2,0
+2128626,Leno,Bernd Leno,Goalkeeper,ARS,0,0
+2128626,Johnstone,Sam Johnstone,Goalkeeper,WBA,4,0
+2128627,Martinez,Emiliano Martinez,Goalkeeper,AVL,4,0
+2128627,Henderson (Dean),Dean Henderson,Goalkeeper,MUN,5,0
+2128628,Pope,Nick Pope,Goalkeeper,BUR,4,0
+2128628,Areola,Alphonse Areola,Goalkeeper,FUL,3,0
+2128629,Meslier,Illan Meslier,Goalkeeper,LEE,2,0
+2128629,Lloris,Hugo Lloris,Goalkeeper,TOT,5,0
+2128630,Schmeichel,Kasper Schmeichel,Goalkeeper,LEI,2,0
+2128630,Dubravka,Martin Dubravka,Goalkeeper,NEW,7,0
+2128631,Alisson,Alisson Ramses Becker,Goalkeeper,LIV,6,0
+2128631,Forster,Fraser Forster,Goalkeeper,SOU,4,0
+2128632,Mendy (Edouard),Edouard Mendy,Goalkeeper,CHE,3,1
+2128632,Ederson,Ederson Santana de Moraes,Goalkeeper,MCI,3,0
+2128633,Guaita,Vicente Guaita,Goalkeeper,CRY,0,0
+2128633,Ramsdale,Aaron Ramsdale,Goalkeeper,SHU,6,0
+2128634,Pickford,Jordan Pickford,Goalkeeper,EVE,0,0
+2128634,Fabianski,Lukasz Fabianski,Goalkeeper,WHU,2,0
+2128635,Sanchez,Robert Sanchez,Goalkeeper,BHA,4,0
+2128635,Rui Patrício,Rui Pedro dos Santos Patrício,Goalkeeper,WOL,2,0
+2128636,Sanchez,Robert Sanchez,Goalkeeper,BHA,1,0
+2128636,Fabianski,Lukasz Fabianski,Goalkeeper,WHU,1,0
+2128637,Peacock-Farrell,Bailey Peacock-Farrell,Goalkeeper,BUR,2,0
+2128637,Meslier,Illan Meslier,Goalkeeper,LEE,4,0
+2128638,Pickford,Jordan Pickford,Goalkeeper,EVE,2,0
+2128638,Ramsdale,Aaron Ramsdale,Goalkeeper,SHU,6,0
+2128639,Schmeichel,Kasper Schmeichel,Goalkeeper,LEI,0,0
+2128639,De Gea,David De Gea,Goalkeeper,MUN,1,0
+2128640,Alisson,Alisson Ramses Becker,Goalkeeper,LIV,2,0
+2128640,Johnstone,Sam Johnstone,Goalkeeper,WBA,4,0
+2128641,Leno,Bernd Leno,Goalkeeper,ARS,4,0
+2128641,Kepa,Kepa Arrizabalaga Revuelta,Goalkeeper,CHE,2,0
+2128642,Martinez,Emiliano Martinez,Goalkeeper,AVL,5,0
+2128642,Butland,Jack Butland,Goalkeeper,CRY,3,0
+2128643,Carson,Scott Carson,Goalkeeper,MCI,2,1
+2128643,Dubravka,Martin Dubravka,Goalkeeper,NEW,2,0
+2128644,Areola,Alphonse Areola,Goalkeeper,FUL,3,0
+2128644,McCarthy (Alex),Alex McCarthy,Goalkeeper,SOU,2,0
+2128645,Lloris,Hugo Lloris,Goalkeeper,TOT,3,0
+2128645,Rui Patrício,Rui Pedro dos Santos Patrício,Goalkeeper,WOL,9,0
+2128646,Sanchez,Robert Sanchez,Goalkeeper,BHA,2,0
+2128646,Ederson,Ederson Santana de Moraes,Goalkeeper,MCI,3,0
+2128647,Norris,Will Norris,Goalkeeper,BUR,0,0
+2128647,Alisson,Alisson Ramses Becker,Goalkeeper,LIV,4,0
+2128648,Mendy (Edouard),Edouard Mendy,Goalkeeper,CHE,2,0
+2128648,Schmeichel,Kasper Schmeichel,Goalkeeper,LEI,4,0
+2128649,Leno,Bernd Leno,Goalkeeper,ARS,5,0
+2128649,Guaita,Vicente Guaita,Goalkeeper,CRY,0,0
+2128650,Pickford,Jordan Pickford,Goalkeeper,EVE,3,0
+2128650,Ruddy,John Ruddy,Goalkeeper,WOL,3,0
+2128651,Areola,Alphonse Areola,Goalkeeper,FUL,5,0
+2128651,De Gea,David De Gea,Goalkeeper,MUN,4,0
+2128652,Dubravka,Martin Dubravka,Goalkeeper,NEW,1,0
+2128652,Ramsdale,Aaron Ramsdale,Goalkeeper,SHU,4,0
+2128653,Kiko Casilla,Francisco Casilla Cortés,Goalkeeper,LEE,3,0
+2128653,McCarthy (Alex),Alex McCarthy,Goalkeeper,SOU,5,0
+2128654,Martinez,Emiliano Martinez,Goalkeeper,AVL,3,0
+2128654,Lloris,Hugo Lloris,Goalkeeper,TOT,3,0
+2128655,Johnstone,Sam Johnstone,Goalkeeper,WBA,6,0
+2128655,Randolph,Darren Randolph,Goalkeeper,WHU,3,0
+2128656,Leno,Bernd Leno,Goalkeeper,ARS,1,0
+2128656,Sanchez,Robert Sanchez,Goalkeeper,BHA,3,0
+2128657,Martinez,Emiliano Martinez,Goalkeeper,AVL,6,0
+2128657,Kepa,Kepa Arrizabalaga Revuelta,Goalkeeper,CHE,0,0
+2128657,Mendy (Edouard),Edouard Mendy,Goalkeeper,CHE,1,0
+2128658,Rodák,Marek Rodák,Goalkeeper,FUL,2,0
+2128658,Dubravka,Martin Dubravka,Goalkeeper,NEW,0,0
+2128659,Kiko Casilla,Francisco Casilla Cortés,Goalkeeper,LEE,5,0
+2128659,Johnstone,Sam Johnstone,Goalkeeper,WBA,6,0
+2128660,Schmeichel,Kasper Schmeichel,Goalkeeper,LEI,1,0
+2128660,Lloris,Hugo Lloris,Goalkeeper,TOT,4,0
+2128661,Guaita,Vicente Guaita,Goalkeeper,CRY,3,0
+2128661,Alisson,Alisson Ramses Becker,Goalkeeper,LIV,4,0
+2128662,Pickford,Jordan Pickford,Goalkeeper,EVE,6,0
+2128662,Ederson,Ederson Santana de Moraes,Goalkeeper,MCI,3,1
+2128663,Norris,Will Norris,Goalkeeper,BUR,2,0
+2128663,Ramsdale,Aaron Ramsdale,Goalkeeper,SHU,3,0
+2128664,McCarthy (Alex),Alex McCarthy,Goalkeeper,SOU,4,0
+2128664,Fabianski,Lukasz Fabianski,Goalkeeper,WHU,5,0
+2128665,Henderson (Dean),Dean Henderson,Goalkeeper,MUN,3,0
+2128665,Rui Patrício,Rui Pedro dos Santos Patrício,Goalkeeper,WOL,2,0

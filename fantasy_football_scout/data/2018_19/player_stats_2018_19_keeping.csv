@@ -1,0 +1,765 @@
+match_id,nick_name,full_name,pos,team,saves,pen_saves
+987592,Begovic,Asmir Begovic,Goalkeeper,BOU,1,0
+987592,Etheridge,Neil Etheridge,Goalkeeper,CAR,2,1
+987593,Cech,Petr Cech,Goalkeeper,ARS,6,0
+987593,Ederson,Ederson Santana de Moraes,Goalkeeper,MCI,3,0
+987594,Hennessey,Wayne Hennessey,Goalkeeper,CRY,6,0
+987594,Fabri,Fabricio Agosto Ramírez,Goalkeeper,FUL,8,0
+987595,Kepa,Kepa Arrizabalaga Revuelta,Goalkeeper,CHE,1,0
+987595,Hamer,Ben Hamer,Goalkeeper,HUD,1,0
+987596,Alisson,Alisson Ramses Becker,Goalkeeper,LIV,2,0
+987596,Fabianski,Lukasz Fabianski,Goalkeeper,WHU,4,0
+987597,Schmeichel,Kasper Schmeichel,Goalkeeper,LEI,4,0
+987597,De Gea,David De Gea,Goalkeeper,MUN,3,0
+987598,Dubravka,Martin Dubravka,Goalkeeper,NEW,4,0
+987598,Lloris,Hugo Lloris,Goalkeeper,TOT,1,0
+987599,Hart,Joe Hart,Goalkeeper,BUR,3,0
+987599,McCarthy (Alex),Alex McCarthy,Goalkeeper,SOU,6,0
+987600,Mat Ryan,Mathew Ryan,Goalkeeper,BHA,3,0
+987600,Foster,Ben Foster,Goalkeeper,WAT,0,0
+987601,Pickford,Jordan Pickford,Goalkeeper,EVE,2,0
+987601,Rui Patrício,Rui Pedro dos Santos Patrício,Goalkeeper,WOL,3,0
+987602,Mat Ryan,Mathew Ryan,Goalkeeper,BHA,1,0
+987602,De Gea,David De Gea,Goalkeeper,MUN,0,0
+987603,Hart,Joe Hart,Goalkeeper,BUR,3,0
+987603,Foster,Ben Foster,Goalkeeper,WAT,2,0
+987604,Etheridge,Neil Etheridge,Goalkeeper,CAR,6,1
+987604,Dubravka,Martin Dubravka,Goalkeeper,NEW,0,0
+987605,Cech,Petr Cech,Goalkeeper,ARS,8,0
+987605,Kepa,Kepa Arrizabalaga Revuelta,Goalkeeper,CHE,4,0
+987606,Hennessey,Wayne Hennessey,Goalkeeper,CRY,4,0
+987606,Alisson,Alisson Ramses Becker,Goalkeeper,LIV,2,0
+987607,Pickford,Jordan Pickford,Goalkeeper,EVE,3,0
+987607,McCarthy (Alex),Alex McCarthy,Goalkeeper,SOU,5,0
+987608,Schmeichel,Kasper Schmeichel,Goalkeeper,LEI,2,0
+987608,Rui Patrício,Rui Pedro dos Santos Patrício,Goalkeeper,WOL,1,0
+987609,Hamer,Ben Hamer,Goalkeeper,HUD,9,0
+987609,Ederson,Ederson Santana de Moraes,Goalkeeper,MCI,0,0
+987610,Fabri,Fabricio Agosto Ramírez,Goalkeeper,FUL,8,0
+987610,Lloris,Hugo Lloris,Goalkeeper,TOT,2,0
+987611,Begovic,Asmir Begovic,Goalkeeper,BOU,4,0
+987611,Fabianski,Lukasz Fabianski,Goalkeeper,WHU,3,0
+987612,Begovic,Asmir Begovic,Goalkeeper,BOU,1,0
+987612,Pickford,Jordan Pickford,Goalkeeper,EVE,4,0
+987613,Cech,Petr Cech,Goalkeeper,ARS,4,0
+987613,Fabianski,Lukasz Fabianski,Goalkeeper,WHU,9,0
+987614,Hart,Joe Hart,Goalkeeper,BUR,8,0
+987614,Bettinelli,Marcus Bettinelli,Goalkeeper,FUL,0,0
+987615,Etheridge,Neil Etheridge,Goalkeeper,CAR,1,0
+987615,Hamer,Ben Hamer,Goalkeeper,HUD,1,0
+987615,Lössl,Jonas Lössl,Goalkeeper,HUD,3,0
+987616,Mat Ryan,Mathew Ryan,Goalkeeper,BHA,6,0
+987616,Alisson,Alisson Ramses Becker,Goalkeeper,LIV,2,0
+987617,De Gea,David De Gea,Goalkeeper,MUN,2,0
+987617,Lloris,Hugo Lloris,Goalkeeper,TOT,5,0
+987618,Kepa,Kepa Arrizabalaga Revuelta,Goalkeeper,CHE,1,0
+987618,Dubravka,Martin Dubravka,Goalkeeper,NEW,2,0
+987619,Schmeichel,Kasper Schmeichel,Goalkeeper,LEI,4,0
+987619,McCarthy (Alex),Alex McCarthy,Goalkeeper,SOU,3,0
+987620,Hennessey,Wayne Hennessey,Goalkeeper,CRY,3,0
+987620,Foster,Ben Foster,Goalkeeper,WAT,2,0
+987621,Ederson,Ederson Santana de Moraes,Goalkeeper,MCI,1,0
+987621,Rui Patrício,Rui Pedro dos Santos Patrício,Goalkeeper,WOL,5,0
+987622,Mat Ryan,Mathew Ryan,Goalkeeper,BHA,3,0
+987622,Bettinelli,Marcus Bettinelli,Goalkeeper,FUL,3,1
+987623,Hart,Joe Hart,Goalkeeper,BUR,7,1
+987623,De Gea,David De Gea,Goalkeeper,MUN,3,0
+987624,Cech,Petr Cech,Goalkeeper,ARS,1,0
+987624,Etheridge,Neil Etheridge,Goalkeeper,CAR,8,0
+987625,Begovic,Asmir Begovic,Goalkeeper,BOU,4,0
+987625,Kepa,Kepa Arrizabalaga Revuelta,Goalkeeper,CHE,1,0
+987626,Hennessey,Wayne Hennessey,Goalkeeper,CRY,5,1
+987626,McCarthy (Alex),Alex McCarthy,Goalkeeper,SOU,6,0
+987627,Pickford,Jordan Pickford,Goalkeeper,EVE,5,0
+987627,Lössl,Jonas Lössl,Goalkeeper,HUD,0,0
+987628,Schmeichel,Kasper Schmeichel,Goalkeeper,LEI,2,0
+987628,Alisson,Alisson Ramses Becker,Goalkeeper,LIV,4,0
+987629,Ederson,Ederson Santana de Moraes,Goalkeeper,MCI,1,0
+987629,Dubravka,Martin Dubravka,Goalkeeper,NEW,6,0
+987630,Vorm,Michel Vorm,Goalkeeper,TOT,1,0
+987630,Foster,Ben Foster,Goalkeeper,WAT,3,0
+987631,Fabianski,Lukasz Fabianski,Goalkeeper,WHU,5,0
+987631,Rui Patrício,Rui Pedro dos Santos Patrício,Goalkeeper,WOL,3,0
+987632,Begovic,Asmir Begovic,Goalkeeper,BOU,5,0
+987632,Schmeichel,Kasper Schmeichel,Goalkeeper,LEI,1,0
+987633,Etheridge,Neil Etheridge,Goalkeeper,CAR,3,0
+987633,Kepa,Kepa Arrizabalaga Revuelta,Goalkeeper,CHE,1,0
+987634,Pickford,Jordan Pickford,Goalkeeper,EVE,1,0
+987634,Fabianski,Lukasz Fabianski,Goalkeeper,WHU,3,0
+987635,Hennessey,Wayne Hennessey,Goalkeeper,CRY,2,0
+987635,Lössl,Jonas Lössl,Goalkeeper,HUD,1,0
+987636,Bettinelli,Marcus Bettinelli,Goalkeeper,FUL,6,0
+987636,Ederson,Ederson Santana de Moraes,Goalkeeper,MCI,3,0
+987637,Cech,Petr Cech,Goalkeeper,ARS,1,0
+987637,Dubravka,Martin Dubravka,Goalkeeper,NEW,0,0
+987638,Mat Ryan,Mathew Ryan,Goalkeeper,BHA,2,0
+987638,McCarthy (Alex),Alex McCarthy,Goalkeeper,SOU,2,0
+987639,Alisson,Alisson Ramses Becker,Goalkeeper,LIV,2,0
+987639,Vorm,Michel Vorm,Goalkeeper,TOT,8,0
+987640,De Gea,David De Gea,Goalkeeper,MUN,4,0
+987640,Foster,Ben Foster,Goalkeeper,WAT,4,0
+987641,Hart,Joe Hart,Goalkeeper,BUR,6,0
+987641,Rui Patrício,Rui Pedro dos Santos Patrício,Goalkeeper,WOL,2,0
+987642,Cech,Petr Cech,Goalkeeper,ARS,6,0
+987642,Pickford,Jordan Pickford,Goalkeeper,EVE,3,0
+987643,Mat Ryan,Mathew Ryan,Goalkeeper,BHA,5,0
+987643,Gazzaniga,Paulo Gazzaniga,Goalkeeper,TOT,3,0
+987644,Begovic,Asmir Begovic,Goalkeeper,BOU,1,0
+987644,Hart,Joe Hart,Goalkeeper,BUR,5,0
+987645,Etheridge,Neil Etheridge,Goalkeeper,CAR,5,0
+987645,Ederson,Ederson Santana de Moraes,Goalkeeper,MCI,2,0
+987646,Hennessey,Wayne Hennessey,Goalkeeper,CRY,3,0
+987646,Dubravka,Martin Dubravka,Goalkeeper,NEW,4,0
+987647,Bettinelli,Marcus Bettinelli,Goalkeeper,FUL,5,0
+987647,Foster,Ben Foster,Goalkeeper,WAT,2,0
+987648,Lössl,Jonas Lössl,Goalkeeper,HUD,5,0
+987648,Schmeichel,Kasper Schmeichel,Goalkeeper,LEI,1,0
+987649,Alisson,Alisson Ramses Becker,Goalkeeper,LIV,1,0
+987649,McCarthy (Alex),Alex McCarthy,Goalkeeper,SOU,1,0
+987650,De Gea,David De Gea,Goalkeeper,MUN,7,0
+987650,Rui Patrício,Rui Pedro dos Santos Patrício,Goalkeeper,WOL,5,0
+987651,Kepa,Kepa Arrizabalaga Revuelta,Goalkeeper,CHE,1,0
+987651,Fabianski,Lukasz Fabianski,Goalkeeper,WHU,6,0
+987652,Begovic,Asmir Begovic,Goalkeeper,BOU,1,0
+987652,Hennessey,Wayne Hennessey,Goalkeeper,CRY,3,0
+987653,Cech,Petr Cech,Goalkeeper,ARS,2,0
+987653,Leno,Bernd Leno,Goalkeeper,ARS,3,0
+987653,Foster,Ben Foster,Goalkeeper,WAT,1,0
+987654,Hart,Joe Hart,Goalkeeper,BUR,3,0
+987654,Etheridge,Neil Etheridge,Goalkeeper,CAR,0,0
+987655,Kepa,Kepa Arrizabalaga Revuelta,Goalkeeper,CHE,3,0
+987655,Alisson,Alisson Ramses Becker,Goalkeeper,LIV,3,0
+987656,Pickford,Jordan Pickford,Goalkeeper,EVE,0,0
+987656,Bettinelli,Marcus Bettinelli,Goalkeeper,FUL,3,0
+987657,Lössl,Jonas Lössl,Goalkeeper,HUD,4,0
+987657,Gazzaniga,Paulo Gazzaniga,Goalkeeper,TOT,5,0
+987658,Mat Ryan,Mathew Ryan,Goalkeeper,BHA,6,0
+987658,Ederson,Ederson Santana de Moraes,Goalkeeper,MCI,1,0
+987659,Schmeichel,Kasper Schmeichel,Goalkeeper,LEI,1,0
+987659,Dubravka,Martin Dubravka,Goalkeeper,NEW,3,0
+987660,De Gea,David De Gea,Goalkeeper,MUN,1,0
+987660,Fabianski,Lukasz Fabianski,Goalkeeper,WHU,3,0
+987661,McCarthy (Alex),Alex McCarthy,Goalkeeper,SOU,4,0
+987661,Rui Patrício,Rui Pedro dos Santos Patrício,Goalkeeper,WOL,6,0
+987662,Mat Ryan,Mathew Ryan,Goalkeeper,BHA,4,0
+987662,Fabianski,Lukasz Fabianski,Goalkeeper,WHU,3,0
+987663,Hart,Joe Hart,Goalkeeper,BUR,1,0
+987663,Lössl,Jonas Lössl,Goalkeeper,HUD,2,0
+987664,Hennessey,Wayne Hennessey,Goalkeeper,CRY,1,0
+987664,Rui Patrício,Rui Pedro dos Santos Patrício,Goalkeeper,WOL,4,0
+987665,Leno,Bernd Leno,Goalkeeper,ARS,3,0
+987665,Bettinelli,Marcus Bettinelli,Goalkeeper,FUL,2,0
+987666,Pickford,Jordan Pickford,Goalkeeper,EVE,1,0
+987666,Schmeichel,Kasper Schmeichel,Goalkeeper,LEI,6,0
+987667,Alisson,Alisson Ramses Becker,Goalkeeper,LIV,2,0
+987667,Ederson,Ederson Santana de Moraes,Goalkeeper,MCI,2,0
+987668,De Gea,David De Gea,Goalkeeper,MUN,6,0
+987668,Dubravka,Martin Dubravka,Goalkeeper,NEW,7,0
+987669,Kepa,Kepa Arrizabalaga Revuelta,Goalkeeper,CHE,6,0
+987669,McCarthy (Alex),Alex McCarthy,Goalkeeper,SOU,3,0
+987670,Etheridge,Neil Etheridge,Goalkeeper,CAR,5,0
+987670,Lloris,Hugo Lloris,Goalkeeper,TOT,5,0
+987671,Begovic,Asmir Begovic,Goalkeeper,BOU,2,0
+987671,Foster,Ben Foster,Goalkeeper,WAT,3,0
+987672,Begovic,Asmir Begovic,Goalkeeper,BOU,4,0
+987672,McCarthy (Alex),Alex McCarthy,Goalkeeper,SOU,2,0
+987673,Leno,Bernd Leno,Goalkeeper,ARS,2,0
+987673,Schmeichel,Kasper Schmeichel,Goalkeeper,LEI,3,0
+987674,Etheridge,Neil Etheridge,Goalkeeper,CAR,2,0
+987674,Bettinelli,Marcus Bettinelli,Goalkeeper,FUL,1,0
+987675,Kepa,Kepa Arrizabalaga Revuelta,Goalkeeper,CHE,2,0
+987675,De Gea,David De Gea,Goalkeeper,MUN,4,0
+987676,Hennessey,Wayne Hennessey,Goalkeeper,CRY,2,0
+987676,Pickford,Jordan Pickford,Goalkeeper,EVE,4,1
+987677,Lössl,Jonas Lössl,Goalkeeper,HUD,1,0
+987677,Alisson,Alisson Ramses Becker,Goalkeeper,LIV,1,0
+987678,Hart,Joe Hart,Goalkeeper,BUR,5,0
+987678,Ederson,Ederson Santana de Moraes,Goalkeeper,MCI,0,0
+987679,Mat Ryan,Mathew Ryan,Goalkeeper,BHA,6,0
+987679,Dubravka,Martin Dubravka,Goalkeeper,NEW,1,0
+987680,Lloris,Hugo Lloris,Goalkeeper,TOT,4,0
+987680,Fabianski,Lukasz Fabianski,Goalkeeper,WHU,1,0
+987681,Foster,Ben Foster,Goalkeeper,WAT,1,0
+987681,Rui Patrício,Rui Pedro dos Santos Patrício,Goalkeeper,WOL,1,0
+987682,Mat Ryan,Mathew Ryan,Goalkeeper,BHA,7,0
+987682,Rui Patrício,Rui Pedro dos Santos Patrício,Goalkeeper,WOL,0,0
+987683,Hart,Joe Hart,Goalkeeper,BUR,4,0
+987683,Kepa,Kepa Arrizabalaga Revuelta,Goalkeeper,CHE,1,0
+987684,Leno,Bernd Leno,Goalkeeper,ARS,1,0
+987684,Hennessey,Wayne Hennessey,Goalkeeper,CRY,0,0
+987685,Begovic,Asmir Begovic,Goalkeeper,BOU,1,0
+987685,Sergio Rico,Sergio Rico González,Goalkeeper,FUL,2,0
+987686,Schmeichel,Kasper Schmeichel,Goalkeeper,LEI,2,0
+987686,Fabianski,Lukasz Fabianski,Goalkeeper,WHU,7,0
+987687,Etheridge,Neil Etheridge,Goalkeeper,CAR,2,0
+987687,Alisson,Alisson Ramses Becker,Goalkeeper,LIV,0,0
+987688,Pickford,Jordan Pickford,Goalkeeper,EVE,8,1
+987688,De Gea,David De Gea,Goalkeeper,MUN,6,0
+987689,Dubravka,Martin Dubravka,Goalkeeper,NEW,5,0
+987689,McCarthy (Alex),Alex McCarthy,Goalkeeper,SOU,0,0
+987690,Ederson,Ederson Santana de Moraes,Goalkeeper,MCI,1,0
+987690,Lloris,Hugo Lloris,Goalkeeper,TOT,4,0
+987691,Lössl,Jonas Lössl,Goalkeeper,HUD,3,0
+987691,Foster,Ben Foster,Goalkeeper,WAT,7,0
+987692,Begovic,Asmir Begovic,Goalkeeper,BOU,4,0
+987692,De Gea,David De Gea,Goalkeeper,MUN,6,0
+987693,Leno,Bernd Leno,Goalkeeper,ARS,3,0
+987693,Alisson,Alisson Ramses Becker,Goalkeeper,LIV,3,0
+987694,Etheridge,Neil Etheridge,Goalkeeper,CAR,3,0
+987694,Schmeichel,Kasper Schmeichel,Goalkeeper,LEI,2,0
+987695,Kepa,Kepa Arrizabalaga Revuelta,Goalkeeper,CHE,1,0
+987695,Hennessey,Wayne Hennessey,Goalkeeper,CRY,3,0
+987696,Mat Ryan,Mathew Ryan,Goalkeeper,BHA,0,0
+987696,Pickford,Jordan Pickford,Goalkeeper,EVE,2,0
+987697,Sergio Rico,Sergio Rico González,Goalkeeper,FUL,2,0
+987697,Lössl,Jonas Lössl,Goalkeeper,HUD,1,0
+987698,Ederson,Ederson Santana de Moraes,Goalkeeper,MCI,5,0
+987698,McCarthy (Alex),Alex McCarthy,Goalkeeper,SOU,3,0
+987699,Dubravka,Martin Dubravka,Goalkeeper,NEW,1,0
+987699,Foster,Ben Foster,Goalkeeper,WAT,1,0
+987700,Hart,Joe Hart,Goalkeeper,BUR,5,0
+987700,Fabianski,Lukasz Fabianski,Goalkeeper,WHU,1,0
+987701,Lloris,Hugo Lloris,Goalkeeper,TOT,5,0
+987701,Rui Patrício,Rui Pedro dos Santos Patrício,Goalkeeper,WOL,5,0
+987702,Leno,Bernd Leno,Goalkeeper,ARS,4,0
+987702,Rui Patrício,Rui Pedro dos Santos Patrício,Goalkeeper,WOL,2,0
+987703,Mat Ryan,Mathew Ryan,Goalkeeper,BHA,3,0
+987703,Etheridge,Neil Etheridge,Goalkeeper,CAR,2,0
+987704,Kepa,Kepa Arrizabalaga Revuelta,Goalkeeper,CHE,1,0
+987704,Pickford,Jordan Pickford,Goalkeeper,EVE,4,0
+987705,Hennessey,Wayne Hennessey,Goalkeeper,CRY,1,0
+987705,Lloris,Hugo Lloris,Goalkeeper,TOT,5,0
+987706,Lössl,Jonas Lössl,Goalkeeper,HUD,2,0
+987706,Fabianski,Lukasz Fabianski,Goalkeeper,WHU,6,0
+987707,Hart,Joe Hart,Goalkeeper,BUR,5,0
+987707,Schmeichel,Kasper Schmeichel,Goalkeeper,LEI,2,0
+987708,Sergio Rico,Sergio Rico González,Goalkeeper,FUL,5,0
+987708,Alisson,Alisson Ramses Becker,Goalkeeper,LIV,3,0
+987709,Ederson,Ederson Santana de Moraes,Goalkeeper,MCI,0,0
+987709,De Gea,David De Gea,Goalkeeper,MUN,2,0
+987710,Begovic,Asmir Begovic,Goalkeeper,BOU,6,0
+987710,Dubravka,Martin Dubravka,Goalkeeper,NEW,3,0
+987711,McCarthy (Alex),Alex McCarthy,Goalkeeper,SOU,5,0
+987711,Foster,Ben Foster,Goalkeeper,WAT,3,0
+987712,Leno,Bernd Leno,Goalkeeper,ARS,5,0
+987712,Begovic,Asmir Begovic,Goalkeeper,BOU,3,0
+987713,Mat Ryan,Mathew Ryan,Goalkeeper,BHA,2,0
+987713,Schmeichel,Kasper Schmeichel,Goalkeeper,LEI,2,0
+987714,Hart,Joe Hart,Goalkeeper,BUR,1,0
+987714,Dubravka,Martin Dubravka,Goalkeeper,NEW,4,0
+987715,Etheridge,Neil Etheridge,Goalkeeper,CAR,6,0
+987715,Pickford,Jordan Pickford,Goalkeeper,EVE,1,0
+987716,Sergio Rico,Sergio Rico González,Goalkeeper,FUL,6,0
+987716,McCarthy (Alex),Alex McCarthy,Goalkeeper,SOU,2,0
+987717,Hennessey,Wayne Hennessey,Goalkeeper,CRY,5,0
+987717,De Gea,David De Gea,Goalkeeper,MUN,2,0
+987718,Kepa,Kepa Arrizabalaga Revuelta,Goalkeeper,CHE,6,0
+987718,Lloris,Hugo Lloris,Goalkeeper,TOT,1,0
+987719,Alisson,Alisson Ramses Becker,Goalkeeper,LIV,1,0
+987719,Foster,Ben Foster,Goalkeeper,WAT,4,0
+987720,Ederson,Ederson Santana de Moraes,Goalkeeper,MCI,1,0
+987720,Fabianski,Lukasz Fabianski,Goalkeeper,WHU,2,0
+987721,Lössl,Jonas Lössl,Goalkeeper,HUD,2,0
+987721,Rui Patrício,Rui Pedro dos Santos Patrício,Goalkeeper,WOL,4,0
+987722,Leno,Bernd Leno,Goalkeeper,ARS,4,0
+987722,Lloris,Hugo Lloris,Goalkeeper,TOT,2,0
+987723,Etheridge,Neil Etheridge,Goalkeeper,CAR,3,0
+987723,Rui Patrício,Rui Pedro dos Santos Patrício,Goalkeeper,WOL,0,0
+987724,Kepa,Kepa Arrizabalaga Revuelta,Goalkeeper,CHE,5,0
+987724,Sergio Rico,Sergio Rico González,Goalkeeper,FUL,7,0
+987725,Hart,Joe Hart,Goalkeeper,BUR,7,0
+987725,Hennessey,Wayne Hennessey,Goalkeeper,CRY,0,0
+987726,Mat Ryan,Mathew Ryan,Goalkeeper,BHA,1,0
+987726,Lössl,Jonas Lössl,Goalkeeper,HUD,4,0
+987727,Schmeichel,Kasper Schmeichel,Goalkeeper,LEI,0,0
+987727,Foster,Ben Foster,Goalkeeper,WAT,1,0
+987728,Pickford,Jordan Pickford,Goalkeeper,EVE,3,0
+987728,Alisson,Alisson Ramses Becker,Goalkeeper,LIV,3,0
+987729,Begovic,Asmir Begovic,Goalkeeper,BOU,3,0
+987729,Ederson,Ederson Santana de Moraes,Goalkeeper,MCI,0,0
+987730,Dubravka,Martin Dubravka,Goalkeeper,NEW,1,0
+987730,Fabianski,Lukasz Fabianski,Goalkeeper,WHU,4,0
+987731,De Gea,David De Gea,Goalkeeper,MUN,4,0
+987731,McCarthy (Alex),Alex McCarthy,Goalkeeper,SOU,3,0
+987732,Begovic,Asmir Begovic,Goalkeeper,BOU,5,0
+987732,Lössl,Jonas Lössl,Goalkeeper,HUD,0,0
+987733,Mat Ryan,Mathew Ryan,Goalkeeper,BHA,3,0
+987733,Hennessey,Wayne Hennessey,Goalkeeper,CRY,0,0
+987734,Hart,Joe Hart,Goalkeeper,BUR,8,0
+987734,Alisson,Alisson Ramses Becker,Goalkeeper,LIV,5,0
+987735,Sergio Rico,Sergio Rico González,Goalkeeper,FUL,4,0
+987735,Schmeichel,Kasper Schmeichel,Goalkeeper,LEI,6,0
+987736,Leno,Bernd Leno,Goalkeeper,ARS,5,0
+987736,De Gea,David De Gea,Goalkeeper,MUN,3,0
+987737,Ederson,Ederson Santana de Moraes,Goalkeeper,MCI,5,0
+987737,Foster,Ben Foster,Goalkeeper,WAT,5,0
+987738,Etheridge,Neil Etheridge,Goalkeeper,CAR,8,0
+987738,Fabianski,Lukasz Fabianski,Goalkeeper,WHU,3,1
+987739,Kepa,Kepa Arrizabalaga Revuelta,Goalkeeper,CHE,0,0
+987739,Rui Patrício,Rui Pedro dos Santos Patrício,Goalkeeper,WOL,2,0
+987740,Pickford,Jordan Pickford,Goalkeeper,EVE,4,0
+987740,Dubravka,Martin Dubravka,Goalkeeper,NEW,2,0
+987741,McCarthy (Alex),Alex McCarthy,Goalkeeper,SOU,5,0
+987741,Lloris,Hugo Lloris,Goalkeeper,TOT,4,0
+987742,Begovic,Asmir Begovic,Goalkeeper,BOU,1,0
+987742,Alisson,Alisson Ramses Becker,Goalkeeper,LIV,2,0
+987743,Leno,Bernd Leno,Goalkeeper,ARS,0,0
+987743,Lössl,Jonas Lössl,Goalkeeper,HUD,2,0
+987744,Mat Ryan,Mathew Ryan,Goalkeeper,BHA,3,0
+987744,Hart,Joe Hart,Goalkeeper,BUR,1,0
+987745,Etheridge,Neil Etheridge,Goalkeeper,CAR,1,0
+987745,McCarthy (Alex),Alex McCarthy,Goalkeeper,SOU,3,0
+987746,Kepa,Kepa Arrizabalaga Revuelta,Goalkeeper,CHE,4,0
+987746,Ederson,Ederson Santana de Moraes,Goalkeeper,MCI,3,0
+987747,Pickford,Jordan Pickford,Goalkeeper,EVE,2,0
+987747,Foster,Ben Foster,Goalkeeper,WAT,3,1
+987748,Schmeichel,Kasper Schmeichel,Goalkeeper,LEI,0,0
+987748,Lloris,Hugo Lloris,Goalkeeper,TOT,3,0
+987749,Sergio Rico,Sergio Rico González,Goalkeeper,FUL,7,0
+987749,De Gea,David De Gea,Goalkeeper,MUN,3,0
+987750,Dubravka,Martin Dubravka,Goalkeeper,NEW,4,0
+987750,Rui Patrício,Rui Pedro dos Santos Patrício,Goalkeeper,WOL,3,0
+987751,Hennessey,Wayne Hennessey,Goalkeeper,CRY,3,0
+987751,Fabianski,Lukasz Fabianski,Goalkeeper,WHU,2,0
+987752,Mat Ryan,Mathew Ryan,Goalkeeper,BHA,1,0
+987752,Kepa,Kepa Arrizabalaga Revuelta,Goalkeeper,CHE,1,0
+987753,Guaita,Vicente Guaita,Goalkeeper,CRY,2,0
+987753,Schmeichel,Kasper Schmeichel,Goalkeeper,LEI,0,0
+987754,Sergio Rico,Sergio Rico González,Goalkeeper,FUL,1,0
+987754,Fabianski,Lukasz Fabianski,Goalkeeper,WHU,5,0
+987755,Lössl,Jonas Lössl,Goalkeeper,HUD,4,0
+987755,Dubravka,Martin Dubravka,Goalkeeper,NEW,6,0
+987756,Alisson,Alisson Ramses Becker,Goalkeeper,LIV,2,0
+987756,De Gea,David De Gea,Goalkeeper,MUN,7,0
+987757,Pickford,Jordan Pickford,Goalkeeper,EVE,3,0
+987757,Ederson,Ederson Santana de Moraes,Goalkeeper,MCI,1,0
+987758,Leno,Bernd Leno,Goalkeeper,ARS,4,0
+987758,McCarthy (Alex),Alex McCarthy,Goalkeeper,SOU,2,0
+987759,Hart,Joe Hart,Goalkeeper,BUR,2,0
+987759,Lloris,Hugo Lloris,Goalkeeper,TOT,0,0
+987760,Etheridge,Neil Etheridge,Goalkeeper,CAR,5,0
+987760,Foster,Ben Foster,Goalkeeper,WAT,1,0
+987761,Begovic,Asmir Begovic,Goalkeeper,BOU,2,0
+987761,Rui Patrício,Rui Pedro dos Santos Patrício,Goalkeeper,WOL,3,0
+987762,Begovic,Asmir Begovic,Goalkeeper,BOU,5,0
+987762,Mat Ryan,Mathew Ryan,Goalkeeper,BHA,1,0
+987763,Leno,Bernd Leno,Goalkeeper,ARS,1,0
+987763,Hart,Joe Hart,Goalkeeper,BUR,3,0
+987764,Etheridge,Neil Etheridge,Goalkeeper,CAR,4,0
+987764,De Gea,David De Gea,Goalkeeper,MUN,2,0
+987765,Kepa,Kepa Arrizabalaga Revuelta,Goalkeeper,CHE,2,0
+987765,Schmeichel,Kasper Schmeichel,Goalkeeper,LEI,5,0
+987766,Pickford,Jordan Pickford,Goalkeeper,EVE,2,0
+987766,Lloris,Hugo Lloris,Goalkeeper,TOT,1,0
+987767,Lössl,Jonas Lössl,Goalkeeper,HUD,3,0
+987767,McCarthy (Alex),Alex McCarthy,Goalkeeper,SOU,4,0
+987768,Guaita,Vicente Guaita,Goalkeeper,CRY,3,0
+987768,Ederson,Ederson Santana de Moraes,Goalkeeper,MCI,0,0
+987769,Sergio Rico,Sergio Rico González,Goalkeeper,FUL,0,0
+987769,Dubravka,Martin Dubravka,Goalkeeper,NEW,2,0
+987770,Foster,Ben Foster,Goalkeeper,WAT,7,0
+987770,Fabianski,Lukasz Fabianski,Goalkeeper,WHU,3,0
+987771,Alisson,Alisson Ramses Becker,Goalkeeper,LIV,5,0
+987771,Rui Patrício,Rui Pedro dos Santos Patrício,Goalkeeper,WOL,5,0
+987772,Leno,Bernd Leno,Goalkeeper,ARS,3,0
+987772,Mat Ryan,Mathew Ryan,Goalkeeper,BHA,3,0
+987773,Hart,Joe Hart,Goalkeeper,BUR,2,0
+987773,Pickford,Jordan Pickford,Goalkeeper,EVE,2,0
+987774,Etheridge,Neil Etheridge,Goalkeeper,CAR,5,0
+987774,Guaita,Vicente Guaita,Goalkeeper,CRY,4,0
+987775,Sergio Rico,Sergio Rico González,Goalkeeper,FUL,4,0
+987775,Rui Patrício,Rui Pedro dos Santos Patrício,Goalkeeper,WOL,3,0
+987776,Schmeichel,Kasper Schmeichel,Goalkeeper,LEI,3,0
+987776,Ederson,Ederson Santana de Moraes,Goalkeeper,MCI,3,0
+987777,Alisson,Alisson Ramses Becker,Goalkeeper,LIV,2,0
+987777,Dubravka,Martin Dubravka,Goalkeeper,NEW,4,0
+987778,Lössl,Jonas Lössl,Goalkeeper,HUD,7,0
+987778,De Gea,David De Gea,Goalkeeper,MUN,1,0
+987779,McCarthy (Alex),Alex McCarthy,Goalkeeper,SOU,3,0
+987779,Fabianski,Lukasz Fabianski,Goalkeeper,WHU,4,0
+987780,Begovic,Asmir Begovic,Goalkeeper,BOU,2,0
+987780,Lloris,Hugo Lloris,Goalkeeper,TOT,4,0
+987781,Kepa,Kepa Arrizabalaga Revuelta,Goalkeeper,CHE,1,0
+987781,Foster,Ben Foster,Goalkeeper,WAT,2,0
+987782,Button,David Button,Goalkeeper,BHA,4,0
+987782,Pickford,Jordan Pickford,Goalkeeper,EVE,2,0
+987783,Heaton,Tom Heaton,Goalkeeper,BUR,4,0
+987783,Fabianski,Lukasz Fabianski,Goalkeeper,WHU,3,0
+987784,Kepa,Kepa Arrizabalaga Revuelta,Goalkeeper,CHE,0,0
+987784,Guaita,Vicente Guaita,Goalkeeper,CRY,3,0
+987785,Sergio Rico,Sergio Rico González,Goalkeeper,FUL,5,0
+987785,Lössl,Jonas Lössl,Goalkeeper,HUD,4,1
+987786,Etheridge,Neil Etheridge,Goalkeeper,CAR,7,1
+987786,Schmeichel,Kasper Schmeichel,Goalkeeper,LEI,2,0
+987787,Leno,Bernd Leno,Goalkeeper,ARS,5,0
+987787,Alisson,Alisson Ramses Becker,Goalkeeper,LIV,1,0
+987788,Begovic,Asmir Begovic,Goalkeeper,BOU,4,0
+987788,De Gea,David De Gea,Goalkeeper,MUN,2,0
+987789,Ederson,Ederson Santana de Moraes,Goalkeeper,MCI,3,0
+987789,McCarthy (Alex),Alex McCarthy,Goalkeeper,SOU,4,0
+987790,Lloris,Hugo Lloris,Goalkeeper,TOT,1,0
+987790,Rui Patrício,Rui Pedro dos Santos Patrício,Goalkeeper,WOL,2,0
+987791,Dubravka,Martin Dubravka,Goalkeeper,NEW,4,0
+987791,Foster,Ben Foster,Goalkeeper,WAT,1,0
+987792,Begovic,Asmir Begovic,Goalkeeper,BOU,0,0
+987792,Foster,Ben Foster,Goalkeeper,WAT,9,0
+987793,Leno,Bernd Leno,Goalkeeper,ARS,3,0
+987793,Sergio Rico,Sergio Rico González,Goalkeeper,FUL,4,0
+987794,Etheridge,Neil Etheridge,Goalkeeper,CAR,1,0
+987794,Lloris,Hugo Lloris,Goalkeeper,TOT,3,0
+987795,Kepa,Kepa Arrizabalaga Revuelta,Goalkeeper,CHE,2,0
+987795,Gunn,Angus Gunn,Goalkeeper,SOU,6,0
+987796,Pickford,Jordan Pickford,Goalkeeper,EVE,3,0
+987796,Schmeichel,Kasper Schmeichel,Goalkeeper,LEI,3,0
+987797,Heaton,Tom Heaton,Goalkeeper,BUR,2,0
+987797,Lössl,Jonas Lössl,Goalkeeper,HUD,6,0
+987798,Alisson,Alisson Ramses Becker,Goalkeeper,LIV,2,0
+987798,Ederson,Ederson Santana de Moraes,Goalkeeper,MCI,3,0
+987799,De Gea,David De Gea,Goalkeeper,MUN,3,0
+987799,Dubravka,Martin Dubravka,Goalkeeper,NEW,5,0
+987800,Button,David Button,Goalkeeper,BHA,4,0
+987800,Fabianski,Lukasz Fabianski,Goalkeeper,WHU,4,0
+987801,Guaita,Vicente Guaita,Goalkeeper,CRY,1,0
+987801,Rui Patrício,Rui Pedro dos Santos Patrício,Goalkeeper,WOL,2,0
+987802,Button,David Button,Goalkeeper,BHA,2,0
+987802,Alisson,Alisson Ramses Becker,Goalkeeper,LIV,1,0
+987803,Heaton,Tom Heaton,Goalkeeper,BUR,2,0
+987803,Sergio Rico,Sergio Rico González,Goalkeeper,FUL,0,0
+987804,Etheridge,Neil Etheridge,Goalkeeper,CAR,3,0
+987804,Lössl,Jonas Lössl,Goalkeeper,HUD,0,0
+987805,Kepa,Kepa Arrizabalaga Revuelta,Goalkeeper,CHE,1,0
+987805,Dubravka,Martin Dubravka,Goalkeeper,NEW,4,0
+987806,Hennessey,Wayne Hennessey,Goalkeeper,CRY,0,0
+987806,Guaita,Vicente Guaita,Goalkeeper,CRY,0,0
+987806,Foster,Ben Foster,Goalkeeper,WAT,6,0
+987807,Begovic,Asmir Begovic,Goalkeeper,BOU,0,0
+987807,Pickford,Jordan Pickford,Goalkeeper,EVE,7,0
+987808,Schmeichel,Kasper Schmeichel,Goalkeeper,LEI,1,0
+987808,McCarthy (Alex),Alex McCarthy,Goalkeeper,SOU,4,0
+987809,Ederson,Ederson Santana de Moraes,Goalkeeper,MCI,0,0
+987809,Rui Patrício,Rui Pedro dos Santos Patrício,Goalkeeper,WOL,7,0
+987810,De Gea,David De Gea,Goalkeeper,MUN,11,0
+987810,Lloris,Hugo Lloris,Goalkeeper,TOT,7,0
+987811,Leno,Bernd Leno,Goalkeeper,ARS,2,0
+987811,Fabianski,Lukasz Fabianski,Goalkeeper,WHU,3,0
+987812,Boruc,Artur Boruc,Goalkeeper,BOU,1,0
+987812,Fabianski,Lukasz Fabianski,Goalkeeper,WHU,3,0
+987813,Leno,Bernd Leno,Goalkeeper,ARS,1,0
+987813,Kepa,Kepa Arrizabalaga Revuelta,Goalkeeper,CHE,3,0
+987814,Sergio Rico,Sergio Rico González,Goalkeeper,FUL,3,0
+987814,Lloris,Hugo Lloris,Goalkeeper,TOT,4,0
+987815,Lössl,Jonas Lössl,Goalkeeper,HUD,1,0
+987815,Ederson,Ederson Santana de Moraes,Goalkeeper,MCI,2,0
+987816,Speroni,Julian Speroni,Goalkeeper,CRY,5,0
+987816,Alisson,Alisson Ramses Becker,Goalkeeper,LIV,0,0
+987817,Button,David Button,Goalkeeper,BHA,4,0
+987817,De Gea,David De Gea,Goalkeeper,MUN,3,0
+987818,Etheridge,Neil Etheridge,Goalkeeper,CAR,3,0
+987818,Dubravka,Martin Dubravka,Goalkeeper,NEW,1,0
+987819,Pickford,Jordan Pickford,Goalkeeper,EVE,3,0
+987819,McCarthy (Alex),Alex McCarthy,Goalkeeper,SOU,1,0
+987820,Heaton,Tom Heaton,Goalkeeper,BUR,4,0
+987820,Foster,Ben Foster,Goalkeeper,WAT,3,0
+987821,Schmeichel,Kasper Schmeichel,Goalkeeper,LEI,3,0
+987821,Rui Patrício,Rui Pedro dos Santos Patrício,Goalkeeper,WOL,4,0
+987822,Boruc,Artur Boruc,Goalkeeper,BOU,7,0
+987822,Kepa,Kepa Arrizabalaga Revuelta,Goalkeeper,CHE,3,0
+987823,Leno,Bernd Leno,Goalkeeper,ARS,1,0
+987823,Etheridge,Neil Etheridge,Goalkeeper,CAR,2,0
+987824,Mat Ryan,Mathew Ryan,Goalkeeper,BHA,3,0
+987824,Sergio Rico,Sergio Rico González,Goalkeeper,FUL,4,0
+987825,Pickford,Jordan Pickford,Goalkeeper,EVE,2,0
+987825,Lössl,Jonas Lössl,Goalkeeper,HUD,4,0
+987826,Heaton,Tom Heaton,Goalkeeper,BUR,7,0
+987826,De Gea,David De Gea,Goalkeeper,MUN,2,0
+987827,Fabianski,Lukasz Fabianski,Goalkeeper,WHU,6,0
+987827,Rui Patrício,Rui Pedro dos Santos Patrício,Goalkeeper,WOL,0,0
+987828,Schmeichel,Kasper Schmeichel,Goalkeeper,LEI,2,0
+987828,Alisson,Alisson Ramses Becker,Goalkeeper,LIV,2,0
+987829,Ederson,Ederson Santana de Moraes,Goalkeeper,MCI,0,0
+987829,Dubravka,Martin Dubravka,Goalkeeper,NEW,2,0
+987830,Guaita,Vicente Guaita,Goalkeeper,CRY,3,0
+987830,McCarthy (Alex),Alex McCarthy,Goalkeeper,SOU,1,0
+987831,Lloris,Hugo Lloris,Goalkeeper,TOT,0,0
+987831,Foster,Ben Foster,Goalkeeper,WAT,4,0
+987832,Mat Ryan,Mathew Ryan,Goalkeeper,BHA,1,0
+987832,Foster,Ben Foster,Goalkeeper,WAT,4,0
+987833,Heaton,Tom Heaton,Goalkeeper,BUR,3,0
+987833,McCarthy (Alex),Alex McCarthy,Goalkeeper,SOU,5,0
+987834,Boruc,Artur Boruc,Goalkeeper,BOU,3,0
+987834,Etheridge,Neil Etheridge,Goalkeeper,CAR,2,0
+987835,Kepa,Kepa Arrizabalaga Revuelta,Goalkeeper,CHE,2,0
+987835,Lössl,Jonas Lössl,Goalkeeper,HUD,2,0
+987836,Guaita,Vicente Guaita,Goalkeeper,CRY,0,0
+987836,Sergio Rico,Sergio Rico González,Goalkeeper,FUL,4,0
+987837,Pickford,Jordan Pickford,Goalkeeper,EVE,1,0
+987837,Rui Patrício,Rui Pedro dos Santos Patrício,Goalkeeper,WOL,3,0
+987838,Schmeichel,Kasper Schmeichel,Goalkeeper,LEI,5,0
+987838,De Gea,David De Gea,Goalkeeper,MUN,6,0
+987839,Leno,Bernd Leno,Goalkeeper,ARS,9,0
+987839,Ederson,Ederson Santana de Moraes,Goalkeeper,MCI,1,0
+987840,Dubravka,Martin Dubravka,Goalkeeper,NEW,1,0
+987840,Lloris,Hugo Lloris,Goalkeeper,TOT,2,0
+987841,Alisson,Alisson Ramses Becker,Goalkeeper,LIV,1,0
+987841,Fabianski,Lukasz Fabianski,Goalkeeper,WHU,5,0
+987842,Mat Ryan,Mathew Ryan,Goalkeeper,BHA,2,0
+987842,Heaton,Tom Heaton,Goalkeeper,BUR,5,0
+987843,Guaita,Vicente Guaita,Goalkeeper,CRY,3,0
+987843,Fabianski,Lukasz Fabianski,Goalkeeper,WHU,4,0
+987844,Sergio Rico,Sergio Rico González,Goalkeeper,FUL,4,0
+987844,De Gea,David De Gea,Goalkeeper,MUN,3,0
+987845,Leno,Bernd Leno,Goalkeeper,ARS,5,0
+987845,Hamer,Ben Hamer,Goalkeeper,HUD,2,0
+987846,Boruc,Artur Boruc,Goalkeeper,BOU,6,0
+987846,Alisson,Alisson Ramses Becker,Goalkeeper,LIV,2,0
+987847,Kepa,Kepa Arrizabalaga Revuelta,Goalkeeper,CHE,3,0
+987847,Ederson,Ederson Santana de Moraes,Goalkeeper,MCI,4,0
+987848,Etheridge,Neil Etheridge,Goalkeeper,CAR,6,0
+987848,McCarthy (Alex),Alex McCarthy,Goalkeeper,SOU,1,0
+987849,Schmeichel,Kasper Schmeichel,Goalkeeper,LEI,2,0
+987849,Lloris,Hugo Lloris,Goalkeeper,TOT,9,1
+987850,Pickford,Jordan Pickford,Goalkeeper,EVE,2,0
+987850,Foster,Ben Foster,Goalkeeper,WAT,4,0
+987851,Dubravka,Martin Dubravka,Goalkeeper,NEW,5,0
+987851,Rui Patrício,Rui Pedro dos Santos Patrício,Goalkeeper,WOL,2,0
+987852,Boruc,Artur Boruc,Goalkeeper,BOU,1,0
+987852,Rui Patrício,Rui Pedro dos Santos Patrício,Goalkeeper,WOL,2,0
+987853,Leno,Bernd Leno,Goalkeeper,ARS,4,0
+987853,Gunn,Angus Gunn,Goalkeeper,SOU,3,0
+987854,Heaton,Tom Heaton,Goalkeeper,BUR,5,0
+987854,Lloris,Hugo Lloris,Goalkeeper,TOT,2,0
+987855,Etheridge,Neil Etheridge,Goalkeeper,CAR,2,0
+987855,Foster,Ben Foster,Goalkeeper,WAT,4,0
+987856,Mat Ryan,Mathew Ryan,Goalkeeper,BHA,1,0
+987856,Kepa,Kepa Arrizabalaga Revuelta,Goalkeeper,CHE,1,0
+987857,Pickford,Jordan Pickford,Goalkeeper,EVE,2,0
+987857,Ederson,Ederson Santana de Moraes,Goalkeeper,MCI,1,0
+987858,Guaita,Vicente Guaita,Goalkeeper,CRY,4,0
+987858,Schmeichel,Kasper Schmeichel,Goalkeeper,LEI,1,0
+987859,Alisson,Alisson Ramses Becker,Goalkeeper,LIV,3,0
+987859,De Gea,David De Gea,Goalkeeper,MUN,1,0
+987860,Lössl,Jonas Lössl,Goalkeeper,HUD,10,0
+987860,Dubravka,Martin Dubravka,Goalkeeper,NEW,0,0
+987861,Sergio Rico,Sergio Rico González,Goalkeeper,FUL,4,0
+987861,Fabianski,Lukasz Fabianski,Goalkeeper,WHU,4,0
+987862,Leno,Bernd Leno,Goalkeeper,ARS,4,0
+987862,Boruc,Artur Boruc,Goalkeeper,BOU,2,0
+987863,Etheridge,Neil Etheridge,Goalkeeper,CAR,1,0
+987863,Pickford,Jordan Pickford,Goalkeeper,EVE,0,0
+987864,Guaita,Vicente Guaita,Goalkeeper,CRY,1,0
+987864,De Gea,David De Gea,Goalkeeper,MUN,2,0
+987865,Lössl,Jonas Lössl,Goalkeeper,HUD,0,0
+987865,Rui Patrício,Rui Pedro dos Santos Patrício,Goalkeeper,WOL,2,0
+987866,Mat Ryan,Mathew Ryan,Goalkeeper,BHA,1,0
+987866,Schmeichel,Kasper Schmeichel,Goalkeeper,LEI,2,0
+987867,Caballero,Willy Caballero,Goalkeeper,CHE,0,0
+987867,Lloris,Hugo Lloris,Goalkeeper,TOT,0,0
+987868,Alisson,Alisson Ramses Becker,Goalkeeper,LIV,3,0
+987868,Foster,Ben Foster,Goalkeeper,WAT,5,0
+987869,Ederson,Ederson Santana de Moraes,Goalkeeper,MCI,1,0
+987869,Fabianski,Lukasz Fabianski,Goalkeeper,WHU,5,0
+987870,Heaton,Tom Heaton,Goalkeeper,BUR,2,0
+987870,Dubravka,Martin Dubravka,Goalkeeper,NEW,2,0
+987871,Sergio Rico,Sergio Rico González,Goalkeeper,FUL,2,0
+987871,Gunn,Angus Gunn,Goalkeeper,SOU,4,0
+987872,Boruc,Artur Boruc,Goalkeeper,BOU,8,0
+987872,Ederson,Ederson Santana de Moraes,Goalkeeper,MCI,0,0
+987873,Mat Ryan,Mathew Ryan,Goalkeeper,BHA,4,0
+987873,Lössl,Jonas Lössl,Goalkeeper,HUD,2,0
+987874,Heaton,Tom Heaton,Goalkeeper,BUR,2,0
+987874,Hennessey,Wayne Hennessey,Goalkeeper,CRY,3,0
+987875,Pickford,Jordan Pickford,Goalkeeper,EVE,3,0
+987875,Alisson,Alisson Ramses Becker,Goalkeeper,LIV,3,0
+987876,Kepa,Kepa Arrizabalaga Revuelta,Goalkeeper,CHE,4,0
+987876,Sergio Rico,Sergio Rico González,Goalkeeper,FUL,5,0
+987877,De Gea,David De Gea,Goalkeeper,MUN,1,0
+987877,Gunn,Angus Gunn,Goalkeeper,SOU,3,1
+987878,Leno,Bernd Leno,Goalkeeper,ARS,2,0
+987878,Lloris,Hugo Lloris,Goalkeeper,TOT,2,1
+987879,Schmeichel,Kasper Schmeichel,Goalkeeper,LEI,3,0
+987879,Foster,Ben Foster,Goalkeeper,WAT,1,0
+987880,Dubravka,Martin Dubravka,Goalkeeper,NEW,2,0
+987880,Fabianski,Lukasz Fabianski,Goalkeeper,WHU,2,0
+987881,Etheridge,Neil Etheridge,Goalkeeper,CAR,4,0
+987881,Ruddy,John Ruddy,Goalkeeper,WOL,3,0
+987882,Leno,Bernd Leno,Goalkeeper,ARS,4,0
+987882,De Gea,David De Gea,Goalkeeper,MUN,0,0
+987883,Etheridge,Neil Etheridge,Goalkeeper,CAR,2,0
+987883,Fabianski,Lukasz Fabianski,Goalkeeper,WHU,5,0
+987884,Kepa,Kepa Arrizabalaga Revuelta,Goalkeeper,CHE,0,0
+987884,Rui Patrício,Rui Pedro dos Santos Patrício,Goalkeeper,WOL,5,0
+987885,Mat Ryan,Mathew Ryan,Goalkeeper,BHA,2,0
+987885,Guaita,Vicente Guaita,Goalkeeper,CRY,1,0
+987886,Boruc,Artur Boruc,Goalkeeper,BOU,1,0
+987886,Lössl,Jonas Lössl,Goalkeeper,HUD,2,0
+987887,Sergio Rico,Sergio Rico González,Goalkeeper,FUL,5,0
+987887,Schmeichel,Kasper Schmeichel,Goalkeeper,LEI,2,0
+987888,Heaton,Tom Heaton,Goalkeeper,BUR,1,0
+987888,Alisson,Alisson Ramses Becker,Goalkeeper,LIV,0,0
+987889,Ederson,Ederson Santana de Moraes,Goalkeeper,MCI,0,0
+987889,Foster,Ben Foster,Goalkeeper,WAT,5,0
+987890,Pickford,Jordan Pickford,Goalkeeper,EVE,4,1
+987890,Dubravka,Martin Dubravka,Goalkeeper,NEW,1,0
+987891,Gunn,Angus Gunn,Goalkeeper,SOU,4,0
+987891,Lloris,Hugo Lloris,Goalkeeper,TOT,2,0
+987892,Boruc,Artur Boruc,Goalkeeper,BOU,3,0
+987892,Dubravka,Martin Dubravka,Goalkeeper,NEW,0,0
+987893,Mat Ryan,Mathew Ryan,Goalkeeper,BHA,1,0
+987893,Etheridge,Neil Etheridge,Goalkeeper,CAR,2,0
+987894,Heaton,Tom Heaton,Goalkeeper,BUR,2,0
+987894,Schmeichel,Kasper Schmeichel,Goalkeeper,LEI,1,0
+987895,Kepa,Kepa Arrizabalaga Revuelta,Goalkeeper,CHE,6,1
+987895,Pickford,Jordan Pickford,Goalkeeper,EVE,5,0
+987896,Sergio Rico,Sergio Rico González,Goalkeeper,FUL,4,0
+987896,Alisson,Alisson Ramses Becker,Goalkeeper,LIV,1,0
+987897,Ederson,Ederson Santana de Moraes,Goalkeeper,MCI,1,0
+987897,De Gea,David De Gea,Goalkeeper,MUN,3,0
+987898,Guaita,Vicente Guaita,Goalkeeper,CRY,8,0
+987898,Lloris,Hugo Lloris,Goalkeeper,TOT,1,0
+987899,Gunn,Angus Gunn,Goalkeeper,SOU,3,0
+987899,Foster,Ben Foster,Goalkeeper,WAT,3,0
+987900,Lössl,Jonas Lössl,Goalkeeper,HUD,1,0
+987900,Fabianski,Lukasz Fabianski,Goalkeeper,WHU,3,0
+987901,Leno,Bernd Leno,Goalkeeper,ARS,0,0
+987901,Rui Patrício,Rui Pedro dos Santos Patrício,Goalkeeper,WOL,0,0
+987902,Leno,Bernd Leno,Goalkeeper,ARS,1,0
+987902,Dubravka,Martin Dubravka,Goalkeeper,NEW,1,0
+987903,Mat Ryan,Mathew Ryan,Goalkeeper,BHA,1,0
+987903,Gunn,Angus Gunn,Goalkeeper,SOU,1,0
+987904,Heaton,Tom Heaton,Goalkeeper,BUR,1,0
+987904,Rui Patrício,Rui Pedro dos Santos Patrício,Goalkeeper,WOL,0,0
+987905,Etheridge,Neil Etheridge,Goalkeeper,CAR,1,0
+987905,Kepa,Kepa Arrizabalaga Revuelta,Goalkeeper,CHE,2,0
+987906,Guaita,Vicente Guaita,Goalkeeper,CRY,5,0
+987906,Hamer,Ben Hamer,Goalkeeper,HUD,4,0
+987907,Sergio Rico,Sergio Rico González,Goalkeeper,FUL,5,0
+987907,Ederson,Ederson Santana de Moraes,Goalkeeper,MCI,0,0
+987908,Begovic,Asmir Begovic,Goalkeeper,BOU,2,0
+987908,Schmeichel,Kasper Schmeichel,Goalkeeper,LEI,2,0
+987909,Alisson,Alisson Ramses Becker,Goalkeeper,LIV,1,0
+987909,Lloris,Hugo Lloris,Goalkeeper,TOT,2,0
+987910,De Gea,David De Gea,Goalkeeper,MUN,7,0
+987910,Foster,Ben Foster,Goalkeeper,WAT,3,0
+987911,Pickford,Jordan Pickford,Goalkeeper,EVE,1,0
+987911,Fabianski,Lukasz Fabianski,Goalkeeper,WHU,7,0
+987912,Begovic,Asmir Begovic,Goalkeeper,BOU,0,0
+987912,Heaton,Tom Heaton,Goalkeeper,BUR,2,0
+987913,Kepa,Kepa Arrizabalaga Revuelta,Goalkeeper,CHE,2,0
+987913,Fabianski,Lukasz Fabianski,Goalkeeper,WHU,5,0
+987914,Leno,Bernd Leno,Goalkeeper,ARS,5,0
+987914,Pickford,Jordan Pickford,Goalkeeper,EVE,2,0
+987915,Hamer,Ben Hamer,Goalkeeper,HUD,6,0
+987915,Schmeichel,Kasper Schmeichel,Goalkeeper,LEI,3,0
+987916,Etheridge,Neil Etheridge,Goalkeeper,CAR,9,0
+987916,Ederson,Ederson Santana de Moraes,Goalkeeper,MCI,1,0
+987917,Guaita,Vicente Guaita,Goalkeeper,CRY,5,0
+987917,Dubravka,Martin Dubravka,Goalkeeper,NEW,0,0
+987918,Alisson,Alisson Ramses Becker,Goalkeeper,LIV,0,0
+987918,Gunn,Angus Gunn,Goalkeeper,SOU,2,0
+987919,Mat Ryan,Mathew Ryan,Goalkeeper,BHA,4,0
+987919,Lloris,Hugo Lloris,Goalkeeper,TOT,1,0
+987920,Sergio Rico,Sergio Rico González,Goalkeeper,FUL,3,0
+987920,Foster,Ben Foster,Goalkeeper,WAT,6,0
+987921,De Gea,David De Gea,Goalkeeper,MUN,2,0
+987921,Rui Patrício,Rui Pedro dos Santos Patrício,Goalkeeper,WOL,4,0
+987922,Boruc,Artur Boruc,Goalkeeper,BOU,1,0
+987922,Mat Ryan,Mathew Ryan,Goalkeeper,BHA,2,0
+987923,Heaton,Tom Heaton,Goalkeeper,BUR,2,0
+987923,Etheridge,Neil Etheridge,Goalkeeper,CAR,6,0
+987924,Guaita,Vicente Guaita,Goalkeeper,CRY,4,0
+987924,Ederson,Ederson Santana de Moraes,Goalkeeper,MCI,2,0
+987925,Pickford,Jordan Pickford,Goalkeeper,EVE,3,0
+987925,Sergio Rico,Sergio Rico González,Goalkeeper,FUL,1,0
+987926,Schmeichel,Kasper Schmeichel,Goalkeeper,LEI,4,0
+987926,Dubravka,Martin Dubravka,Goalkeeper,NEW,5,0
+987927,Kepa,Kepa Arrizabalaga Revuelta,Goalkeeper,CHE,5,0
+987927,Alisson,Alisson Ramses Becker,Goalkeeper,LIV,3,0
+987928,De Gea,David De Gea,Goalkeeper,MUN,3,0
+987928,Fabianski,Lukasz Fabianski,Goalkeeper,WHU,2,0
+987929,Gunn,Angus Gunn,Goalkeeper,SOU,1,0
+987929,Rui Patrício,Rui Pedro dos Santos Patrício,Goalkeeper,WOL,3,0
+987930,Hamer,Ben Hamer,Goalkeeper,HUD,1,0
+987930,Lloris,Hugo Lloris,Goalkeeper,TOT,1,0
+987931,Leno,Bernd Leno,Goalkeeper,ARS,2,0
+987931,Foster,Ben Foster,Goalkeeper,WAT,4,0
+987932,Boruc,Artur Boruc,Goalkeeper,BOU,5,0
+987932,Sergio Rico,Sergio Rico González,Goalkeeper,FUL,5,0
+987933,Leno,Bernd Leno,Goalkeeper,ARS,4,0
+987933,Guaita,Vicente Guaita,Goalkeeper,CRY,3,0
+987934,Etheridge,Neil Etheridge,Goalkeeper,CAR,4,0
+987934,Alisson,Alisson Ramses Becker,Goalkeeper,LIV,2,0
+987935,Heaton,Tom Heaton,Goalkeeper,BUR,6,0
+987935,Kepa,Kepa Arrizabalaga Revuelta,Goalkeeper,CHE,1,0
+987936,Pickford,Jordan Pickford,Goalkeeper,EVE,1,0
+987936,De Gea,David De Gea,Goalkeeper,MUN,4,0
+987937,Lössl,Jonas Lössl,Goalkeeper,HUD,4,0
+987937,Foster,Ben Foster,Goalkeeper,WAT,2,0
+987938,Ederson,Ederson Santana de Moraes,Goalkeeper,MCI,4,0
+987938,Gazzaniga,Paulo Gazzaniga,Goalkeeper,TOT,3,0
+987939,Dubravka,Martin Dubravka,Goalkeeper,NEW,3,0
+987939,Gunn,Angus Gunn,Goalkeeper,SOU,2,0
+987940,Schmeichel,Kasper Schmeichel,Goalkeeper,LEI,1,0
+987940,Fabianski,Lukasz Fabianski,Goalkeeper,WHU,3,0
+987941,Mat Ryan,Mathew Ryan,Goalkeeper,BHA,5,0
+987941,Rui Patrício,Rui Pedro dos Santos Patrício,Goalkeeper,WOL,0,0
+987942,Mat Ryan,Mathew Ryan,Goalkeeper,BHA,0,0
+987942,Dubravka,Martin Dubravka,Goalkeeper,NEW,1,0
+987943,Heaton,Tom Heaton,Goalkeeper,BUR,5,0
+987943,Ederson,Ederson Santana de Moraes,Goalkeeper,MCI,0,0
+987944,Guaita,Vicente Guaita,Goalkeeper,CRY,3,0
+987944,Pickford,Jordan Pickford,Goalkeeper,EVE,0,0
+987945,Etheridge,Neil Etheridge,Goalkeeper,CAR,1,0
+987945,Sergio Rico,Sergio Rico González,Goalkeeper,FUL,8,0
+987946,Leno,Bernd Leno,Goalkeeper,ARS,9,0
+987946,Schmeichel,Kasper Schmeichel,Goalkeeper,LEI,1,0
+987947,Lössl,Jonas Lössl,Goalkeeper,HUD,2,0
+987947,Alisson,Alisson Ramses Becker,Goalkeeper,LIV,1,0
+987948,Kepa,Kepa Arrizabalaga Revuelta,Goalkeeper,CHE,3,0
+987948,De Gea,David De Gea,Goalkeeper,MUN,2,0
+987949,Boruc,Artur Boruc,Goalkeeper,BOU,4,0
+987949,Gunn,Angus Gunn,Goalkeeper,SOU,2,0
+987950,Lloris,Hugo Lloris,Goalkeeper,TOT,7,0
+987950,Fabianski,Lukasz Fabianski,Goalkeeper,WHU,5,0
+987951,Foster,Ben Foster,Goalkeeper,WAT,1,0
+987951,Rui Patrício,Rui Pedro dos Santos Patrício,Goalkeeper,WOL,0,0
+987952,Travers,Mark Travers,Goalkeeper,BOU,5,0
+987952,Lloris,Hugo Lloris,Goalkeeper,TOT,5,0
+987953,Leno,Bernd Leno,Goalkeeper,ARS,4,0
+987953,Mat Ryan,Mathew Ryan,Goalkeeper,BHA,6,0
+987954,Etheridge,Neil Etheridge,Goalkeeper,CAR,4,0
+987954,Guaita,Vicente Guaita,Goalkeeper,CRY,6,0
+987955,Kepa,Kepa Arrizabalaga Revuelta,Goalkeeper,CHE,3,0
+987955,Foster,Ben Foster,Goalkeeper,WAT,6,0
+987956,Heaton,Tom Heaton,Goalkeeper,BUR,5,0
+987956,Pickford,Jordan Pickford,Goalkeeper,EVE,1,0
+987957,Lössl,Jonas Lössl,Goalkeeper,HUD,6,0
+987957,De Gea,David De Gea,Goalkeeper,MUN,2,0
+987958,Schmeichel,Kasper Schmeichel,Goalkeeper,LEI,4,0
+987958,Ederson,Ederson Santana de Moraes,Goalkeeper,MCI,2,0
+987959,Alisson,Alisson Ramses Becker,Goalkeeper,LIV,4,0
+987959,Dubravka,Martin Dubravka,Goalkeeper,NEW,1,0
+987960,Forster,Fraser Forster,Goalkeeper,SOU,4,0
+987960,Fabianski,Lukasz Fabianski,Goalkeeper,WHU,1,0
+987961,Sergio Rico,Sergio Rico González,Goalkeeper,FUL,5,0
+987961,Rui Patrício,Rui Pedro dos Santos Patrício,Goalkeeper,WOL,2,0
+987961,Norris,Will Norris,Goalkeeper,WOL,0,0
+987962,Mat Ryan,Mathew Ryan,Goalkeeper,BHA,5,0
+987962,Ederson,Ederson Santana de Moraes,Goalkeeper,MCI,1,0
+987963,Leno,Bernd Leno,Goalkeeper,ARS,3,0
+987963,Heaton,Tom Heaton,Goalkeeper,BUR,3,0
+987964,Travers,Mark Travers,Goalkeeper,BOU,4,0
+987964,Guaita,Vicente Guaita,Goalkeeper,CRY,5,0
+987965,Sergio Rico,Sergio Rico González,Goalkeeper,FUL,2,0
+987965,Dubravka,Martin Dubravka,Goalkeeper,NEW,2,0
+987966,Caballero,Willy Caballero,Goalkeeper,CHE,3,0
+987966,Schmeichel,Kasper Schmeichel,Goalkeeper,LEI,4,0
+987967,Alisson,Alisson Ramses Becker,Goalkeeper,LIV,2,0
+987967,Rui Patrício,Rui Pedro dos Santos Patrício,Goalkeeper,WOL,3,0
+987968,Etheridge,Neil Etheridge,Goalkeeper,CAR,10,0
+987968,De Gea,David De Gea,Goalkeeper,MUN,2,0
+987969,Coleman (Joel),Joel Coleman,Goalkeeper,HUD,2,0
+987969,Gunn,Angus Gunn,Goalkeeper,SOU,2,0
+987970,Pickford,Jordan Pickford,Goalkeeper,EVE,1,0
+987970,Lloris,Hugo Lloris,Goalkeeper,TOT,7,0
+987971,Foster,Ben Foster,Goalkeeper,WAT,5,0
+987971,Fabianski,Lukasz Fabianski,Goalkeeper,WHU,7,0

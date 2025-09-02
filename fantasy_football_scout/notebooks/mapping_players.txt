@@ -1,0 +1,32 @@
+The problem: If a player name changes from season to season, their historic data is not acknowledged
+
+I need to get a list of the players names who have changed, and convert them into the most recent names.
+
+Sometimes a name change will occur and the player is at the same club, sometimes they are at a new club. 
+It is not easy to tell, since perhaps they are just a new player who has joined the league
+
+Proposed solution:
+
+Group by squads and see if I pick up on any name chnages manually. - whats going to have to happen is I get the latest nickname for this, as full names dont seem to change.
+
+Gather data on new players transferred into the league.
+
+Gather data on players who have left the league - maybe not relevant.
+
+Manually go through remianing players and see if theyve changed clubs and names updated.
+
+
+Gather data on new players to the league, as a lookalike will have to be found to match this player. I will do this by finding a player at a similar team,
+similar price range, and similar position.
+
+
+
+
+
+PLAN OF ATTACK:
+
+Track players with no history
+check that the transfer table name is in full name
+if not, then print out list and manually check
+otherwise full name should be the same.
+ayyyy

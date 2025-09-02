@@ -1,0 +1,777 @@
+match_id,nick_name,full_name,pos,team,saves,pen_saves
+2367538,Trafford,James Trafford,Goalkeeper,BUR,5,0
+2367538,Ederson,Ederson Santana de Moraes,Goalkeeper,MCI,1,0
+2367539,Neto,Norberto Murara Neto,Goalkeeper,BOU,1,0
+2367539,Areola,Alphonse Areola,Goalkeeper,WHU,4,0
+2367540,Ramsdale,Aaron Ramsdale,Goalkeeper,ARS,1,0
+2367540,Turner,Matt Turner,Goalkeeper,NFO,5,0
+2367541,Steele,Jason Steele,Goalkeeper,BHA,2,0
+2367541,Kaminski,Thomas Kaminski,Goalkeeper,LUT,8,0
+2367542,Pickford,Jordan Pickford,Goalkeeper,EVE,1,0
+2367542,Leno,Bernd Leno,Goalkeeper,FUL,9,0
+2367543,Martinez,Emiliano Martinez,Goalkeeper,AVL,7,0
+2367543,Pope,Nick Pope,Goalkeeper,NEW,5,0
+2367544,Johnstone,Sam Johnstone,Goalkeeper,CRY,1,0
+2367544,Foderingham,Wes Foderingham,Goalkeeper,SHU,7,0
+2367545,Flekken,Mark Flekken,Goalkeeper,BRE,4,0
+2367545,Vicario,Guglielmo Vicario,Goalkeeper,TOT,4,0
+2367546,Sanchez,Robert Sanchez,Goalkeeper,CHE,1,0
+2367546,Alisson,Alisson Ramses Becker,Goalkeeper,LIV,4,0
+2367547,Onana,André Onana,Goalkeeper,MUN,6,0
+2367547,José Sá,José Pedro Malheiro de Sá,Goalkeeper,WOL,2,0
+2367548,Martinez,Emiliano Martinez,Goalkeeper,AVL,2,0
+2367548,Pickford,Jordan Pickford,Goalkeeper,EVE,3,0
+2367549,Ramsdale,Aaron Ramsdale,Goalkeeper,ARS,2,0
+2367549,Johnstone,Sam Johnstone,Goalkeeper,CRY,2,0
+2367550,Flekken,Mark Flekken,Goalkeeper,BRE,2,0
+2367550,Leno,Bernd Leno,Goalkeeper,FUL,5,0
+2367551,Neto,Norberto Murara Neto,Goalkeeper,BOU,8,1
+2367551,Alisson,Alisson Ramses Becker,Goalkeeper,LIV,4,0
+2367552,Trafford,James Trafford,Goalkeeper,BUR,1,0
+2367552,Kaminski,Thomas Kaminski,Goalkeeper,LUT,3,0
+2367553,Ederson,Ederson Santana de Moraes,Goalkeeper,MCI,1,0
+2367553,Pope,Nick Pope,Goalkeeper,NEW,3,0
+2367554,Turner,Matt Turner,Goalkeeper,NFO,2,0
+2367554,Foderingham,Wes Foderingham,Goalkeeper,SHU,2,0
+2367555,Onana,André Onana,Goalkeeper,MUN,5,0
+2367555,Vicario,Guglielmo Vicario,Goalkeeper,TOT,6,0
+2367556,Sanchez,Robert Sanchez,Goalkeeper,CHE,3,0
+2367556,Areola,Alphonse Areola,Goalkeeper,WHU,3,1
+2367557,Steele,Jason Steele,Goalkeeper,BHA,4,0
+2367557,José Sá,José Pedro Malheiro de Sá,Goalkeeper,WOL,4,0
+2367558,Neto,Norberto Murara Neto,Goalkeeper,BOU,4,0
+2367558,Vicario,Guglielmo Vicario,Goalkeeper,TOT,3,0
+2367559,Ramsdale,Aaron Ramsdale,Goalkeeper,ARS,1,0
+2367559,Leno,Bernd Leno,Goalkeeper,FUL,8,0
+2367560,Flekken,Mark Flekken,Goalkeeper,BRE,4,0
+2367560,Johnstone,Sam Johnstone,Goalkeeper,CRY,0,0
+2367561,Verbruggen,Bart Verbruggen,Goalkeeper,BHA,4,0
+2367561,Areola,Alphonse Areola,Goalkeeper,WHU,9,0
+2367562,Olsen,Robin Olsen,Goalkeeper,AVL,1,0
+2367562,Trafford,James Trafford,Goalkeeper,BUR,3,0
+2367563,Sanchez,Robert Sanchez,Goalkeeper,CHE,1,0
+2367563,Kaminski,Thomas Kaminski,Goalkeeper,LUT,5,0
+2367564,Pickford,Jordan Pickford,Goalkeeper,EVE,2,0
+2367564,José Sá,José Pedro Malheiro de Sá,Goalkeeper,WOL,7,0
+2367565,Onana,André Onana,Goalkeeper,MUN,2,0
+2367565,Turner,Matt Turner,Goalkeeper,NFO,7,0
+2367566,Alisson,Alisson Ramses Becker,Goalkeeper,LIV,7,0
+2367566,Pope,Nick Pope,Goalkeeper,NEW,2,0
+2367567,Ederson,Ederson Santana de Moraes,Goalkeeper,MCI,0,0
+2367567,Foderingham,Wes Foderingham,Goalkeeper,SHU,7,0
+2367568,Ramsdale,Aaron Ramsdale,Goalkeeper,ARS,1,0
+2367568,Onana,André Onana,Goalkeeper,MUN,2,0
+2367569,Neto,Norberto Murara Neto,Goalkeeper,BOU,6,0
+2367569,Flekken,Mark Flekken,Goalkeeper,BRE,3,0
+2367570,Verbruggen,Bart Verbruggen,Goalkeeper,BHA,2,0
+2367570,Pope,Nick Pope,Goalkeeper,NEW,4,0
+2367571,Trafford,James Trafford,Goalkeeper,BUR,6,0
+2367571,Vicario,Guglielmo Vicario,Goalkeeper,TOT,3,0
+2367572,Sanchez,Robert Sanchez,Goalkeeper,CHE,2,0
+2367572,Turner,Matt Turner,Goalkeeper,NFO,2,0
+2367573,Johnstone,Sam Johnstone,Goalkeeper,CRY,2,0
+2367573,José Sá,José Pedro Malheiro de Sá,Goalkeeper,WOL,7,0
+2367574,Martinez,Emiliano Martinez,Goalkeeper,AVL,2,0
+2367574,Alisson,Alisson Ramses Becker,Goalkeeper,LIV,3,0
+2367575,Kaminski,Thomas Kaminski,Goalkeeper,LUT,1,0
+2367575,Areola,Alphonse Areola,Goalkeeper,WHU,0,0
+2367576,Leno,Bernd Leno,Goalkeeper,FUL,0,0
+2367576,Ederson,Ederson Santana de Moraes,Goalkeeper,MCI,3,0
+2367577,Pickford,Jordan Pickford,Goalkeeper,EVE,6,0
+2367577,Foderingham,Wes Foderingham,Goalkeeper,SHU,4,0
+2367578,Neto,Norberto Murara Neto,Goalkeeper,BOU,6,0
+2367578,Sanchez,Robert Sanchez,Goalkeeper,CHE,4,0
+2367579,Martinez,Emiliano Martinez,Goalkeeper,AVL,2,0
+2367579,Johnstone,Sam Johnstone,Goalkeeper,CRY,2,0
+2367580,Raya Martin,David Raya Martin,Goalkeeper,ARS,1,0
+2367580,Pickford,Jordan Pickford,Goalkeeper,EVE,3,0
+2367581,Leno,Bernd Leno,Goalkeeper,FUL,2,0
+2367581,Kaminski,Thomas Kaminski,Goalkeeper,LUT,1,0
+2367582,Steele,Jason Steele,Goalkeeper,BHA,3,0
+2367582,Onana,André Onana,Goalkeeper,MUN,5,0
+2367583,Flekken,Mark Flekken,Goalkeeper,BRE,1,0
+2367583,Pope,Nick Pope,Goalkeeper,NEW,2,0
+2367584,Trafford,James Trafford,Goalkeeper,BUR,3,0
+2367584,Turner,Matt Turner,Goalkeeper,NFO,2,0
+2367585,Foderingham,Wes Foderingham,Goalkeeper,SHU,8,0
+2367585,Vicario,Guglielmo Vicario,Goalkeeper,TOT,4,0
+2367586,Ederson,Ederson Santana de Moraes,Goalkeeper,MCI,2,0
+2367586,Areola,Alphonse Areola,Goalkeeper,WHU,10,0
+2367587,Alisson,Alisson Ramses Becker,Goalkeeper,LIV,1,0
+2367587,José Sá,José Pedro Malheiro de Sá,Goalkeeper,WOL,3,0
+2367588,Raya Martin,David Raya Martin,Goalkeeper,ARS,3,0
+2367588,Vicario,Guglielmo Vicario,Goalkeeper,TOT,4,0
+2367589,Flekken,Mark Flekken,Goalkeeper,BRE,3,0
+2367589,Pickford,Jordan Pickford,Goalkeeper,EVE,1,0
+2367590,Neto,Norberto Murara Neto,Goalkeeper,BOU,2,0
+2367590,Verbruggen,Bart Verbruggen,Goalkeeper,BHA,2,0
+2367591,Trafford,James Trafford,Goalkeeper,BUR,3,0
+2367591,Onana,André Onana,Goalkeeper,MUN,4,0
+2367592,Martinez,Emiliano Martinez,Goalkeeper,AVL,4,0
+2367592,Sanchez,Robert Sanchez,Goalkeeper,CHE,6,0
+2367593,Johnstone,Sam Johnstone,Goalkeeper,CRY,5,0
+2367593,Leno,Bernd Leno,Goalkeeper,FUL,3,0
+2367594,Alisson,Alisson Ramses Becker,Goalkeeper,LIV,3,0
+2367594,Areola,Alphonse Areola,Goalkeeper,WHU,4,0
+2367595,Kaminski,Thomas Kaminski,Goalkeeper,LUT,2,0
+2367595,José Sá,José Pedro Malheiro de Sá,Goalkeeper,WOL,3,0
+2367596,Ederson,Ederson Santana de Moraes,Goalkeeper,MCI,3,0
+2367596,Turner,Matt Turner,Goalkeeper,NFO,2,0
+2367597,Pope,Nick Pope,Goalkeeper,NEW,1,0
+2367597,Foderingham,Wes Foderingham,Goalkeeper,SHU,7,0
+2367598,Raya Martin,David Raya Martin,Goalkeeper,ARS,1,0
+2367598,Neto,Norberto Murara Neto,Goalkeeper,BOU,4,0
+2367599,Martinez,Emiliano Martinez,Goalkeeper,AVL,2,0
+2367599,Steele,Jason Steele,Goalkeeper,BHA,4,0
+2367600,Pickford,Jordan Pickford,Goalkeeper,EVE,0,0
+2367600,Kaminski,Thomas Kaminski,Goalkeeper,LUT,3,0
+2367601,Sanchez,Robert Sanchez,Goalkeeper,CHE,3,0
+2367601,Leno,Bernd Leno,Goalkeeper,FUL,2,0
+2367602,Johnstone,Sam Johnstone,Goalkeeper,CRY,3,0
+2367602,Onana,André Onana,Goalkeeper,MUN,1,0
+2367603,Trafford,James Trafford,Goalkeeper,BUR,5,0
+2367603,Pope,Nick Pope,Goalkeeper,NEW,2,0
+2367604,Flekken,Mark Flekken,Goalkeeper,BRE,0,0
+2367604,Turner,Matt Turner,Goalkeeper,NFO,3,0
+2367605,Alisson,Alisson Ramses Becker,Goalkeeper,LIV,8,0
+2367605,Vicario,Guglielmo Vicario,Goalkeeper,TOT,3,0
+2367606,Foderingham,Wes Foderingham,Goalkeeper,SHU,6,0
+2367606,Areola,Alphonse Areola,Goalkeeper,WHU,2,0
+2367607,Ederson,Ederson Santana de Moraes,Goalkeeper,MCI,0,0
+2367607,José Sá,José Pedro Malheiro de Sá,Goalkeeper,WOL,7,0
+2367608,Raya Martin,David Raya Martin,Goalkeeper,ARS,0,0
+2367608,Ederson,Ederson Santana de Moraes,Goalkeeper,MCI,1,0
+2367609,Verbruggen,Bart Verbruggen,Goalkeeper,BHA,2,0
+2367609,Alisson,Alisson Ramses Becker,Goalkeeper,LIV,1,0
+2367610,Trafford,James Trafford,Goalkeeper,BUR,2,0
+2367610,Sanchez,Robert Sanchez,Goalkeeper,CHE,2,0
+2367611,Johnstone,Sam Johnstone,Goalkeeper,CRY,5,0
+2367611,Turner,Matt Turner,Goalkeeper,NFO,2,0
+2367612,Neto,Norberto Murara Neto,Goalkeeper,BOU,5,0
+2367612,Pickford,Jordan Pickford,Goalkeeper,EVE,3,0
+2367613,Leno,Bernd Leno,Goalkeeper,FUL,2,0
+2367613,Foderingham,Wes Foderingham,Goalkeeper,SHU,4,0
+2367614,Kaminski,Thomas Kaminski,Goalkeeper,LUT,3,0
+2367614,Vicario,Guglielmo Vicario,Goalkeeper,TOT,2,0
+2367615,Strakosha,Thomas Strakosha,Goalkeeper,BRE,6,0
+2367615,Onana,André Onana,Goalkeeper,MUN,2,0
+2367616,Pope,Nick Pope,Goalkeeper,NEW,1,0
+2367616,Areola,Alphonse Areola,Goalkeeper,WHU,1,0
+2367617,Martinez,Emiliano Martinez,Goalkeeper,AVL,2,0
+2367617,José Sá,José Pedro Malheiro de Sá,Goalkeeper,WOL,3,0
+2367618,Neto,Norberto Murara Neto,Goalkeeper,BOU,5,0
+2367618,José Sá,José Pedro Malheiro de Sá,Goalkeeper,WOL,3,0
+2367619,Martinez,Emiliano Martinez,Goalkeeper,AVL,3,0
+2367619,Areola,Alphonse Areola,Goalkeeper,WHU,4,0
+2367620,Flekken,Mark Flekken,Goalkeeper,BRE,1,0
+2367620,Trafford,James Trafford,Goalkeeper,BUR,6,0
+2367621,Raya Martin,David Raya Martin,Goalkeeper,ARS,3,0
+2367621,Sanchez,Robert Sanchez,Goalkeeper,CHE,1,0
+2367622,Pickford,Jordan Pickford,Goalkeeper,EVE,4,0
+2367622,Alisson,Alisson Ramses Becker,Goalkeeper,LIV,1,0
+2367623,Steele,Jason Steele,Goalkeeper,BHA,4,0
+2367623,Ortega Moreno,Stefan Ortega Moreno,Goalkeeper,MCI,2,0
+2367624,Johnstone,Sam Johnstone,Goalkeeper,CRY,3,0
+2367624,Pope,Nick Pope,Goalkeeper,NEW,3,0
+2367625,Kaminski,Thomas Kaminski,Goalkeeper,LUT,6,0
+2367625,Turner,Matt Turner,Goalkeeper,NFO,2,0
+2367626,Onana,André Onana,Goalkeeper,MUN,5,0
+2367626,Foderingham,Wes Foderingham,Goalkeeper,SHU,3,0
+2367627,Leno,Bernd Leno,Goalkeeper,FUL,3,0
+2367627,Vicario,Guglielmo Vicario,Goalkeeper,TOT,3,0
+2367628,Radu,Ionut Radu,Goalkeeper,BOU,3,0
+2367628,Trafford,James Trafford,Goalkeeper,BUR,4,0
+2367629,Raya Martin,David Raya Martin,Goalkeeper,ARS,0,0
+2367629,Foderingham,Wes Foderingham,Goalkeeper,SHU,2,0
+2367630,Martinez,Emiliano Martinez,Goalkeeper,AVL,1,0
+2367630,Kaminski,Thomas Kaminski,Goalkeeper,LUT,4,0
+2367631,Steele,Jason Steele,Goalkeeper,BHA,4,0
+2367631,Leno,Bernd Leno,Goalkeeper,FUL,5,0
+2367632,Flekken,Mark Flekken,Goalkeeper,BRE,2,0
+2367632,Sanchez,Robert Sanchez,Goalkeeper,CHE,3,0
+2367633,Johnstone,Sam Johnstone,Goalkeeper,CRY,0,0
+2367633,Vicario,Guglielmo Vicario,Goalkeeper,TOT,2,0
+2367634,Alisson,Alisson Ramses Becker,Goalkeeper,LIV,1,0
+2367634,Turner,Matt Turner,Goalkeeper,NFO,5,0
+2367635,Ederson,Ederson Santana de Moraes,Goalkeeper,MCI,3,0
+2367635,Onana,André Onana,Goalkeeper,MUN,8,0
+2367636,Pickford,Jordan Pickford,Goalkeeper,EVE,2,0
+2367636,Areola,Alphonse Areola,Goalkeeper,WHU,3,0
+2367637,Pope,Nick Pope,Goalkeeper,NEW,4,0
+2367637,José Sá,José Pedro Malheiro de Sá,Goalkeeper,WOL,2,0
+2367638,Flekken,Mark Flekken,Goalkeeper,BRE,0,0
+2367638,Strakosha,Thomas Strakosha,Goalkeeper,BRE,0,0
+2367638,Areola,Alphonse Areola,Goalkeeper,WHU,2,0
+2367639,Trafford,James Trafford,Goalkeeper,BUR,1,0
+2367639,Johnstone,Sam Johnstone,Goalkeeper,CRY,5,0
+2367640,Verbruggen,Bart Verbruggen,Goalkeeper,BHA,3,0
+2367640,Pickford,Jordan Pickford,Goalkeeper,EVE,2,0
+2367641,Leno,Bernd Leno,Goalkeeper,FUL,4,0
+2367641,Onana,André Onana,Goalkeeper,MUN,2,0
+2367642,Alisson,Alisson Ramses Becker,Goalkeeper,LIV,4,0
+2367642,Kaminski,Thomas Kaminski,Goalkeeper,LUT,5,0
+2367643,Radu,Ionut Radu,Goalkeeper,BOU,2,0
+2367643,Ederson,Ederson Santana de Moraes,Goalkeeper,MCI,0,0
+2367644,Raya Martin,David Raya Martin,Goalkeeper,ARS,0,0
+2367644,Pope,Nick Pope,Goalkeeper,NEW,1,0
+2367645,Martinez,Emiliano Martinez,Goalkeeper,AVL,1,0
+2367645,Vlachodimos,Odisseas Vlachodimos,Goalkeeper,NFO,3,0
+2367646,Foderingham,Wes Foderingham,Goalkeeper,SHU,2,0
+2367646,José Sá,José Pedro Malheiro de Sá,Goalkeeper,WOL,0,0
+2367647,Sanchez,Robert Sanchez,Goalkeeper,CHE,4,0
+2367647,Vicario,Guglielmo Vicario,Goalkeeper,TOT,3,0
+2367648,Neto,Norberto Murara Neto,Goalkeeper,BOU,5,0
+2367648,Pope,Nick Pope,Goalkeeper,NEW,8,0
+2367649,Raya Martin,David Raya Martin,Goalkeeper,ARS,4,0
+2367649,Trafford,James Trafford,Goalkeeper,BUR,3,0
+2367650,Martinez,Emiliano Martinez,Goalkeeper,AVL,4,0
+2367650,Leno,Bernd Leno,Goalkeeper,FUL,4,0
+2367651,Steele,Jason Steele,Goalkeeper,BHA,1,0
+2367651,Foderingham,Wes Foderingham,Goalkeeper,SHU,5,0
+2367652,Sanchez,Robert Sanchez,Goalkeeper,CHE,6,0
+2367652,Ederson,Ederson Santana de Moraes,Goalkeeper,MCI,5,0
+2367653,Johnstone,Sam Johnstone,Goalkeeper,CRY,1,0
+2367653,Pickford,Jordan Pickford,Goalkeeper,EVE,3,0
+2367654,Flekken,Mark Flekken,Goalkeeper,BRE,8,0
+2367654,Alisson,Alisson Ramses Becker,Goalkeeper,LIV,3,0
+2367655,Kaminski,Thomas Kaminski,Goalkeeper,LUT,3,0
+2367655,Onana,André Onana,Goalkeeper,MUN,4,0
+2367656,Vlachodimos,Odisseas Vlachodimos,Goalkeeper,NFO,3,0
+2367656,Areola,Alphonse Areola,Goalkeeper,WHU,3,0
+2367657,Vicario,Guglielmo Vicario,Goalkeeper,TOT,2,0
+2367657,José Sá,José Pedro Malheiro de Sá,Goalkeeper,WOL,1,0
+2367658,Ramsdale,Aaron Ramsdale,Goalkeeper,ARS,1,0
+2367658,Flekken,Mark Flekken,Goalkeeper,BRE,3,0
+2367659,Trafford,James Trafford,Goalkeeper,BUR,2,0
+2367659,Areola,Alphonse Areola,Goalkeeper,WHU,4,0
+2367660,Pickford,Jordan Pickford,Goalkeeper,EVE,1,0
+2367660,Onana,André Onana,Goalkeeper,MUN,6,0
+2367661,Leno,Bernd Leno,Goalkeeper,FUL,5,0
+2367661,José Sá,José Pedro Malheiro de Sá,Goalkeeper,WOL,3,0
+2367662,Johnstone,Sam Johnstone,Goalkeeper,CRY,1,0
+2367662,Kaminski,Thomas Kaminski,Goalkeeper,LUT,7,0
+2367663,Alisson,Alisson Ramses Becker,Goalkeeper,LIV,4,0
+2367663,Ederson,Ederson Santana de Moraes,Goalkeeper,MCI,3,0
+2367664,Sanchez,Robert Sanchez,Goalkeeper,CHE,1,0
+2367664,Pope,Nick Pope,Goalkeeper,NEW,3,0
+2367665,Verbruggen,Bart Verbruggen,Goalkeeper,BHA,3,0
+2367665,Vlachodimos,Odisseas Vlachodimos,Goalkeeper,NFO,2,0
+2367666,Neto,Norberto Murara Neto,Goalkeeper,BOU,1,0
+2367666,Foderingham,Wes Foderingham,Goalkeeper,SHU,8,0
+2367667,Martinez,Emiliano Martinez,Goalkeeper,AVL,6,0
+2367667,Vicario,Guglielmo Vicario,Goalkeeper,TOT,3,0
+2367668,Martinez,Emiliano Martinez,Goalkeeper,AVL,5,0
+2367668,Neto,Norberto Murara Neto,Goalkeeper,BOU,2,0
+2367669,Raya Martin,David Raya Martin,Goalkeeper,ARS,2,0
+2367669,Bentley,Daniel Bentley,Goalkeeper,WOL,3,0
+2367669,José Sá,José Pedro Malheiro de Sá,Goalkeeper,WOL,1,0
+2367670,Flekken,Mark Flekken,Goalkeeper,BRE,0,0
+2367670,Kaminski,Thomas Kaminski,Goalkeeper,LUT,3,0
+2367671,Trafford,James Trafford,Goalkeeper,BUR,3,0
+2367671,Foderingham,Wes Foderingham,Goalkeeper,SHU,2,0
+2367672,Steele,Jason Steele,Goalkeeper,BHA,2,0
+2367672,Sanchez,Robert Sanchez,Goalkeeper,CHE,7,0
+2367673,Leno,Bernd Leno,Goalkeeper,FUL,9,0
+2367673,Kelleher,Caoimhin Kelleher,Goalkeeper,LIV,2,0
+2367674,Ederson,Ederson Santana de Moraes,Goalkeeper,MCI,1,0
+2367674,Vicario,Guglielmo Vicario,Goalkeeper,TOT,2,0
+2367675,Onana,André Onana,Goalkeeper,MUN,3,0
+2367675,Dubravka,Martin Dubravka,Goalkeeper,NEW,0,0
+2367675,Pope,Nick Pope,Goalkeeper,NEW,1,0
+2367676,Pickford,Jordan Pickford,Goalkeeper,EVE,2,0
+2367676,Vlachodimos,Odisseas Vlachodimos,Goalkeeper,NFO,1,0
+2367677,Johnstone,Sam Johnstone,Goalkeeper,CRY,2,0
+2367677,Areola,Alphonse Areola,Goalkeeper,WHU,1,0
+2367678,Martinez,Emiliano Martinez,Goalkeeper,AVL,2,0
+2367678,Ederson,Ederson Santana de Moraes,Goalkeeper,MCI,6,0
+2367679,Flekken,Mark Flekken,Goalkeeper,BRE,5,0
+2367679,Steele,Jason Steele,Goalkeeper,BHA,0,0
+2367680,Neto,Norberto Murara Neto,Goalkeeper,BOU,3,0
+2367680,Johnstone,Sam Johnstone,Goalkeeper,CRY,2,0
+2367681,Pickford,Jordan Pickford,Goalkeeper,EVE,3,0
+2367681,Dubravka,Martin Dubravka,Goalkeeper,NEW,3,0
+2367682,Leno,Bernd Leno,Goalkeeper,FUL,1,0
+2367682,Vlachodimos,Odisseas Vlachodimos,Goalkeeper,NFO,1,0
+2367683,Raya Martin,David Raya Martin,Goalkeeper,ARS,1,0
+2367683,Kaminski,Thomas Kaminski,Goalkeeper,LUT,6,0
+2367684,Kelleher,Caoimhin Kelleher,Goalkeeper,LIV,1,0
+2367684,Foderingham,Wes Foderingham,Goalkeeper,SHU,6,0
+2367685,Vicario,Guglielmo Vicario,Goalkeeper,TOT,3,0
+2367685,Fabianski,Lukasz Fabianski,Goalkeeper,WHU,5,0
+2367686,Trafford,James Trafford,Goalkeeper,BUR,3,0
+2367686,Bentley,Daniel Bentley,Goalkeeper,WOL,3,0
+2367687,Sanchez,Robert Sanchez,Goalkeeper,CHE,7,1
+2367687,Onana,André Onana,Goalkeeper,MUN,2,0
+2367688,Raya Martin,David Raya Martin,Goalkeeper,ARS,3,0
+2367688,Martinez,Emiliano Martinez,Goalkeeper,AVL,3,0
+2367689,Verbruggen,Bart Verbruggen,Goalkeeper,BHA,2,0
+2367689,Trafford,James Trafford,Goalkeeper,BUR,10,0
+2367690,Johnstone,Sam Johnstone,Goalkeeper,CRY,0,0
+2367690,Matthews,Remi Matthews,Goalkeeper,CRY,0,0
+2367690,Alisson,Alisson Ramses Becker,Goalkeeper,LIV,3,0
+2367691,Sanchez,Robert Sanchez,Goalkeeper,CHE,3,0
+2367691,Petrovic,Dorde Petrovic,Goalkeeper,CHE,0,0
+2367691,Pickford,Jordan Pickford,Goalkeeper,EVE,4,0
+2367692,Leno,Bernd Leno,Goalkeeper,FUL,5,0
+2367692,Fabianski,Lukasz Fabianski,Goalkeeper,WHU,3,0
+2367693,Kaminski,Thomas Kaminski,Goalkeeper,LUT,4,0
+2367693,Ederson,Ederson Santana de Moraes,Goalkeeper,MCI,1,0
+2367694,Neto,Norberto Murara Neto,Goalkeeper,BOU,3,0
+2367694,Onana,André Onana,Goalkeeper,MUN,1,0
+2367695,Flekken,Mark Flekken,Goalkeeper,BRE,3,0
+2367695,Foderingham,Wes Foderingham,Goalkeeper,SHU,4,0
+2367696,Dubravka,Martin Dubravka,Goalkeeper,NEW,7,0
+2367696,Vicario,Guglielmo Vicario,Goalkeeper,TOT,2,0
+2367697,Turner,Matt Turner,Goalkeeper,NFO,3,0
+2367697,José Sá,José Pedro Malheiro de Sá,Goalkeeper,WOL,1,0
+2367698,Neto,Norberto Murara Neto,Goalkeeper,BOU,1,0
+2367698,Kaminski,Thomas Kaminski,Goalkeeper,LUT,5,0
+2367699,Raya Martin,David Raya Martin,Goalkeeper,ARS,1,0
+2367699,Verbruggen,Bart Verbruggen,Goalkeeper,BHA,6,0
+2367700,Martinez,Emiliano Martinez,Goalkeeper,AVL,2,0
+2367700,Flekken,Mark Flekken,Goalkeeper,BRE,3,0
+2367701,Trafford,James Trafford,Goalkeeper,BUR,4,0
+2367701,Pickford,Jordan Pickford,Goalkeeper,EVE,2,0
+2367702,Petrovic,Dorde Petrovic,Goalkeeper,CHE,1,0
+2367702,Foderingham,Wes Foderingham,Goalkeeper,SHU,4,0
+2367703,Alisson,Alisson Ramses Becker,Goalkeeper,LIV,2,0
+2367703,Onana,André Onana,Goalkeeper,MUN,8,0
+2367704,Henderson (Dean),Dean Henderson,Goalkeeper,CRY,7,0
+2367704,Ederson,Ederson Santana de Moraes,Goalkeeper,MCI,0,0
+2367705,Leno,Bernd Leno,Goalkeeper,FUL,7,0
+2367705,Dubravka,Martin Dubravka,Goalkeeper,NEW,4,0
+2367706,Turner,Matt Turner,Goalkeeper,NFO,4,0
+2367706,Vicario,Guglielmo Vicario,Goalkeeper,TOT,1,0
+2367707,Fabianski,Lukasz Fabianski,Goalkeeper,WHU,3,0
+2367707,Bentley,Daniel Bentley,Goalkeeper,WOL,1,0
+2367708,Martinez,Emiliano Martinez,Goalkeeper,AVL,1,0
+2367708,Foderingham,Wes Foderingham,Goalkeeper,SHU,3,0
+2367709,Verbruggen,Bart Verbruggen,Goalkeeper,BHA,2,0
+2367709,Henderson (Dean),Dean Henderson,Goalkeeper,CRY,5,0
+2367710,Trafford,James Trafford,Goalkeeper,BUR,5,0
+2367710,Leno,Bernd Leno,Goalkeeper,FUL,0,0
+2367711,Raya Martin,David Raya Martin,Goalkeeper,ARS,2,0
+2367711,Alisson,Alisson Ramses Becker,Goalkeeper,LIV,1,0
+2367712,Kaminski,Thomas Kaminski,Goalkeeper,LUT,2,0
+2367712,Dubravka,Martin Dubravka,Goalkeeper,NEW,4,0
+2367713,Flekken,Mark Flekken,Goalkeeper,BRE,10,0
+2367713,Ederson,Ederson Santana de Moraes,Goalkeeper,MCI,2,0
+2367714,Neto,Norberto Murara Neto,Goalkeeper,BOU,2,0
+2367714,Turner,Matt Turner,Goalkeeper,NFO,3,0
+2367715,Pickford,Jordan Pickford,Goalkeeper,EVE,4,0
+2367715,Vicario,Guglielmo Vicario,Goalkeeper,TOT,7,0
+2367716,Onana,André Onana,Goalkeeper,MUN,3,0
+2367716,Areola,Alphonse Areola,Goalkeeper,WHU,3,0
+2367717,Petrovic,Dorde Petrovic,Goalkeeper,CHE,4,0
+2367717,José Sá,José Pedro Malheiro de Sá,Goalkeeper,WOL,3,0
+2367718,Neto,Norberto Murara Neto,Goalkeeper,BOU,3,0
+2367718,Leno,Bernd Leno,Goalkeeper,FUL,1,0
+2367719,Raya Martin,David Raya Martin,Goalkeeper,ARS,1,1
+2367719,Areola,Alphonse Areola,Goalkeeper,WHU,8,0
+2367720,Flekken,Mark Flekken,Goalkeeper,BRE,1,0
+2367720,José Sá,José Pedro Malheiro de Sá,Goalkeeper,WOL,3,0
+2367721,Steele,Jason Steele,Goalkeeper,BHA,1,0
+2367721,Vicario,Guglielmo Vicario,Goalkeeper,TOT,5,0
+2367722,Trafford,James Trafford,Goalkeeper,BUR,8,0
+2367722,Alisson,Alisson Ramses Becker,Goalkeeper,LIV,0,0
+2367723,Petrovic,Dorde Petrovic,Goalkeeper,CHE,4,0
+2367723,Henderson (Dean),Dean Henderson,Goalkeeper,CRY,1,0
+2367724,Pickford,Jordan Pickford,Goalkeeper,EVE,6,0
+2367724,Ederson,Ederson Santana de Moraes,Goalkeeper,MCI,1,0
+2367725,Martinez,Emiliano Martinez,Goalkeeper,AVL,4,0
+2367725,Onana,André Onana,Goalkeeper,MUN,1,0
+2367726,Dubravka,Martin Dubravka,Goalkeeper,NEW,3,0
+2367726,Turner,Matt Turner,Goalkeeper,NFO,5,0
+2367727,Kaminski,Thomas Kaminski,Goalkeeper,LUT,2,0
+2367727,Foderingham,Wes Foderingham,Goalkeeper,SHU,3,0
+2367728,Martinez,Emiliano Martinez,Goalkeeper,AVL,3,0
+2367728,Trafford,James Trafford,Goalkeeper,BUR,4,0
+2367729,Flekken,Mark Flekken,Goalkeeper,BRE,3,0
+2367729,Henderson (Dean),Dean Henderson,Goalkeeper,CRY,4,0
+2367730,Raya Martin,David Raya Martin,Goalkeeper,ARS,2,0
+2367730,Leno,Bernd Leno,Goalkeeper,FUL,2,0
+2367731,Alisson,Alisson Ramses Becker,Goalkeeper,LIV,1,0
+2367731,Dubravka,Martin Dubravka,Goalkeeper,NEW,10,1
+2367732,Petrovic,Dorde Petrovic,Goalkeeper,CHE,4,0
+2367732,Kaminski,Thomas Kaminski,Goalkeeper,LUT,5,0
+2367733,Ederson,Ederson Santana de Moraes,Goalkeeper,MCI,2,0
+2367733,Foderingham,Wes Foderingham,Goalkeeper,SHU,2,0
+2367734,Onana,André Onana,Goalkeeper,MUN,0,0
+2367734,Turner,Matt Turner,Goalkeeper,NFO,4,0
+2367735,Neto,Norberto Murara Neto,Goalkeeper,BOU,3,0
+2367735,Vicario,Guglielmo Vicario,Goalkeeper,TOT,3,0
+2367736,Steele,Jason Steele,Goalkeeper,BHA,2,0
+2367736,Areola,Alphonse Areola,Goalkeeper,WHU,8,0
+2367737,Pickford,Jordan Pickford,Goalkeeper,EVE,4,0
+2367737,José Sá,José Pedro Malheiro de Sá,Goalkeeper,WOL,0,0
+2367738,Neto,Norberto Murara Neto,Goalkeeper,BOU,3,0
+2367738,Alisson,Alisson Ramses Becker,Goalkeeper,LIV,1,0
+2367739,Raya Martin,David Raya Martin,Goalkeeper,ARS,5,0
+2367739,Henderson (Dean),Dean Henderson,Goalkeeper,CRY,2,0
+2367740,Flekken,Mark Flekken,Goalkeeper,BRE,1,0
+2367740,Turner,Matt Turner,Goalkeeper,NFO,2,0
+2367741,Steele,Jason Steele,Goalkeeper,BHA,3,0
+2367741,José Sá,José Pedro Malheiro de Sá,Goalkeeper,WOL,3,0
+2367742,Trafford,James Trafford,Goalkeeper,BUR,4,0
+2367742,Kaminski,Thomas Kaminski,Goalkeeper,LUT,7,0
+2367743,Petrovic,Dorde Petrovic,Goalkeeper,CHE,4,0
+2367743,Leno,Bernd Leno,Goalkeeper,FUL,2,0
+2367744,Martinez,Emiliano Martinez,Goalkeeper,AVL,2,0
+2367744,Pickford,Jordan Pickford,Goalkeeper,EVE,4,0
+2367745,Onana,André Onana,Goalkeeper,MUN,3,0
+2367745,Vicario,Guglielmo Vicario,Goalkeeper,TOT,0,0
+2367746,Ortega Moreno,Stefan Ortega Moreno,Goalkeeper,MCI,3,0
+2367746,Ederson,Ederson Santana de Moraes,Goalkeeper,MCI,0,0
+2367746,Dubravka,Martin Dubravka,Goalkeeper,NEW,8,0
+2367747,Foderingham,Wes Foderingham,Goalkeeper,SHU,3,0
+2367747,Fabianski,Lukasz Fabianski,Goalkeeper,WHU,0,0
+2367747,Areola,Alphonse Areola,Goalkeeper,WHU,4,0
+2367748,Martinez,Emiliano Martinez,Goalkeeper,AVL,3,0
+2367748,Dubravka,Martin Dubravka,Goalkeeper,NEW,4,0
+2367749,Henderson (Dean),Dean Henderson,Goalkeeper,CRY,3,0
+2367749,Foderingham,Wes Foderingham,Goalkeeper,SHU,1,0
+2367749,Grbic,Ivo Grbic,Goalkeeper,SHU,0,0
+2367750,Pickford,Jordan Pickford,Goalkeeper,EVE,5,0
+2367750,Leno,Bernd Leno,Goalkeeper,FUL,3,0
+2367751,Steele,Jason Steele,Goalkeeper,BHA,4,0
+2367751,Kaminski,Thomas Kaminski,Goalkeeper,LUT,2,0
+2367752,Raya Martin,David Raya Martin,Goalkeeper,ARS,2,0
+2367752,Turner,Matt Turner,Goalkeeper,NFO,2,0
+2367753,Flekken,Mark Flekken,Goalkeeper,BRE,2,0
+2367753,Vicario,Guglielmo Vicario,Goalkeeper,TOT,3,0
+2367754,Neto,Norberto Murara Neto,Goalkeeper,BOU,2,0
+2367754,Areola,Alphonse Areola,Goalkeeper,WHU,3,0
+2367755,Onana,André Onana,Goalkeeper,MUN,3,0
+2367755,José Sá,José Pedro Malheiro de Sá,Goalkeeper,WOL,5,0
+2367756,Petrovic,Dorde Petrovic,Goalkeeper,CHE,9,0
+2367756,Alisson,Alisson Ramses Becker,Goalkeeper,LIV,2,0
+2367757,Trafford,James Trafford,Goalkeeper,BUR,2,0
+2367757,Ederson,Ederson Santana de Moraes,Goalkeeper,MCI,2,0
+2367758,Neto,Norberto Murara Neto,Goalkeeper,BOU,5,0
+2367758,Sels,Matz Sels,Goalkeeper,NFO,0,0
+2367759,Raya Martin,David Raya Martin,Goalkeeper,ARS,1,0
+2367759,Alisson,Alisson Ramses Becker,Goalkeeper,LIV,4,0
+2367760,Flekken,Mark Flekken,Goalkeeper,BRE,12,0
+2367760,Ederson,Ederson Santana de Moraes,Goalkeeper,MCI,1,0
+2367761,Verbruggen,Bart Verbruggen,Goalkeeper,BHA,4,0
+2367761,Henderson (Dean),Dean Henderson,Goalkeeper,CRY,2,0
+2367762,Trafford,James Trafford,Goalkeeper,BUR,5,0
+2367762,Leno,Bernd Leno,Goalkeeper,FUL,2,0
+2367763,Petrovic,Dorde Petrovic,Goalkeeper,CHE,4,0
+2367763,José Sá,José Pedro Malheiro de Sá,Goalkeeper,WOL,2,0
+2367764,Pickford,Jordan Pickford,Goalkeeper,EVE,4,0
+2367764,Vicario,Guglielmo Vicario,Goalkeeper,TOT,3,0
+2367765,Onana,André Onana,Goalkeeper,MUN,4,0
+2367765,Fabianski,Lukasz Fabianski,Goalkeeper,WHU,0,0
+2367765,Areola,Alphonse Areola,Goalkeeper,WHU,2,0
+2367766,Kaminski,Thomas Kaminski,Goalkeeper,LUT,2,0
+2367766,Dubravka,Martin Dubravka,Goalkeeper,NEW,4,0
+2367767,Martinez,Emiliano Martinez,Goalkeeper,AVL,4,0
+2367767,Foderingham,Wes Foderingham,Goalkeeper,SHU,4,0
+2367768,Martinez,Emiliano Martinez,Goalkeeper,AVL,3,0
+2367768,Onana,André Onana,Goalkeeper,MUN,8,0
+2367769,Petrovic,Dorde Petrovic,Goalkeeper,CHE,3,0
+2367769,Henderson (Dean),Dean Henderson,Goalkeeper,CRY,2,0
+2367770,Neto,Norberto Murara Neto,Goalkeeper,BOU,4,0
+2367770,Leno,Bernd Leno,Goalkeeper,FUL,4,0
+2367771,Trafford,James Trafford,Goalkeeper,BUR,7,0
+2367771,Kelleher,Caoimhin Kelleher,Goalkeeper,LIV,3,0
+2367772,Kaminski,Thomas Kaminski,Goalkeeper,LUT,0,0
+2367772,Foderingham,Wes Foderingham,Goalkeeper,SHU,4,0
+2367773,Pickford,Jordan Pickford,Goalkeeper,EVE,1,0
+2367773,Ederson,Ederson Santana de Moraes,Goalkeeper,MCI,1,0
+2367774,Dubravka,Martin Dubravka,Goalkeeper,NEW,1,0
+2367774,Sels,Matz Sels,Goalkeeper,NFO,2,0
+2367775,Steele,Jason Steele,Goalkeeper,BHA,4,0
+2367775,Vicario,Guglielmo Vicario,Goalkeeper,TOT,2,0
+2367776,Raya Martin,David Raya Martin,Goalkeeper,ARS,1,0
+2367776,Areola,Alphonse Areola,Goalkeeper,WHU,6,0
+2367777,Flekken,Mark Flekken,Goalkeeper,BRE,5,0
+2367777,José Sá,José Pedro Malheiro de Sá,Goalkeeper,WOL,4,0
+2367778,Flekken,Mark Flekken,Goalkeeper,BRE,4,0
+2367778,Kelleher,Caoimhin Kelleher,Goalkeeper,LIV,5,0
+2367779,Raya Martin,David Raya Martin,Goalkeeper,ARS,0,0
+2367779,Trafford,James Trafford,Goalkeeper,BUR,2,0
+2367780,Johnstone,Sam Johnstone,Goalkeeper,CRY,3,0
+2367780,Pickford,Jordan Pickford,Goalkeeper,EVE,2,0
+2367781,Martinez,Emiliano Martinez,Goalkeeper,AVL,3,0
+2367781,Leno,Bernd Leno,Goalkeeper,FUL,1,0
+2367782,Kaminski,Thomas Kaminski,Goalkeeper,LUT,6,0
+2367782,Onana,André Onana,Goalkeeper,MUN,3,0
+2367783,Petrovic,Dorde Petrovic,Goalkeeper,CHE,4,0
+2367783,Ederson,Ederson Santana de Moraes,Goalkeeper,MCI,5,0
+2367784,Neto,Norberto Murara Neto,Goalkeeper,BOU,4,0
+2367784,Dubravka,Martin Dubravka,Goalkeeper,NEW,4,0
+2367785,Sels,Matz Sels,Goalkeeper,NFO,3,0
+2367785,Areola,Alphonse Areola,Goalkeeper,WHU,6,0
+2367786,Verbruggen,Bart Verbruggen,Goalkeeper,BHA,1,0
+2367786,Foderingham,Wes Foderingham,Goalkeeper,SHU,7,0
+2367787,Vicario,Guglielmo Vicario,Goalkeeper,TOT,5,0
+2367787,José Sá,José Pedro Malheiro de Sá,Goalkeeper,WOL,4,0
+2367788,Neto,Norberto Murara Neto,Goalkeeper,BOU,5,0
+2367788,Ederson,Ederson Santana de Moraes,Goalkeeper,MCI,4,0
+2367789,Raya Martin,David Raya Martin,Goalkeeper,ARS,1,0
+2367789,Karius,Loris Karius,Goalkeeper,NEW,4,0
+2367790,Martinez,Emiliano Martinez,Goalkeeper,AVL,1,0
+2367790,Sels,Matz Sels,Goalkeeper,NFO,2,0
+2367791,Verbruggen,Bart Verbruggen,Goalkeeper,BHA,1,0
+2367791,Pickford,Jordan Pickford,Goalkeeper,EVE,6,0
+2367792,Petrovic,Dorde Petrovic,Goalkeeper,CHE,4,0
+2367792,Vicario,Guglielmo Vicario,Goalkeeper,TOT,2,0
+2367793,Trafford,James Trafford,Goalkeeper,BUR,3,0
+2367793,Johnstone,Sam Johnstone,Goalkeeper,CRY,0,0
+2367794,Kelleher,Caoimhin Kelleher,Goalkeeper,LIV,2,0
+2367794,Kaminski,Thomas Kaminski,Goalkeeper,LUT,9,0
+2367795,Leno,Bernd Leno,Goalkeeper,FUL,7,0
+2367795,Onana,André Onana,Goalkeeper,MUN,3,0
+2367796,Flekken,Mark Flekken,Goalkeeper,BRE,2,0
+2367796,Areola,Alphonse Areola,Goalkeeper,WHU,5,0
+2367797,Grbic,Ivo Grbic,Goalkeeper,SHU,1,0
+2367797,José Sá,José Pedro Malheiro de Sá,Goalkeeper,WOL,4,0
+2367798,Flekken,Mark Flekken,Goalkeeper,BRE,3,0
+2367798,Petrovic,Dorde Petrovic,Goalkeeper,CHE,3,0
+2367799,Neto,Norberto Murara Neto,Goalkeeper,BOU,5,0
+2367799,Trafford,James Trafford,Goalkeeper,BUR,1,0
+2367800,Pickford,Jordan Pickford,Goalkeeper,EVE,2,0
+2367800,Areola,Alphonse Areola,Goalkeeper,WHU,9,1
+2367801,Steele,Jason Steele,Goalkeeper,BHA,2,0
+2367801,Leno,Bernd Leno,Goalkeeper,FUL,5,0
+2367802,Martinez,Emiliano Martinez,Goalkeeper,AVL,2,0
+2367802,Kaminski,Thomas Kaminski,Goalkeeper,LUT,5,0
+2367803,Ederson,Ederson Santana de Moraes,Goalkeeper,MCI,0,0
+2367803,Onana,André Onana,Goalkeeper,MUN,5,0
+2367804,Dubravka,Martin Dubravka,Goalkeeper,NEW,3,0
+2367804,Bentley,Daniel Bentley,Goalkeeper,WOL,1,0
+2367804,José Sá,José Pedro Malheiro de Sá,Goalkeeper,WOL,2,0
+2367805,Kelleher,Caoimhin Kelleher,Goalkeeper,LIV,2,0
+2367805,Sels,Matz Sels,Goalkeeper,NFO,1,0
+2367806,Raya Martin,David Raya Martin,Goalkeeper,ARS,0,0
+2367806,Grbic,Ivo Grbic,Goalkeeper,SHU,4,0
+2367807,Johnstone,Sam Johnstone,Goalkeeper,CRY,3,0
+2367807,Vicario,Guglielmo Vicario,Goalkeeper,TOT,0,0
+2367808,Neto,Norberto Murara Neto,Goalkeeper,BOU,7,0
+2367808,Grbic,Ivo Grbic,Goalkeeper,SHU,9,0
+2367809,Ramsdale,Aaron Ramsdale,Goalkeeper,ARS,3,0
+2367809,Flekken,Mark Flekken,Goalkeeper,BRE,4,0
+2367810,Martinez,Emiliano Martinez,Goalkeeper,AVL,1,0
+2367810,Vicario,Guglielmo Vicario,Goalkeeper,TOT,1,0
+2367811,Verbruggen,Bart Verbruggen,Goalkeeper,BHA,4,0
+2367811,Sels,Matz Sels,Goalkeeper,NFO,3,0
+2367812,Petrovic,Dorde Petrovic,Goalkeeper,CHE,1,0
+2367812,Dubravka,Martin Dubravka,Goalkeeper,NEW,4,0
+2367813,Johnstone,Sam Johnstone,Goalkeeper,CRY,1,0
+2367813,Kaminski,Thomas Kaminski,Goalkeeper,LUT,3,0
+2367814,Kelleher,Caoimhin Kelleher,Goalkeeper,LIV,5,0
+2367814,Ortega Moreno,Stefan Ortega Moreno,Goalkeeper,MCI,4,0
+2367814,Ederson,Ederson Santana de Moraes,Goalkeeper,MCI,1,0
+2367815,Pickford,Jordan Pickford,Goalkeeper,EVE,6,0
+2367815,Onana,André Onana,Goalkeeper,MUN,6,0
+2367816,Trafford,James Trafford,Goalkeeper,BUR,2,0
+2367816,Areola,Alphonse Areola,Goalkeeper,WHU,3,0
+2367817,Leno,Bernd Leno,Goalkeeper,FUL,2,0
+2367817,José Sá,José Pedro Malheiro de Sá,Goalkeeper,WOL,5,0
+2367818,Raya Martin,David Raya Martin,Goalkeeper,ARS,1,0
+2367818,Petrovic,Dorde Petrovic,Goalkeeper,CHE,6,0
+2367819,Steele,Jason Steele,Goalkeeper,BHA,2,0
+2367819,Ederson,Ederson Santana de Moraes,Goalkeeper,MCI,3,0
+2367820,Flekken,Mark Flekken,Goalkeeper,BRE,4,0
+2367820,Muric,Arijanet Muric,Goalkeeper,BUR,5,0
+2367821,Henderson (Dean),Dean Henderson,Goalkeeper,CRY,2,0
+2367821,Dubravka,Martin Dubravka,Goalkeeper,NEW,5,0
+2367822,Pickford,Jordan Pickford,Goalkeeper,EVE,7,0
+2367822,Alisson,Alisson Ramses Becker,Goalkeeper,LIV,4,0
+2367823,Leno,Bernd Leno,Goalkeeper,FUL,5,0
+2367823,Vicario,Guglielmo Vicario,Goalkeeper,TOT,4,0
+2367824,Kaminski,Thomas Kaminski,Goalkeeper,LUT,2,0
+2367824,Sels,Matz Sels,Goalkeeper,NFO,3,0
+2367825,Onana,André Onana,Goalkeeper,MUN,2,0
+2367825,Foderingham,Wes Foderingham,Goalkeeper,SHU,9,0
+2367826,Martinez,Emiliano Martinez,Goalkeeper,AVL,3,0
+2367826,Areola,Alphonse Areola,Goalkeeper,WHU,4,0
+2367827,Travers,Mark Travers,Goalkeeper,BOU,4,0
+2367827,José Sá,José Pedro Malheiro de Sá,Goalkeeper,WOL,5,0
+2367828,Neto,Norberto Murara Neto,Goalkeeper,BOU,2,0
+2367828,Pickford,Jordan Pickford,Goalkeeper,EVE,3,0
+2367829,Martinez,Emiliano Martinez,Goalkeeper,AVL,3,0
+2367829,José Sá,José Pedro Malheiro de Sá,Goalkeeper,WOL,3,0
+2367830,Flekken,Mark Flekken,Goalkeeper,BRE,4,0
+2367830,Onana,André Onana,Goalkeeper,MUN,4,0
+2367831,Muric,Arijanet Muric,Goalkeeper,BUR,11,0
+2367831,Petrovic,Dorde Petrovic,Goalkeeper,CHE,4,0
+2367832,Verbruggen,Bart Verbruggen,Goalkeeper,BHA,6,0
+2367832,Kelleher,Caoimhin Kelleher,Goalkeeper,LIV,2,0
+2367833,Raya Martin,David Raya Martin,Goalkeeper,ARS,1,0
+2367833,Ortega Moreno,Stefan Ortega Moreno,Goalkeeper,MCI,2,0
+2367834,Dubravka,Martin Dubravka,Goalkeeper,NEW,1,0
+2367834,Fabianski,Lukasz Fabianski,Goalkeeper,WHU,2,0
+2367834,Areola,Alphonse Areola,Goalkeeper,WHU,3,0
+2367835,Henderson (Dean),Dean Henderson,Goalkeeper,CRY,4,0
+2367835,Sels,Matz Sels,Goalkeeper,NFO,2,0
+2367836,Leno,Bernd Leno,Goalkeeper,FUL,1,0
+2367836,Grbic,Ivo Grbic,Goalkeeper,SHU,6,0
+2367837,Kaminski,Thomas Kaminski,Goalkeeper,LUT,2,0
+2367837,Vicario,Guglielmo Vicario,Goalkeeper,TOT,2,0
+2367838,Neto,Norberto Murara Neto,Goalkeeper,BOU,2,0
+2367838,Henderson (Dean),Dean Henderson,Goalkeeper,CRY,5,0
+2367839,Raya Martin,David Raya Martin,Goalkeeper,ARS,1,0
+2367839,Kaminski,Thomas Kaminski,Goalkeeper,LUT,4,0
+2367840,Flekken,Mark Flekken,Goalkeeper,BRE,6,0
+2367840,Verbruggen,Bart Verbruggen,Goalkeeper,BHA,2,0
+2367841,Muric,Arijanet Muric,Goalkeeper,BUR,1,0
+2367841,José Sá,José Pedro Malheiro de Sá,Goalkeeper,WOL,5,0
+2367842,Leno,Bernd Leno,Goalkeeper,FUL,1,0
+2367842,Sels,Matz Sels,Goalkeeper,NFO,2,0
+2367843,Vicario,Guglielmo Vicario,Goalkeeper,TOT,3,0
+2367843,Fabianski,Lukasz Fabianski,Goalkeeper,WHU,3,0
+2367844,Petrovic,Dorde Petrovic,Goalkeeper,CHE,2,0
+2367844,Onana,André Onana,Goalkeeper,MUN,6,0
+2367845,Kelleher,Caoimhin Kelleher,Goalkeeper,LIV,3,0
+2367845,Grbic,Ivo Grbic,Goalkeeper,SHU,6,0
+2367846,Olsen,Robin Olsen,Goalkeeper,AVL,7,0
+2367846,Ortega Moreno,Stefan Ortega Moreno,Goalkeeper,MCI,2,0
+2367847,Pickford,Jordan Pickford,Goalkeeper,EVE,4,0
+2367847,Dubravka,Martin Dubravka,Goalkeeper,NEW,2,0
+2367848,Martinez,Emiliano Martinez,Goalkeeper,AVL,0,0
+2367848,Flekken,Mark Flekken,Goalkeeper,BRE,0,0
+2367849,Raya Martin,David Raya Martin,Goalkeeper,ARS,2,0
+2367849,Verbruggen,Bart Verbruggen,Goalkeeper,BHA,4,0
+2367850,Henderson (Dean),Dean Henderson,Goalkeeper,CRY,4,0
+2367850,Ortega Moreno,Stefan Ortega Moreno,Goalkeeper,MCI,2,0
+2367851,Muric,Arijanet Muric,Goalkeeper,BUR,2,0
+2367851,Pickford,Jordan Pickford,Goalkeeper,EVE,1,0
+2367852,Leno,Bernd Leno,Goalkeeper,FUL,4,0
+2367852,Dubravka,Martin Dubravka,Goalkeeper,NEW,4,0
+2367853,Neto,Norberto Murara Neto,Goalkeeper,BOU,7,0
+2367853,Kaminski,Thomas Kaminski,Goalkeeper,LUT,1,0
+2367854,Kelleher,Caoimhin Kelleher,Goalkeeper,LIV,3,0
+2367854,Onana,André Onana,Goalkeeper,MUN,6,0
+2367855,Petrovic,Dorde Petrovic,Goalkeeper,CHE,3,0
+2367855,Grbic,Ivo Grbic,Goalkeeper,SHU,2,0
+2367856,Sels,Matz Sels,Goalkeeper,NFO,5,0
+2367856,Vicario,Guglielmo Vicario,Goalkeeper,TOT,6,0
+2367857,Fabianski,Lukasz Fabianski,Goalkeeper,WHU,6,0
+2367857,José Sá,José Pedro Malheiro de Sá,Goalkeeper,WOL,2,0
+2367858,Neto,Norberto Murara Neto,Goalkeeper,BOU,0,0
+2367858,Onana,André Onana,Goalkeeper,MUN,3,0
+2367859,Raya Martin,David Raya Martin,Goalkeeper,ARS,0,0
+2367859,Martinez,Emiliano Martinez,Goalkeeper,AVL,4,0
+2367860,Flekken,Mark Flekken,Goalkeeper,BRE,2,0
+2367860,Grbic,Ivo Grbic,Goalkeeper,SHU,4,0
+2367861,Verbruggen,Bart Verbruggen,Goalkeeper,BHA,2,0
+2367861,Muric,Arijanet Muric,Goalkeeper,BUR,8,0
+2367862,Petrovic,Dorde Petrovic,Goalkeeper,CHE,2,0
+2367862,Pickford,Jordan Pickford,Goalkeeper,EVE,4,0
+2367863,Henderson (Dean),Dean Henderson,Goalkeeper,CRY,5,0
+2367863,Alisson,Alisson Ramses Becker,Goalkeeper,LIV,3,0
+2367864,Kaminski,Thomas Kaminski,Goalkeeper,LUT,9,0
+2367864,Ederson,Ederson Santana de Moraes,Goalkeeper,MCI,1,0
+2367865,Dubravka,Martin Dubravka,Goalkeeper,NEW,2,0
+2367865,Vicario,Guglielmo Vicario,Goalkeeper,TOT,1,0
+2367866,Sels,Matz Sels,Goalkeeper,NFO,1,0
+2367866,José Sá,José Pedro Malheiro de Sá,Goalkeeper,WOL,7,0
+2367867,Leno,Bernd Leno,Goalkeeper,FUL,4,0
+2367867,Fabianski,Lukasz Fabianski,Goalkeeper,WHU,8,0
+2367868,Martinez,Emiliano Martinez,Goalkeeper,AVL,4,0
+2367868,Neto,Norberto Murara Neto,Goalkeeper,BOU,2,0
+2367869,Verbruggen,Bart Verbruggen,Goalkeeper,BHA,4,0
+2367869,Petrovic,Dorde Petrovic,Goalkeeper,CHE,1,0
+2367870,Henderson (Dean),Dean Henderson,Goalkeeper,CRY,0,0
+2367870,Fabianski,Lukasz Fabianski,Goalkeeper,WHU,3,0
+2367871,Pickford,Jordan Pickford,Goalkeeper,EVE,3,0
+2367871,Sels,Matz Sels,Goalkeeper,NFO,2,0
+2367872,Leno,Bernd Leno,Goalkeeper,FUL,4,0
+2367872,Alisson,Alisson Ramses Becker,Goalkeeper,LIV,4,0
+2367873,Flekken,Mark Flekken,Goalkeeper,BRE,2,0
+2367873,Kaminski,Thomas Kaminski,Goalkeeper,LUT,4,0
+2367874,Onana,André Onana,Goalkeeper,MUN,5,0
+2367874,Dubravka,Martin Dubravka,Goalkeeper,NEW,5,0
+2367875,Muric,Arijanet Muric,Goalkeeper,BUR,10,0
+2367875,Grbic,Ivo Grbic,Goalkeeper,SHU,5,0
+2367876,Ortega Moreno,Stefan Ortega Moreno,Goalkeeper,MCI,3,0
+2367876,Ederson,Ederson Santana de Moraes,Goalkeeper,MCI,3,0
+2367876,Vicario,Guglielmo Vicario,Goalkeeper,TOT,3,0
+2367877,Raya Martin,David Raya Martin,Goalkeeper,ARS,3,0
+2367877,José Sá,José Pedro Malheiro de Sá,Goalkeeper,WOL,7,0
+2367878,Travers,Mark Travers,Goalkeeper,BOU,1,0
+2367878,Verbruggen,Bart Verbruggen,Goalkeeper,BHA,3,0
+2367879,Martinez,Emiliano Martinez,Goalkeeper,AVL,1,0
+2367879,Olsen,Robin Olsen,Goalkeeper,AVL,2,0
+2367879,Petrovic,Dorde Petrovic,Goalkeeper,CHE,3,0
+2367880,Flekken,Mark Flekken,Goalkeeper,BRE,0,0
+2367880,Pickford,Jordan Pickford,Goalkeeper,EVE,4,0
+2367881,Henderson (Dean),Dean Henderson,Goalkeeper,CRY,1,0
+2367881,Leno,Bernd Leno,Goalkeeper,FUL,3,0
+2367882,Muric,Arijanet Muric,Goalkeeper,BUR,9,0
+2367882,Onana,André Onana,Goalkeeper,MUN,6,0
+2367883,Dubravka,Martin Dubravka,Goalkeeper,NEW,3,0
+2367883,Foderingham,Wes Foderingham,Goalkeeper,SHU,3,0
+2367884,Ortega Moreno,Stefan Ortega Moreno,Goalkeeper,MCI,1,0
+2367884,Ederson,Ederson Santana de Moraes,Goalkeeper,MCI,1,0
+2367884,Sels,Matz Sels,Goalkeeper,NFO,3,0
+2367885,Raya Martin,David Raya Martin,Goalkeeper,ARS,0,0
+2367885,Vicario,Guglielmo Vicario,Goalkeeper,TOT,1,0
+2367886,Alisson,Alisson Ramses Becker,Goalkeeper,LIV,6,0
+2367886,Areola,Alphonse Areola,Goalkeeper,WHU,8,0
+2367887,Kaminski,Thomas Kaminski,Goalkeeper,LUT,3,0
+2367887,José Sá,José Pedro Malheiro de Sá,Goalkeeper,WOL,5,0
+2367888,Raya Martin,David Raya Martin,Goalkeeper,ARS,2,0
+2367888,Travers,Mark Travers,Goalkeeper,BOU,6,0
+2367889,Flekken,Mark Flekken,Goalkeeper,BRE,3,0
+2367889,Leno,Bernd Leno,Goalkeeper,FUL,2,0
+2367890,Olsen,Robin Olsen,Goalkeeper,AVL,7,1
+2367890,Verbruggen,Bart Verbruggen,Goalkeeper,BHA,1,0
+2367891,Muric,Arijanet Muric,Goalkeeper,BUR,7,1
+2367891,Dubravka,Martin Dubravka,Goalkeeper,NEW,4,0
+2367892,Petrovic,Dorde Petrovic,Goalkeeper,CHE,2,0
+2367892,Areola,Alphonse Areola,Goalkeeper,WHU,9,0
+2367893,Henderson (Dean),Dean Henderson,Goalkeeper,CRY,2,0
+2367893,Onana,André Onana,Goalkeeper,MUN,6,0
+2367894,Alisson,Alisson Ramses Becker,Goalkeeper,LIV,4,0
+2367894,Vicario,Guglielmo Vicario,Goalkeeper,TOT,8,0
+2367895,Pickford,Jordan Pickford,Goalkeeper,EVE,4,0
+2367895,Kaminski,Thomas Kaminski,Goalkeeper,LUT,3,0
+2367896,Ederson,Ederson Santana de Moraes,Goalkeeper,MCI,0,0
+2367896,José Sá,José Pedro Malheiro de Sá,Goalkeeper,WOL,7,0
+2367897,Sels,Matz Sels,Goalkeeper,NFO,4,0
+2367897,Foderingham,Wes Foderingham,Goalkeeper,SHU,1,0
+2367898,Travers,Mark Travers,Goalkeeper,BOU,2,0
+2367898,Flekken,Mark Flekken,Goalkeeper,BRE,3,0
+2367899,Martinez,Emiliano Martinez,Goalkeeper,AVL,5,0
+2367899,Alisson,Alisson Ramses Becker,Goalkeeper,LIV,2,0
+2367900,Pickford,Jordan Pickford,Goalkeeper,EVE,1,0
+2367900,Foderingham,Wes Foderingham,Goalkeeper,SHU,6,0
+2367901,Leno,Bernd Leno,Goalkeeper,FUL,5,0
+2367901,Ederson,Ederson Santana de Moraes,Goalkeeper,MCI,1,0
+2367902,Raya Martin,David Raya Martin,Goalkeeper,ARS,2,0
+2367902,Onana,André Onana,Goalkeeper,MUN,5,0
+2367903,Verbruggen,Bart Verbruggen,Goalkeeper,BHA,8,0
+2367903,Dubravka,Martin Dubravka,Goalkeeper,NEW,3,0
+2367904,Petrovic,Dorde Petrovic,Goalkeeper,CHE,2,0
+2367904,Sels,Matz Sels,Goalkeeper,NFO,2,0
+2367905,Muric,Arijanet Muric,Goalkeeper,BUR,7,0
+2367905,Vicario,Guglielmo Vicario,Goalkeeper,TOT,2,0
+2367906,Kaminski,Thomas Kaminski,Goalkeeper,LUT,5,0
+2367906,Areola,Alphonse Areola,Goalkeeper,WHU,0,0
+2367907,Henderson (Dean),Dean Henderson,Goalkeeper,CRY,7,0
+2367907,Bentley,Daniel Bentley,Goalkeeper,WOL,0,0
+2367908,Raya Martin,David Raya Martin,Goalkeeper,ARS,1,0
+2367908,Pickford,Jordan Pickford,Goalkeeper,EVE,4,0
+2367909,Flekken,Mark Flekken,Goalkeeper,BRE,3,0
+2367909,Pope,Nick Pope,Goalkeeper,NEW,3,0
+2367910,Steele,Jason Steele,Goalkeeper,BHA,2,0
+2367910,Onana,André Onana,Goalkeeper,MUN,2,0
+2367911,Muric,Arijanet Muric,Goalkeeper,BUR,4,0
+2367911,Sels,Matz Sels,Goalkeeper,NFO,3,0
+2367912,Neto,Norberto Murara Neto,Goalkeeper,BOU,4,0
+2367912,Petrovic,Dorde Petrovic,Goalkeeper,CHE,5,0
+2367913,Olsen,Robin Olsen,Goalkeeper,AVL,4,0
+2367913,Henderson (Dean),Dean Henderson,Goalkeeper,CRY,2,0
+2367914,Alisson,Alisson Ramses Becker,Goalkeeper,LIV,2,0
+2367914,José Sá,José Pedro Malheiro de Sá,Goalkeeper,WOL,11,0
+2367915,Leno,Bernd Leno,Goalkeeper,FUL,4,0
+2367915,Kaminski,Thomas Kaminski,Goalkeeper,LUT,2,0
+2367915,Shea,James Shea,Goalkeeper,LUT,2,0
+2367916,Ortega Moreno,Stefan Ortega Moreno,Goalkeeper,MCI,1,0
+2367916,Areola,Alphonse Areola,Goalkeeper,WHU,9,0
+2367917,Foderingham,Wes Foderingham,Goalkeeper,SHU,6,0
+2367917,Vicario,Guglielmo Vicario,Goalkeeper,TOT,1,0

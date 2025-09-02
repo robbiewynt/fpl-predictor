@@ -1,0 +1,764 @@
+match_id,nick_name,full_name,pos,team,saves,pen_saves
+2210271,Leno,Bernd Leno,Goalkeeper,ARS,1,0
+2210271,Raya Martin,David Raya Martin,Goalkeeper,BRE,4,0
+2210272,Sanchez,Robert Sanchez,Goalkeeper,BHA,2,0
+2210272,Pope,Nick Pope,Goalkeeper,BUR,4,0
+2210273,Mendy (Edouard),Edouard Mendy,Goalkeeper,CHE,1,0
+2210273,Guaita,Vicente Guaita,Goalkeeper,CRY,3,0
+2210274,Pickford,Jordan Pickford,Goalkeeper,EVE,2,0
+2210274,McCarthy (Alex),Alex McCarthy,Goalkeeper,SOU,3,0
+2210275,Schmeichel,Kasper Schmeichel,Goalkeeper,LEI,3,0
+2210275,José Sá,José Pedro Malheiro de Sá,Goalkeeper,WOL,4,0
+2210276,Meslier,Illan Meslier,Goalkeeper,LEE,3,0
+2210276,De Gea,David De Gea,Goalkeeper,MUN,2,0
+2210277,Woodman,Freddie Woodman,Goalkeeper,NEW,4,1
+2210277,Fabianski,Lukasz Fabianski,Goalkeeper,WHU,1,0
+2210278,Alisson,Alisson Ramses Becker,Goalkeeper,LIV,3,0
+2210278,Krul,Tim Krul,Goalkeeper,NOR,3,0
+2210279,Ederson,Ederson Santana de Moraes,Goalkeeper,MCI,1,0
+2210279,Lloris,Hugo Lloris,Goalkeeper,TOT,4,0
+2210280,Martinez,Emiliano Martinez,Goalkeeper,AVL,4,0
+2210280,Bachmann,Daniel Bachmann,Goalkeeper,WAT,0,0
+2210281,Leno,Bernd Leno,Goalkeeper,ARS,3,0
+2210281,Mendy (Edouard),Edouard Mendy,Goalkeeper,CHE,3,0
+2210282,Martinez,Emiliano Martinez,Goalkeeper,AVL,1,0
+2210282,Woodman,Freddie Woodman,Goalkeeper,NEW,0,0
+2210283,Sanchez,Robert Sanchez,Goalkeeper,BHA,1,0
+2210283,Bachmann,Daniel Bachmann,Goalkeeper,WAT,1,0
+2210284,Raya Martin,David Raya Martin,Goalkeeper,BRE,2,0
+2210284,Guaita,Vicente Guaita,Goalkeeper,CRY,3,0
+2210285,Pickford,Jordan Pickford,Goalkeeper,EVE,2,0
+2210285,Meslier,Illan Meslier,Goalkeeper,LEE,6,0
+2210286,Pope,Nick Pope,Goalkeeper,BUR,6,0
+2210286,Alisson,Alisson Ramses Becker,Goalkeeper,LIV,3,0
+2210287,Ederson,Ederson Santana de Moraes,Goalkeeper,MCI,0,0
+2210287,Krul,Tim Krul,Goalkeeper,NOR,0,0
+2210288,De Gea,David De Gea,Goalkeeper,MUN,3,0
+2210288,McCarthy (Alex),Alex McCarthy,Goalkeeper,SOU,2,0
+2210289,Schmeichel,Kasper Schmeichel,Goalkeeper,LEI,3,0
+2210289,Fabianski,Lukasz Fabianski,Goalkeeper,WHU,0,0
+2210290,Lloris,Hugo Lloris,Goalkeeper,TOT,6,0
+2210290,José Sá,José Pedro Malheiro de Sá,Goalkeeper,WOL,5,0
+2210291,Martinez,Emiliano Martinez,Goalkeeper,AVL,1,0
+2210291,Raya Martin,David Raya Martin,Goalkeeper,BRE,4,0
+2210292,Sanchez,Robert Sanchez,Goalkeeper,BHA,3,0
+2210292,Pickford,Jordan Pickford,Goalkeeper,EVE,3,0
+2210293,Pope,Nick Pope,Goalkeeper,BUR,1,0
+2210293,Meslier,Illan Meslier,Goalkeeper,LEE,3,0
+2210294,Mendy (Edouard),Edouard Mendy,Goalkeeper,CHE,6,0
+2210294,Alisson,Alisson Ramses Becker,Goalkeeper,LIV,2,0
+2210295,Leno,Bernd Leno,Goalkeeper,ARS,5,0
+2210295,Ederson,Ederson Santana de Moraes,Goalkeeper,MCI,0,0
+2210296,Woodman,Freddie Woodman,Goalkeeper,NEW,4,0
+2210296,McCarthy (Alex),Alex McCarthy,Goalkeeper,SOU,2,0
+2210297,Schmeichel,Kasper Schmeichel,Goalkeeper,LEI,3,0
+2210297,Krul,Tim Krul,Goalkeeper,NOR,1,0
+2210298,Lloris,Hugo Lloris,Goalkeeper,TOT,2,0
+2210298,Bachmann,Daniel Bachmann,Goalkeeper,WAT,7,0
+2210299,Guaita,Vicente Guaita,Goalkeeper,CRY,2,0
+2210299,Fabianski,Lukasz Fabianski,Goalkeeper,WHU,0,0
+2210300,De Gea,David De Gea,Goalkeeper,MUN,5,0
+2210300,José Sá,José Pedro Malheiro de Sá,Goalkeeper,WOL,2,0
+2210301,Ramsdale,Aaron Ramsdale,Goalkeeper,ARS,1,0
+2210301,Krul,Tim Krul,Goalkeeper,NOR,5,0
+2210302,Raya Martin,David Raya Martin,Goalkeeper,BRE,1,0
+2210302,Sanchez,Robert Sanchez,Goalkeeper,BHA,1,0
+2210303,Steer,Jed Steer,Goalkeeper,AVL,1,0
+2210303,Mendy (Edouard),Edouard Mendy,Goalkeeper,CHE,6,0
+2210304,Guaita,Vicente Guaita,Goalkeeper,CRY,1,0
+2210304,Lloris,Hugo Lloris,Goalkeeper,TOT,1,0
+2210305,Pope,Nick Pope,Goalkeeper,BUR,3,0
+2210305,Pickford,Jordan Pickford,Goalkeeper,EVE,5,0
+2210306,Meslier,Illan Meslier,Goalkeeper,LEE,5,0
+2210306,Alisson,Alisson Ramses Becker,Goalkeeper,LIV,4,0
+2210307,Schmeichel,Kasper Schmeichel,Goalkeeper,LEI,7,0
+2210307,Ederson,Ederson Santana de Moraes,Goalkeeper,MCI,2,0
+2210308,De Gea,David De Gea,Goalkeeper,MUN,3,0
+2210308,Woodman,Freddie Woodman,Goalkeeper,NEW,2,0
+2210309,McCarthy (Alex),Alex McCarthy,Goalkeeper,SOU,3,0
+2210309,Fabianski,Lukasz Fabianski,Goalkeeper,WHU,2,0
+2210310,Bachmann,Daniel Bachmann,Goalkeeper,WAT,4,0
+2210310,José Sá,José Pedro Malheiro de Sá,Goalkeeper,WOL,2,0
+2210311,Martinez,Emiliano Martinez,Goalkeeper,AVL,2,0
+2210311,Begovic,Asmir Begovic,Goalkeeper,EVE,1,0
+2210312,Sanchez,Robert Sanchez,Goalkeeper,BHA,2,0
+2210312,Schmeichel,Kasper Schmeichel,Goalkeeper,LEI,3,0
+2210313,Ramsdale,Aaron Ramsdale,Goalkeeper,ARS,3,0
+2210313,Pope,Nick Pope,Goalkeeper,BUR,2,0
+2210314,Guaita,Vicente Guaita,Goalkeeper,CRY,7,0
+2210314,Alisson,Alisson Ramses Becker,Goalkeeper,LIV,2,0
+2210315,Ederson,Ederson Santana de Moraes,Goalkeeper,MCI,2,0
+2210315,McCarthy (Alex),Alex McCarthy,Goalkeeper,SOU,1,0
+2210316,Meslier,Illan Meslier,Goalkeeper,LEE,6,0
+2210316,Darlow,Karl Darlow,Goalkeeper,NEW,9,0
+2210317,Krul,Tim Krul,Goalkeeper,NOR,5,0
+2210317,Foster,Ben Foster,Goalkeeper,WAT,4,0
+2210318,Kepa,Kepa Arrizabalaga Revuelta,Goalkeeper,CHE,2,0
+2210318,Lloris,Hugo Lloris,Goalkeeper,TOT,6,0
+2210319,De Gea,David De Gea,Goalkeeper,MUN,3,1
+2210319,Fabianski,Lukasz Fabianski,Goalkeeper,WHU,8,0
+2210320,Raya Martin,David Raya Martin,Goalkeeper,BRE,0,0
+2210320,José Sá,José Pedro Malheiro de Sá,Goalkeeper,WOL,1,0
+2210321,Ramsdale,Aaron Ramsdale,Goalkeeper,ARS,3,0
+2210321,Lloris,Hugo Lloris,Goalkeeper,TOT,4,0
+2210322,Raya Martin,David Raya Martin,Goalkeeper,BRE,3,0
+2210322,Alisson,Alisson Ramses Becker,Goalkeeper,LIV,0,0
+2210323,Mendy (Edouard),Edouard Mendy,Goalkeeper,CHE,2,0
+2210323,Ederson,Ederson Santana de Moraes,Goalkeeper,MCI,0,0
+2210324,Sanchez,Robert Sanchez,Goalkeeper,BHA,2,0
+2210324,Guaita,Vicente Guaita,Goalkeeper,CRY,3,0
+2210325,Pickford,Jordan Pickford,Goalkeeper,EVE,2,0
+2210325,Krul,Tim Krul,Goalkeeper,NOR,2,0
+2210326,Meslier,Illan Meslier,Goalkeeper,LEE,5,0
+2210326,Fabianski,Lukasz Fabianski,Goalkeeper,WHU,4,0
+2210327,Pope,Nick Pope,Goalkeeper,BUR,2,0
+2210327,Schmeichel,Kasper Schmeichel,Goalkeeper,LEI,2,0
+2210328,Martinez,Emiliano Martinez,Goalkeeper,AVL,4,0
+2210328,De Gea,David De Gea,Goalkeeper,MUN,2,0
+2210329,McCarthy (Alex),Alex McCarthy,Goalkeeper,SOU,2,0
+2210329,José Sá,José Pedro Malheiro de Sá,Goalkeeper,WOL,6,0
+2210330,Darlow,Karl Darlow,Goalkeeper,NEW,3,0
+2210330,Foster,Ben Foster,Goalkeeper,WAT,5,0
+2210331,Ramsdale,Aaron Ramsdale,Goalkeeper,ARS,2,0
+2210331,Sanchez,Robert Sanchez,Goalkeeper,BHA,2,0
+2210332,Pope,Nick Pope,Goalkeeper,BUR,2,0
+2210332,Krul,Tim Krul,Goalkeeper,NOR,5,0
+2210333,Mendy (Edouard),Edouard Mendy,Goalkeeper,CHE,1,0
+2210333,McCarthy (Alex),Alex McCarthy,Goalkeeper,SOU,6,0
+2210334,Guaita,Vicente Guaita,Goalkeeper,CRY,3,0
+2210334,Schmeichel,Kasper Schmeichel,Goalkeeper,LEI,2,0
+2210335,Meslier,Illan Meslier,Goalkeeper,LEE,1,0
+2210335,Foster,Ben Foster,Goalkeeper,WAT,2,0
+2210336,Alisson,Alisson Ramses Becker,Goalkeeper,LIV,1,0
+2210336,Ederson,Ederson Santana de Moraes,Goalkeeper,MCI,1,0
+2210337,Pickford,Jordan Pickford,Goalkeeper,EVE,5,0
+2210337,De Gea,David De Gea,Goalkeeper,MUN,1,0
+2210338,Martinez,Emiliano Martinez,Goalkeeper,AVL,6,0
+2210338,Lloris,Hugo Lloris,Goalkeeper,TOT,2,0
+2210339,Raya Martin,David Raya Martin,Goalkeeper,BRE,4,0
+2210339,Fabianski,Lukasz Fabianski,Goalkeeper,WHU,4,0
+2210340,Darlow,Karl Darlow,Goalkeeper,NEW,1,0
+2210340,José Sá,José Pedro Malheiro de Sá,Goalkeeper,WOL,1,0
+2210341,Ramsdale,Aaron Ramsdale,Goalkeeper,ARS,4,0
+2210341,Guaita,Vicente Guaita,Goalkeeper,CRY,4,0
+2210342,Martinez,Emiliano Martinez,Goalkeeper,AVL,1,0
+2210342,José Sá,José Pedro Malheiro de Sá,Goalkeeper,WOL,3,0
+2210343,Raya Martin,David Raya Martin,Goalkeeper,BRE,0,0
+2210343,Mendy (Edouard),Edouard Mendy,Goalkeeper,CHE,6,0
+2210344,Pickford,Jordan Pickford,Goalkeeper,EVE,3,0
+2210344,Fabianski,Lukasz Fabianski,Goalkeeper,WHU,2,0
+2210345,Schmeichel,Kasper Schmeichel,Goalkeeper,LEI,4,0
+2210345,De Gea,David De Gea,Goalkeeper,MUN,7,0
+2210346,Pope,Nick Pope,Goalkeeper,BUR,4,0
+2210346,Steffen,Zackary Steffen,Goalkeeper,MCI,2,0
+2210347,Darlow,Karl Darlow,Goalkeeper,NEW,1,0
+2210347,Lloris,Hugo Lloris,Goalkeeper,TOT,0,0
+2210348,Sanchez,Robert Sanchez,Goalkeeper,BHA,2,0
+2210348,Krul,Tim Krul,Goalkeeper,NOR,3,0
+2210349,Meslier,Illan Meslier,Goalkeeper,LEE,3,0
+2210349,McCarthy (Alex),Alex McCarthy,Goalkeeper,SOU,0,0
+2210350,Kelleher,Caoimhin Kelleher,Goalkeeper,LIV,2,0
+2210350,Foster,Ben Foster,Goalkeeper,WAT,4,0
+2210351,Ramsdale,Aaron Ramsdale,Goalkeeper,ARS,3,0
+2210351,Martinez,Emiliano Martinez,Goalkeeper,AVL,6,1
+2210352,Raya Martin,David Raya Martin,Goalkeeper,BRE,4,0
+2210352,Schmeichel,Kasper Schmeichel,Goalkeeper,LEI,4,0
+2210353,Sanchez,Robert Sanchez,Goalkeeper,BHA,8,0
+2210353,Ederson,Ederson Santana de Moraes,Goalkeeper,MCI,4,0
+2210354,Mendy (Edouard),Edouard Mendy,Goalkeeper,CHE,1,0
+2210354,Krul,Tim Krul,Goalkeeper,NOR,7,0
+2210355,Guaita,Vicente Guaita,Goalkeeper,CRY,0,0
+2210355,Darlow,Karl Darlow,Goalkeeper,NEW,2,0
+2210356,Pickford,Jordan Pickford,Goalkeeper,EVE,3,0
+2210356,Foster,Ben Foster,Goalkeeper,WAT,2,0
+2210357,Meslier,Illan Meslier,Goalkeeper,LEE,3,0
+2210357,José Sá,José Pedro Malheiro de Sá,Goalkeeper,WOL,3,0
+2210358,Alisson,Alisson Ramses Becker,Goalkeeper,LIV,3,0
+2210358,De Gea,David De Gea,Goalkeeper,MUN,3,0
+2210359,Pope,Nick Pope,Goalkeeper,BUR,2,0
+2210359,McCarthy (Alex),Alex McCarthy,Goalkeeper,SOU,3,0
+2210360,Lloris,Hugo Lloris,Goalkeeper,TOT,3,0
+2210360,Fabianski,Lukasz Fabianski,Goalkeeper,WHU,4,0
+2210361,Martinez,Emiliano Martinez,Goalkeeper,AVL,4,0
+2210361,Fabianski,Lukasz Fabianski,Goalkeeper,WHU,2,0
+2210362,Fernández (Álvaro),Álvaro Fernández,Goalkeeper,BRE,2,0
+2210362,Pope,Nick Pope,Goalkeeper,BUR,3,0
+2210363,Ramsdale,Aaron Ramsdale,Goalkeeper,ARS,8,0
+2210363,Schmeichel,Kasper Schmeichel,Goalkeeper,LEI,4,0
+2210364,Sanchez,Robert Sanchez,Goalkeeper,BHA,1,0
+2210364,Alisson,Alisson Ramses Becker,Goalkeeper,LIV,4,0
+2210365,Guaita,Vicente Guaita,Goalkeeper,CRY,3,0
+2210365,Ederson,Ederson Santana de Moraes,Goalkeeper,MCI,1,0
+2210366,Mendy (Edouard),Edouard Mendy,Goalkeeper,CHE,1,0
+2210366,Darlow,Karl Darlow,Goalkeeper,NEW,3,0
+2210367,Meslier,Illan Meslier,Goalkeeper,LEE,3,0
+2210367,Krul,Tim Krul,Goalkeeper,NOR,3,0
+2210368,De Gea,David De Gea,Goalkeeper,MUN,0,0
+2210368,Lloris,Hugo Lloris,Goalkeeper,TOT,1,0
+2210369,McCarthy (Alex),Alex McCarthy,Goalkeeper,SOU,3,0
+2210369,Foster,Ben Foster,Goalkeeper,WAT,0,0
+2210370,Pickford,Jordan Pickford,Goalkeeper,EVE,2,0
+2210370,José Sá,José Pedro Malheiro de Sá,Goalkeeper,WOL,4,0
+2210371,Ramsdale,Aaron Ramsdale,Goalkeeper,ARS,1,0
+2210371,Foster,Ben Foster,Goalkeeper,WAT,5,1
+2210372,Fernández (Álvaro),Álvaro Fernández,Goalkeeper,BRE,4,0
+2210372,Krul,Tim Krul,Goalkeeper,NOR,6,0
+2210373,Sanchez,Robert Sanchez,Goalkeeper,BHA,1,0
+2210373,Darlow,Karl Darlow,Goalkeeper,NEW,4,0
+2210374,Pope,Nick Pope,Goalkeeper,BUR,4,0
+2210374,Mendy (Edouard),Edouard Mendy,Goalkeeper,CHE,1,0
+2210375,Guaita,Vicente Guaita,Goalkeeper,CRY,2,0
+2210375,José Sá,José Pedro Malheiro de Sá,Goalkeeper,WOL,4,0
+2210376,Pickford,Jordan Pickford,Goalkeeper,EVE,0,0
+2210376,Lloris,Hugo Lloris,Goalkeeper,TOT,2,0
+2210377,Meslier,Illan Meslier,Goalkeeper,LEE,2,0
+2210377,Schmeichel,Kasper Schmeichel,Goalkeeper,LEI,4,0
+2210378,Ederson,Ederson Santana de Moraes,Goalkeeper,MCI,1,0
+2210378,De Gea,David De Gea,Goalkeeper,MUN,5,0
+2210379,Martinez,Emiliano Martinez,Goalkeeper,AVL,2,0
+2210379,McCarthy (Alex),Alex McCarthy,Goalkeeper,SOU,3,0
+2210380,Alisson,Alisson Ramses Becker,Goalkeeper,LIV,1,0
+2210380,Fabianski,Lukasz Fabianski,Goalkeeper,WHU,3,0
+2210381,Martinez,Emiliano Martinez,Goalkeeper,AVL,2,0
+2210381,Steele,Jason Steele,Goalkeeper,BHA,3,0
+2210382,Pope,Nick Pope,Goalkeeper,BUR,5,0
+2210382,Guaita,Vicente Guaita,Goalkeeper,CRY,6,0
+2210383,Mendy (Edouard),Edouard Mendy,Goalkeeper,CHE,3,0
+2210383,Schmeichel,Kasper Schmeichel,Goalkeeper,LEI,4,0
+2210384,Ramsdale,Aaron Ramsdale,Goalkeeper,ARS,5,0
+2210384,Alisson,Alisson Ramses Becker,Goalkeeper,LIV,3,0
+2210385,Pickford,Jordan Pickford,Goalkeeper,EVE,4,0
+2210385,Ederson,Ederson Santana de Moraes,Goalkeeper,MCI,1,0
+2210386,Fernández (Álvaro),Álvaro Fernández,Goalkeeper,BRE,6,0
+2210386,Darlow,Karl Darlow,Goalkeeper,NEW,1,0
+2210387,Krul,Tim Krul,Goalkeeper,NOR,4,0
+2210387,McCarthy (Alex),Alex McCarthy,Goalkeeper,SOU,2,0
+2210388,Meslier,Illan Meslier,Goalkeeper,LEE,2,0
+2210388,Lloris,Hugo Lloris,Goalkeeper,TOT,6,0
+2210389,De Gea,David De Gea,Goalkeeper,MUN,4,1
+2210389,Foster,Ben Foster,Goalkeeper,WAT,2,0
+2210390,Fabianski,Lukasz Fabianski,Goalkeeper,WHU,4,0
+2210390,José Sá,José Pedro Malheiro de Sá,Goalkeeper,WOL,3,0
+2210391,Ramsdale,Aaron Ramsdale,Goalkeeper,ARS,5,0
+2210391,Dubravka,Martin Dubravka,Goalkeeper,NEW,4,0
+2210392,Fernández (Álvaro),Álvaro Fernández,Goalkeeper,BRE,5,0
+2210392,Pickford,Jordan Pickford,Goalkeeper,EVE,3,0
+2210393,Sanchez,Robert Sanchez,Goalkeeper,BHA,4,0
+2210393,Meslier,Illan Meslier,Goalkeeper,LEE,5,0
+2210394,Pope,Nick Pope,Goalkeeper,BUR,2,0
+2210394,Lloris,Hugo Lloris,Goalkeeper,TOT,3,0
+2210395,Mendy (Edouard),Edouard Mendy,Goalkeeper,CHE,1,0
+2210395,De Gea,David De Gea,Goalkeeper,MUN,5,0
+2210396,Martinez,Emiliano Martinez,Goalkeeper,AVL,2,0
+2210396,Guaita,Vicente Guaita,Goalkeeper,CRY,1,0
+2210397,Schmeichel,Kasper Schmeichel,Goalkeeper,LEI,3,0
+2210397,Bachmann,Daniel Bachmann,Goalkeeper,WAT,4,0
+2210398,Alisson,Alisson Ramses Becker,Goalkeeper,LIV,3,0
+2210398,McCarthy (Alex),Alex McCarthy,Goalkeeper,SOU,2,0
+2210399,Ederson,Ederson Santana de Moraes,Goalkeeper,MCI,2,0
+2210399,Fabianski,Lukasz Fabianski,Goalkeeper,WHU,6,0
+2210400,Krul,Tim Krul,Goalkeeper,NOR,2,0
+2210400,José Sá,José Pedro Malheiro de Sá,Goalkeeper,WOL,4,0
+2210401,Martinez,Emiliano Martinez,Goalkeeper,AVL,5,0
+2210401,Ederson,Ederson Santana de Moraes,Goalkeeper,MCI,2,0
+2210402,Pickford,Jordan Pickford,Goalkeeper,EVE,3,0
+2210402,Alisson,Alisson Ramses Becker,Goalkeeper,LIV,1,0
+2210403,Guaita,Vicente Guaita,Goalkeeper,CRY,2,0
+2210403,Meslier,Illan Meslier,Goalkeeper,LEE,1,0
+2210404,Ramsdale,Aaron Ramsdale,Goalkeeper,ARS,7,0
+2210404,De Gea,David De Gea,Goalkeeper,MUN,5,0
+2210405,Mendy (Edouard),Edouard Mendy,Goalkeeper,CHE,6,0
+2210405,Bachmann,Daniel Bachmann,Goalkeeper,WAT,2,0
+2210406,Sanchez,Robert Sanchez,Goalkeeper,BHA,4,0
+2210406,Fabianski,Lukasz Fabianski,Goalkeeper,WHU,2,0
+2210407,Pope,Nick Pope,Goalkeeper,BUR,3,0
+2210407,José Sá,José Pedro Malheiro de Sá,Goalkeeper,WOL,1,0
+2210408,Dubravka,Martin Dubravka,Goalkeeper,NEW,5,0
+2210408,Krul,Tim Krul,Goalkeeper,NOR,0,0
+2210409,Schmeichel,Kasper Schmeichel,Goalkeeper,LEI,5,0
+2210409,McCarthy (Alex),Alex McCarthy,Goalkeeper,SOU,4,0
+2210410,Fernández (Álvaro),Álvaro Fernández,Goalkeeper,BRE,5,0
+2210410,Lloris,Hugo Lloris,Goalkeeper,TOT,2,0
+2210411,Martinez,Emiliano Martinez,Goalkeeper,AVL,3,0
+2210411,Schmeichel,Kasper Schmeichel,Goalkeeper,LEI,2,0
+2210412,Ramsdale,Aaron Ramsdale,Goalkeeper,ARS,3,0
+2210412,Pickford,Jordan Pickford,Goalkeeper,EVE,2,0
+2210413,Fernández (Álvaro),Álvaro Fernández,Goalkeeper,BRE,4,0
+2210413,Meslier,Illan Meslier,Goalkeeper,LEE,1,0
+2210414,Guaita,Vicente Guaita,Goalkeeper,CRY,2,0
+2210414,De Gea,David De Gea,Goalkeeper,MUN,2,0
+2210415,Pope,Nick Pope,Goalkeeper,BUR,3,0
+2210415,Dubravka,Martin Dubravka,Goalkeeper,NEW,1,0
+2210416,Sanchez,Robert Sanchez,Goalkeeper,BHA,3,0
+2210416,McCarthy (Alex),Alex McCarthy,Goalkeeper,SOU,3,0
+2210417,Krul,Tim Krul,Goalkeeper,NOR,4,0
+2210417,Lloris,Hugo Lloris,Goalkeeper,TOT,1,0
+2210418,Ederson,Ederson Santana de Moraes,Goalkeeper,MCI,3,0
+2210418,Bachmann,Daniel Bachmann,Goalkeeper,WAT,9,0
+2210419,Mendy (Edouard),Edouard Mendy,Goalkeeper,CHE,1,0
+2210419,Fabianski,Lukasz Fabianski,Goalkeeper,WHU,5,0
+2210420,Alisson,Alisson Ramses Becker,Goalkeeper,LIV,1,0
+2210420,José Sá,José Pedro Malheiro de Sá,Goalkeeper,WOL,3,0
+2210421,Ramsdale,Aaron Ramsdale,Goalkeeper,ARS,6,0
+2210421,Caballero,Willy Caballero,Goalkeeper,SOU,2,0
+2210422,Fernández (Álvaro),Álvaro Fernández,Goalkeeper,BRE,1,0
+2210422,Bachmann,Daniel Bachmann,Goalkeeper,WAT,3,0
+2210423,Sanchez,Robert Sanchez,Goalkeeper,BHA,5,0
+2210423,Lloris,Hugo Lloris,Goalkeeper,TOT,1,0
+2210424,Pope,Nick Pope,Goalkeeper,BUR,3,0
+2210424,Fabianski,Lukasz Fabianski,Goalkeeper,WHU,1,0
+2210425,Mendy (Edouard),Edouard Mendy,Goalkeeper,CHE,3,0
+2210425,Meslier,Illan Meslier,Goalkeeper,LEE,3,0
+2210426,Guaita,Vicente Guaita,Goalkeeper,CRY,5,0
+2210426,Pickford,Jordan Pickford,Goalkeeper,EVE,4,0
+2210427,Schmeichel,Kasper Schmeichel,Goalkeeper,LEI,3,0
+2210427,Dubravka,Martin Dubravka,Goalkeeper,NEW,1,0
+2210428,Martinez,Emiliano Martinez,Goalkeeper,AVL,4,0
+2210428,Alisson,Alisson Ramses Becker,Goalkeeper,LIV,0,0
+2210429,Ederson,Ederson Santana de Moraes,Goalkeeper,MCI,1,0
+2210429,José Sá,José Pedro Malheiro de Sá,Goalkeeper,WOL,9,0
+2210430,De Gea,David De Gea,Goalkeeper,MUN,5,0
+2210430,Krul,Tim Krul,Goalkeeper,NOR,4,0
+2210431,Ramsdale,Aaron Ramsdale,Goalkeeper,ARS,1,0
+2210431,Fabianski,Lukasz Fabianski,Goalkeeper,WHU,6,1
+2210432,Lössl,Jonas Lössl,Goalkeeper,BRE,2,0
+2210432,De Gea,David De Gea,Goalkeeper,MUN,8,0
+2210433,Sanchez,Robert Sanchez,Goalkeeper,BHA,4,0
+2210433,José Sá,José Pedro Malheiro de Sá,Goalkeeper,WOL,2,0
+2210434,Pope,Nick Pope,Goalkeeper,BUR,5,0
+2210434,Foster,Ben Foster,Goalkeeper,WAT,2,0
+2210435,Butland,Jack Butland,Goalkeeper,CRY,2,0
+2210435,Caballero,Willy Caballero,Goalkeeper,SOU,4,0
+2210436,Schmeichel,Kasper Schmeichel,Goalkeeper,LEI,5,0
+2210436,Lloris,Hugo Lloris,Goalkeeper,TOT,2,0
+2210437,Martinez,Emiliano Martinez,Goalkeeper,AVL,3,0
+2210437,Krul,Tim Krul,Goalkeeper,NOR,4,0
+2210438,Mendy (Edouard),Edouard Mendy,Goalkeeper,CHE,2,0
+2210438,Pickford,Jordan Pickford,Goalkeeper,EVE,9,0
+2210439,Alisson,Alisson Ramses Becker,Goalkeeper,LIV,2,0
+2210439,Dubravka,Martin Dubravka,Goalkeeper,NEW,6,0
+2210440,Meslier,Illan Meslier,Goalkeeper,LEE,8,0
+2210440,Ederson,Ederson Santana de Moraes,Goalkeeper,MCI,3,0
+2210441,Martinez,Emiliano Martinez,Goalkeeper,AVL,3,0
+2210441,Pope,Nick Pope,Goalkeeper,BUR,8,0
+2210442,Pickford,Jordan Pickford,Goalkeeper,EVE,2,0
+2210442,Schmeichel,Kasper Schmeichel,Goalkeeper,LEI,2,0
+2210443,Ramsdale,Aaron Ramsdale,Goalkeeper,ARS,1,0
+2210443,Meslier,Illan Meslier,Goalkeeper,LEE,8,0
+2210444,Sanchez,Robert Sanchez,Goalkeeper,BHA,5,0
+2210444,De Gea,David De Gea,Goalkeeper,MUN,3,0
+2210445,Ederson,Ederson Santana de Moraes,Goalkeeper,MCI,1,0
+2210445,Dubravka,Martin Dubravka,Goalkeeper,NEW,3,0
+2210446,Fernández (Álvaro),Álvaro Fernández,Goalkeeper,BRE,3,0
+2210446,Forster,Fraser Forster,Goalkeeper,SOU,3,0
+2210447,Alisson,Alisson Ramses Becker,Goalkeeper,LIV,3,0
+2210447,Lloris,Hugo Lloris,Goalkeeper,TOT,4,0
+2210448,Butland,Jack Butland,Goalkeeper,CRY,0,0
+2210448,Foster,Ben Foster,Goalkeeper,WAT,1,0
+2210449,Krul,Tim Krul,Goalkeeper,NOR,3,0
+2210449,Fabianski,Lukasz Fabianski,Goalkeeper,WHU,3,0
+2210450,Mendy (Edouard),Edouard Mendy,Goalkeeper,CHE,1,0
+2210450,José Sá,José Pedro Malheiro de Sá,Goalkeeper,WOL,1,0
+2210451,Martinez,Emiliano Martinez,Goalkeeper,AVL,1,0
+2210451,Mendy (Edouard),Edouard Mendy,Goalkeeper,CHE,1,0
+2210452,Fernández (Álvaro),Álvaro Fernández,Goalkeeper,BRE,3,0
+2210452,Sanchez,Robert Sanchez,Goalkeeper,BHA,5,0
+2210453,Pope,Nick Pope,Goalkeeper,BUR,2,0
+2210453,Pickford,Jordan Pickford,Goalkeeper,EVE,1,0
+2210454,Meslier,Illan Meslier,Goalkeeper,LEE,8,0
+2210454,Alisson,Alisson Ramses Becker,Goalkeeper,LIV,2,0
+2210455,Schmeichel,Kasper Schmeichel,Goalkeeper,LEI,2,0
+2210455,Ederson,Ederson Santana de Moraes,Goalkeeper,MCI,5,0
+2210456,De Gea,David De Gea,Goalkeeper,MUN,7,0
+2210456,Dubravka,Martin Dubravka,Goalkeeper,NEW,2,0
+2210457,Ramsdale,Aaron Ramsdale,Goalkeeper,ARS,2,0
+2210457,Gunn,Angus Gunn,Goalkeeper,NOR,1,0
+2210458,Butland,Jack Butland,Goalkeeper,CRY,3,0
+2210458,Lloris,Hugo Lloris,Goalkeeper,TOT,0,0
+2210459,Forster,Fraser Forster,Goalkeeper,SOU,2,0
+2210459,Fabianski,Lukasz Fabianski,Goalkeeper,WHU,3,0
+2210460,Foster,Ben Foster,Goalkeeper,WAT,2,0
+2210460,José Sá,José Pedro Malheiro de Sá,Goalkeeper,WOL,0,0
+2210461,Ramsdale,Aaron Ramsdale,Goalkeeper,ARS,1,0
+2210461,José Sá,José Pedro Malheiro de Sá,Goalkeeper,WOL,4,0
+2210462,Fernández (Álvaro),Álvaro Fernández,Goalkeeper,BRE,2,0
+2210462,Ederson,Ederson Santana de Moraes,Goalkeeper,MCI,3,0
+2210463,Sanchez,Robert Sanchez,Goalkeeper,BHA,4,0
+2210463,Mendy (Edouard),Edouard Mendy,Goalkeeper,CHE,5,0
+2210464,Guaita,Vicente Guaita,Goalkeeper,CRY,2,0
+2210464,Gunn,Angus Gunn,Goalkeeper,NOR,3,0
+2210465,Begovic,Asmir Begovic,Goalkeeper,EVE,6,0
+2210465,Dubravka,Martin Dubravka,Goalkeeper,NEW,2,0
+2210466,Martinez,Emiliano Martinez,Goalkeeper,AVL,1,0
+2210466,Meslier,Illan Meslier,Goalkeeper,LEE,6,0
+2210467,Schmeichel,Kasper Schmeichel,Goalkeeper,LEI,4,1
+2210467,Alisson,Alisson Ramses Becker,Goalkeeper,LIV,0,0
+2210468,Hennessey,Wayne Hennessey,Goalkeeper,BUR,4,0
+2210468,De Gea,David De Gea,Goalkeeper,MUN,2,0
+2210469,Forster,Fraser Forster,Goalkeeper,SOU,10,0
+2210469,Lloris,Hugo Lloris,Goalkeeper,TOT,1,0
+2210470,Bachmann,Daniel Bachmann,Goalkeeper,WAT,2,0
+2210470,Fabianski,Lukasz Fabianski,Goalkeeper,WHU,4,0
+2210471,Ramsdale,Aaron Ramsdale,Goalkeeper,ARS,0,0
+2210471,Ederson,Ederson Santana de Moraes,Goalkeeper,MCI,1,0
+2210472,Martinez,Emiliano Martinez,Goalkeeper,AVL,2,0
+2210472,Fernández (Álvaro),Álvaro Fernández,Goalkeeper,BRE,4,0
+2210473,Mendy (Edouard),Edouard Mendy,Goalkeeper,CHE,4,0
+2210473,Kelleher,Caoimhin Kelleher,Goalkeeper,LIV,4,0
+2210474,Guaita,Vicente Guaita,Goalkeeper,CRY,2,0
+2210474,Fabianski,Lukasz Fabianski,Goalkeeper,WHU,4,0
+2210475,Sanchez,Robert Sanchez,Goalkeeper,BHA,4,0
+2210475,Pickford,Jordan Pickford,Goalkeeper,EVE,2,0
+2210476,Hennessey,Wayne Hennessey,Goalkeeper,BUR,4,0
+2210476,Meslier,Illan Meslier,Goalkeeper,LEE,1,0
+2210477,Schmeichel,Kasper Schmeichel,Goalkeeper,LEI,5,0
+2210477,Gunn,Angus Gunn,Goalkeeper,NOR,5,0
+2210478,De Gea,David De Gea,Goalkeeper,MUN,5,0
+2210478,José Sá,José Pedro Malheiro de Sá,Goalkeeper,WOL,2,0
+2210479,Dubravka,Martin Dubravka,Goalkeeper,NEW,4,0
+2210479,Forster,Fraser Forster,Goalkeeper,SOU,1,0
+2210480,Lloris,Hugo Lloris,Goalkeeper,TOT,4,0
+2210480,Bachmann,Daniel Bachmann,Goalkeeper,WAT,9,0
+2210481,Martinez,Emiliano Martinez,Goalkeeper,AVL,4,0
+2210481,De Gea,David De Gea,Goalkeeper,MUN,7,0
+2210482,Sanchez,Robert Sanchez,Goalkeeper,BHA,1,0
+2210482,Butland,Jack Butland,Goalkeeper,CRY,4,1
+2210483,Pope,Nick Pope,Goalkeeper,BUR,4,0
+2210483,Schmeichel,Kasper Schmeichel,Goalkeeper,LEI,2,0
+2210484,Fernández (Álvaro),Álvaro Fernández,Goalkeeper,BRE,10,0
+2210484,Alisson,Alisson Ramses Becker,Goalkeeper,LIV,1,0
+2210485,Kepa,Kepa Arrizabalaga Revuelta,Goalkeeper,CHE,5,0
+2210485,Ederson,Ederson Santana de Moraes,Goalkeeper,MCI,1,0
+2210486,Dubravka,Martin Dubravka,Goalkeeper,NEW,4,0
+2210486,Foster,Ben Foster,Goalkeeper,WAT,0,0
+2210487,Pickford,Jordan Pickford,Goalkeeper,EVE,2,0
+2210487,Krul,Tim Krul,Goalkeeper,NOR,4,0
+2210488,Ramsdale,Aaron Ramsdale,Goalkeeper,ARS,3,0
+2210488,Lloris,Hugo Lloris,Goalkeeper,TOT,5,0
+2210489,Meslier,Illan Meslier,Goalkeeper,LEE,3,0
+2210489,Fabianski,Lukasz Fabianski,Goalkeeper,WHU,2,0
+2210490,Forster,Fraser Forster,Goalkeeper,SOU,2,0
+2210490,José Sá,José Pedro Malheiro de Sá,Goalkeeper,WOL,9,0
+2210491,Ramsdale,Aaron Ramsdale,Goalkeeper,ARS,1,0
+2210491,Pope,Nick Pope,Goalkeeper,BUR,5,0
+2210492,Lössl,Jonas Lössl,Goalkeeper,BRE,0,0
+2210492,José Sá,José Pedro Malheiro de Sá,Goalkeeper,WOL,1,0
+2210493,Kepa,Kepa Arrizabalaga Revuelta,Goalkeeper,CHE,3,0
+2210493,Lloris,Hugo Lloris,Goalkeeper,TOT,5,0
+2210494,Guaita,Vicente Guaita,Goalkeeper,CRY,4,0
+2210494,Alisson,Alisson Ramses Becker,Goalkeeper,LIV,4,0
+2210495,Martinez,Emiliano Martinez,Goalkeeper,AVL,1,0
+2210495,Pickford,Jordan Pickford,Goalkeeper,EVE,2,0
+2210496,Meslier,Illan Meslier,Goalkeeper,LEE,2,0
+2210496,Dubravka,Martin Dubravka,Goalkeeper,NEW,4,0
+2210497,Sanchez,Robert Sanchez,Goalkeeper,BHA,4,0
+2210497,Schmeichel,Kasper Schmeichel,Goalkeeper,LEI,3,0
+2210498,De Gea,David De Gea,Goalkeeper,MUN,2,0
+2210498,Areola,Alphonse Areola,Goalkeeper,WHU,2,0
+2210499,Ederson,Ederson Santana de Moraes,Goalkeeper,MCI,2,0
+2210499,Forster,Fraser Forster,Goalkeeper,SOU,4,0
+2210500,Gunn,Angus Gunn,Goalkeeper,NOR,3,0
+2210500,Bachmann,Daniel Bachmann,Goalkeeper,WAT,0,0
+2210501,Martinez,Emiliano Martinez,Goalkeeper,AVL,4,0
+2210501,Meslier,Illan Meslier,Goalkeeper,LEE,2,0
+2210502,Sanchez,Robert Sanchez,Goalkeeper,BHA,2,0
+2210502,Kepa,Kepa Arrizabalaga Revuelta,Goalkeeper,CHE,1,0
+2210503,Pope,Nick Pope,Goalkeeper,BUR,4,0
+2210503,De Gea,David De Gea,Goalkeeper,MUN,2,0
+2210504,Guaita,Vicente Guaita,Goalkeeper,CRY,0,0
+2210504,Gunn,Angus Gunn,Goalkeeper,NOR,4,0
+2210505,Foster,Ben Foster,Goalkeeper,WAT,1,0
+2210505,Fabianski,Lukasz Fabianski,Goalkeeper,WHU,1,0
+2210506,Ramsdale,Aaron Ramsdale,Goalkeeper,ARS,4,0
+2210506,José Sá,José Pedro Malheiro de Sá,Goalkeeper,WOL,1,0
+2210507,Schmeichel,Kasper Schmeichel,Goalkeeper,LEI,9,0
+2210507,Alisson,Alisson Ramses Becker,Goalkeeper,LIV,1,0
+2210508,Raya Martin,David Raya Martin,Goalkeeper,BRE,5,0
+2210508,Ederson,Ederson Santana de Moraes,Goalkeeper,MCI,3,0
+2210509,Pickford,Jordan Pickford,Goalkeeper,EVE,7,0
+2210509,Dubravka,Martin Dubravka,Goalkeeper,NEW,2,0
+2210510,Forster,Fraser Forster,Goalkeeper,SOU,2,0
+2210510,Lloris,Hugo Lloris,Goalkeeper,TOT,6,0
+2210511,Raya Martin,David Raya Martin,Goalkeeper,BRE,3,0
+2210511,Guaita,Vicente Guaita,Goalkeeper,CRY,2,0
+2210512,Pope,Nick Pope,Goalkeeper,BUR,3,0
+2210512,Alisson,Alisson Ramses Becker,Goalkeeper,LIV,5,0
+2210513,Ramsdale,Aaron Ramsdale,Goalkeeper,ARS,0,0
+2210513,Mendy (Edouard),Edouard Mendy,Goalkeeper,CHE,0,0
+2210514,Pickford,Jordan Pickford,Goalkeeper,EVE,0,0
+2210514,Meslier,Illan Meslier,Goalkeeper,LEE,7,0
+2210515,Schmeichel,Kasper Schmeichel,Goalkeeper,LEI,1,0
+2210515,Fabianski,Lukasz Fabianski,Goalkeeper,WHU,0,0
+2210516,De Gea,David De Gea,Goalkeeper,MUN,3,0
+2210516,Forster,Fraser Forster,Goalkeeper,SOU,6,0
+2210517,Martinez,Emiliano Martinez,Goalkeeper,AVL,1,0
+2210517,Dubravka,Martin Dubravka,Goalkeeper,NEW,1,0
+2210518,Ederson,Ederson Santana de Moraes,Goalkeeper,MCI,3,0
+2210518,Gunn,Angus Gunn,Goalkeeper,NOR,5,1
+2210519,Lloris,Hugo Lloris,Goalkeeper,TOT,5,0
+2210519,José Sá,José Pedro Malheiro de Sá,Goalkeeper,WOL,7,0
+2210520,Sanchez,Robert Sanchez,Goalkeeper,BHA,2,0
+2210520,Foster,Ben Foster,Goalkeeper,WAT,3,0
+2210521,Ramsdale,Aaron Ramsdale,Goalkeeper,ARS,1,0
+2210521,Raya Martin,David Raya Martin,Goalkeeper,BRE,5,0
+2210522,Martinez,Emiliano Martinez,Goalkeeper,AVL,3,0
+2210522,Foster,Ben Foster,Goalkeeper,WAT,1,0
+2210523,Sanchez,Robert Sanchez,Goalkeeper,BHA,1,0
+2210523,Pope,Nick Pope,Goalkeeper,BUR,1,0
+2210524,Mendy (Edouard),Edouard Mendy,Goalkeeper,CHE,0,0
+2210524,Guaita,Vicente Guaita,Goalkeeper,CRY,2,0
+2210524,Butland,Jack Butland,Goalkeeper,CRY,0,0
+2210525,Meslier,Illan Meslier,Goalkeeper,LEE,5,0
+2210525,De Gea,David De Gea,Goalkeeper,MUN,4,0
+2210526,Alisson,Alisson Ramses Becker,Goalkeeper,LIV,0,0
+2210526,Gunn,Angus Gunn,Goalkeeper,NOR,4,0
+2210527,Ederson,Ederson Santana de Moraes,Goalkeeper,MCI,2,0
+2210527,Lloris,Hugo Lloris,Goalkeeper,TOT,2,0
+2210528,Pickford,Jordan Pickford,Goalkeeper,EVE,9,0
+2210528,Forster,Fraser Forster,Goalkeeper,SOU,0,0
+2210529,Dubravka,Martin Dubravka,Goalkeeper,NEW,2,0
+2210529,Fabianski,Lukasz Fabianski,Goalkeeper,WHU,2,0
+2210530,Schmeichel,Kasper Schmeichel,Goalkeeper,LEI,1,0
+2210530,José Sá,José Pedro Malheiro de Sá,Goalkeeper,WOL,6,0
+2210531,Ramsdale,Aaron Ramsdale,Goalkeeper,ARS,1,0
+2210531,Alisson,Alisson Ramses Becker,Goalkeeper,LIV,2,0
+2210532,Raya Martin,David Raya Martin,Goalkeeper,BRE,9,0
+2210532,Dubravka,Martin Dubravka,Goalkeeper,NEW,1,0
+2210533,Martinez,Emiliano Martinez,Goalkeeper,AVL,1,0
+2210533,Sanchez,Robert Sanchez,Goalkeeper,BHA,2,0
+2210534,Mendy (Edouard),Edouard Mendy,Goalkeeper,CHE,0,0
+2210534,Schmeichel,Kasper Schmeichel,Goalkeeper,LEI,6,0
+2210535,Pope,Nick Pope,Goalkeeper,BUR,3,0
+2210535,Butland,Jack Butland,Goalkeeper,CRY,1,0
+2210536,Pickford,Jordan Pickford,Goalkeeper,EVE,7,0
+2210536,Ederson,Ederson Santana de Moraes,Goalkeeper,MCI,2,0
+2210537,Meslier,Illan Meslier,Goalkeeper,LEE,6,0
+2210537,Lloris,Hugo Lloris,Goalkeeper,TOT,2,0
+2210538,De Gea,David De Gea,Goalkeeper,MUN,2,0
+2210538,Foster,Ben Foster,Goalkeeper,WAT,3,0
+2210539,Gunn,Angus Gunn,Goalkeeper,NOR,7,0
+2210539,Forster,Fraser Forster,Goalkeeper,SOU,1,0
+2210540,Fabianski,Lukasz Fabianski,Goalkeeper,WHU,1,0
+2210540,José Sá,José Pedro Malheiro de Sá,Goalkeeper,WOL,3,0
+2210541,Martinez,Emiliano Martinez,Goalkeeper,AVL,1,0
+2210541,Forster,Fraser Forster,Goalkeeper,SOU,5,0
+2210542,Pope,Nick Pope,Goalkeeper,BUR,1,0
+2210542,Mendy (Edouard),Edouard Mendy,Goalkeeper,CHE,0,0
+2210543,Meslier,Illan Meslier,Goalkeeper,LEE,3,0
+2210543,Schmeichel,Kasper Schmeichel,Goalkeeper,LEI,4,0
+2210544,Alisson,Alisson Ramses Becker,Goalkeeper,LIV,4,0
+2210544,Fabianski,Lukasz Fabianski,Goalkeeper,WHU,4,0
+2210545,Ederson,Ederson Santana de Moraes,Goalkeeper,MCI,2,0
+2210545,De Gea,David De Gea,Goalkeeper,MUN,6,0
+2210546,Sanchez,Robert Sanchez,Goalkeeper,BHA,2,0
+2210546,Dubravka,Martin Dubravka,Goalkeeper,NEW,3,0
+2210547,Raya Martin,David Raya Martin,Goalkeeper,BRE,6,0
+2210547,Krul,Tim Krul,Goalkeeper,NOR,3,0
+2210548,Pickford,Jordan Pickford,Goalkeeper,EVE,3,0
+2210548,Lloris,Hugo Lloris,Goalkeeper,TOT,0,0
+2210549,Ramsdale,Aaron Ramsdale,Goalkeeper,ARS,5,0
+2210549,Foster,Ben Foster,Goalkeeper,WAT,1,0
+2210550,Guaita,Vicente Guaita,Goalkeeper,CRY,5,0
+2210550,José Sá,José Pedro Malheiro de Sá,Goalkeeper,WOL,6,0
+2210551,Ramsdale,Aaron Ramsdale,Goalkeeper,ARS,3,0
+2210551,Schmeichel,Kasper Schmeichel,Goalkeeper,LEI,5,0
+2210552,Raya Martin,David Raya Martin,Goalkeeper,BRE,1,0
+2210552,Pope,Nick Pope,Goalkeeper,BUR,1,0
+2210553,Sanchez,Robert Sanchez,Goalkeeper,BHA,7,0
+2210553,Alisson,Alisson Ramses Becker,Goalkeeper,LIV,3,0
+2210554,Mendy (Edouard),Edouard Mendy,Goalkeeper,CHE,2,0
+2210554,Dubravka,Martin Dubravka,Goalkeeper,NEW,2,0
+2210555,Guaita,Vicente Guaita,Goalkeeper,CRY,5,0
+2210555,Ederson,Ederson Santana de Moraes,Goalkeeper,MCI,1,0
+2210556,Pickford,Jordan Pickford,Goalkeeper,EVE,2,0
+2210556,José Sá,José Pedro Malheiro de Sá,Goalkeeper,WOL,2,0
+2210557,Meslier,Illan Meslier,Goalkeeper,LEE,3,0
+2210557,Krul,Tim Krul,Goalkeeper,NOR,5,0
+2210558,De Gea,David De Gea,Goalkeeper,MUN,1,0
+2210558,Lloris,Hugo Lloris,Goalkeeper,TOT,3,0
+2210559,Forster,Fraser Forster,Goalkeeper,SOU,3,0
+2210559,Foster,Ben Foster,Goalkeeper,WAT,5,0
+2210560,Martinez,Emiliano Martinez,Goalkeeper,AVL,2,0
+2210560,Fabianski,Lukasz Fabianski,Goalkeeper,WHU,6,0
+2210561,Leno,Bernd Leno,Goalkeeper,ARS,1,0
+2210561,Martinez,Emiliano Martinez,Goalkeeper,AVL,3,0
+2210562,Pope,Nick Pope,Goalkeeper,BUR,4,0
+2210562,Forster,Fraser Forster,Goalkeeper,SOU,4,0
+2210563,Raya Martin,David Raya Martin,Goalkeeper,BRE,2,0
+2210563,Schmeichel,Kasper Schmeichel,Goalkeeper,LEI,5,0
+2210564,Alisson,Alisson Ramses Becker,Goalkeeper,LIV,1,0
+2210564,De Gea,David De Gea,Goalkeeper,MUN,1,0
+2210565,Sanchez,Robert Sanchez,Goalkeeper,BHA,2,0
+2210565,Ederson,Ederson Santana de Moraes,Goalkeeper,MCI,1,0
+2210566,Guaita,Vicente Guaita,Goalkeeper,CRY,3,0
+2210566,Dubravka,Martin Dubravka,Goalkeeper,NEW,2,0
+2210567,Mendy (Edouard),Edouard Mendy,Goalkeeper,CHE,2,0
+2210567,Krul,Tim Krul,Goalkeeper,NOR,4,0
+2210568,Lloris,Hugo Lloris,Goalkeeper,TOT,0,0
+2210568,Fabianski,Lukasz Fabianski,Goalkeeper,WHU,3,0
+2210569,Pickford,Jordan Pickford,Goalkeeper,EVE,0,0
+2210569,Foster,Ben Foster,Goalkeeper,WAT,5,0
+2210570,Klaesson,Kristoffer Klaesson,Goalkeeper,LEE,4,0
+2210570,Meslier,Illan Meslier,Goalkeeper,LEE,2,0
+2210570,José Sá,José Pedro Malheiro de Sá,Goalkeeper,WOL,2,0
+2210571,Sanchez,Robert Sanchez,Goalkeeper,BHA,0,0
+2210571,Krul,Tim Krul,Goalkeeper,NOR,4,0
+2210572,Pope,Nick Pope,Goalkeeper,BUR,4,0
+2210572,Ederson,Ederson Santana de Moraes,Goalkeeper,MCI,1,0
+2210573,Raya Martin,David Raya Martin,Goalkeeper,BRE,7,0
+2210573,Mendy (Edouard),Edouard Mendy,Goalkeeper,CHE,2,0
+2210574,Ramsdale,Aaron Ramsdale,Goalkeeper,ARS,2,0
+2210574,Guaita,Vicente Guaita,Goalkeeper,CRY,3,0
+2210575,Meslier,Illan Meslier,Goalkeeper,LEE,4,0
+2210575,Forster,Fraser Forster,Goalkeeper,SOU,2,0
+2210576,Alisson,Alisson Ramses Becker,Goalkeeper,LIV,2,0
+2210576,Foster,Ben Foster,Goalkeeper,WAT,1,0
+2210577,Schmeichel,Kasper Schmeichel,Goalkeeper,LEI,4,0
+2210577,De Gea,David De Gea,Goalkeeper,MUN,2,0
+2210578,Dubravka,Martin Dubravka,Goalkeeper,NEW,1,0
+2210578,Lloris,Hugo Lloris,Goalkeeper,TOT,0,0
+2210579,Pickford,Jordan Pickford,Goalkeeper,EVE,4,0
+2210579,Fabianski,Lukasz Fabianski,Goalkeeper,WHU,1,0
+2210580,Martinez,Emiliano Martinez,Goalkeeper,AVL,3,0
+2210580,José Sá,José Pedro Malheiro de Sá,Goalkeeper,WOL,4,0
+2210581,Ramsdale,Aaron Ramsdale,Goalkeeper,ARS,1,0
+2210581,Sanchez,Robert Sanchez,Goalkeeper,BHA,3,0
+2210582,Martinez,Emiliano Martinez,Goalkeeper,AVL,1,0
+2210582,Lloris,Hugo Lloris,Goalkeeper,TOT,8,0
+2210583,Raya Martin,David Raya Martin,Goalkeeper,BRE,1,0
+2210583,Fabianski,Lukasz Fabianski,Goalkeeper,WHU,5,0
+2210584,Pickford,Jordan Pickford,Goalkeeper,EVE,4,0
+2210584,De Gea,David De Gea,Goalkeeper,MUN,2,0
+2210585,Guaita,Vicente Guaita,Goalkeeper,CRY,1,0
+2210585,Schmeichel,Kasper Schmeichel,Goalkeeper,LEI,2,1
+2210586,Alisson,Alisson Ramses Becker,Goalkeeper,LIV,2,0
+2210586,Ederson,Ederson Santana de Moraes,Goalkeeper,MCI,2,0
+2210587,Dubravka,Martin Dubravka,Goalkeeper,NEW,2,0
+2210587,José Sá,José Pedro Malheiro de Sá,Goalkeeper,WOL,3,0
+2210588,Pope,Nick Pope,Goalkeeper,BUR,4,0
+2210588,Krul,Tim Krul,Goalkeeper,NOR,3,0
+2210589,Mendy (Edouard),Edouard Mendy,Goalkeeper,CHE,1,0
+2210589,Forster,Fraser Forster,Goalkeeper,SOU,8,0
+2210590,Meslier,Illan Meslier,Goalkeeper,LEE,1,0
+2210590,Foster,Ben Foster,Goalkeeper,WAT,2,0
+2210591,Martinez,Emiliano Martinez,Goalkeeper,AVL,3,0
+2210591,Alisson,Alisson Ramses Becker,Goalkeeper,LIV,3,0
+2210592,Butland,Jack Butland,Goalkeeper,CRY,3,0
+2210592,Pickford,Jordan Pickford,Goalkeeper,EVE,3,0
+2210593,Mendy (Edouard),Edouard Mendy,Goalkeeper,CHE,0,0
+2210593,Meslier,Illan Meslier,Goalkeeper,LEE,0,0
+2210594,De Gea,David De Gea,Goalkeeper,MUN,2,0
+2210594,Krul,Tim Krul,Goalkeeper,NOR,6,0
+2210595,Schmeichel,Kasper Schmeichel,Goalkeeper,LEI,5,0
+2210595,Dubravka,Martin Dubravka,Goalkeeper,NEW,1,0
+2210596,Ramsdale,Aaron Ramsdale,Goalkeeper,ARS,2,0
+2210596,Forster,Fraser Forster,Goalkeeper,SOU,6,0
+2210597,Sanchez,Robert Sanchez,Goalkeeper,BHA,1,0
+2210597,Lloris,Hugo Lloris,Goalkeeper,TOT,3,0
+2210598,Raya Martin,David Raya Martin,Goalkeeper,BRE,3,0
+2210598,Foster,Ben Foster,Goalkeeper,WAT,3,0
+2210599,Pope,Nick Pope,Goalkeeper,BUR,5,0
+2210599,Fabianski,Lukasz Fabianski,Goalkeeper,WHU,0,0
+2210600,Ederson,Ederson Santana de Moraes,Goalkeeper,MCI,2,0
+2210600,José Sá,José Pedro Malheiro de Sá,Goalkeeper,WOL,0,0
+2210601,Ramsdale,Aaron Ramsdale,Goalkeeper,ARS,4,0
+2210601,De Gea,David De Gea,Goalkeeper,MUN,4,0
+2210602,Raya Martin,David Raya Martin,Goalkeeper,BRE,0,0
+2210602,Lloris,Hugo Lloris,Goalkeeper,TOT,1,0
+2210603,Sanchez,Robert Sanchez,Goalkeeper,BHA,3,0
+2210603,Forster,Fraser Forster,Goalkeeper,SOU,4,0
+2210604,Pope,Nick Pope,Goalkeeper,BUR,4,0
+2210604,José Sá,José Pedro Malheiro de Sá,Goalkeeper,WOL,4,0
+2210605,Mendy (Edouard),Edouard Mendy,Goalkeeper,CHE,2,0
+2210605,Fabianski,Lukasz Fabianski,Goalkeeper,WHU,4,1
+2210606,Guaita,Vicente Guaita,Goalkeeper,CRY,2,0
+2210606,Meslier,Illan Meslier,Goalkeeper,LEE,7,0
+2210607,Martinez,Emiliano Martinez,Goalkeeper,AVL,2,0
+2210607,Schmeichel,Kasper Schmeichel,Goalkeeper,LEI,3,0
+2210608,Pickford,Jordan Pickford,Goalkeeper,EVE,2,0
+2210608,Alisson,Alisson Ramses Becker,Goalkeeper,LIV,1,0
+2210609,Ederson,Ederson Santana de Moraes,Goalkeeper,MCI,1,0
+2210609,Foster,Ben Foster,Goalkeeper,WAT,4,0
+2210610,Dubravka,Martin Dubravka,Goalkeeper,NEW,2,0
+2210610,Krul,Tim Krul,Goalkeeper,NOR,4,0
+2210611,Martinez,Emiliano Martinez,Goalkeeper,AVL,3,0
+2210611,Krul,Tim Krul,Goalkeeper,NOR,4,0
+2210612,Mendy (Edouard),Edouard Mendy,Goalkeeper,CHE,3,0
+2210612,Pickford,Jordan Pickford,Goalkeeper,EVE,5,0
+2210613,Meslier,Illan Meslier,Goalkeeper,LEE,2,0
+2210613,Ederson,Ederson Santana de Moraes,Goalkeeper,MCI,1,0
+2210614,Raya Martin,David Raya Martin,Goalkeeper,BRE,3,0
+2210614,De Gea,David De Gea,Goalkeeper,MUN,4,0
+2210615,Alisson,Alisson Ramses Becker,Goalkeeper,LIV,2,0
+2210615,Dubravka,Martin Dubravka,Goalkeeper,NEW,9,0
+2210616,Guaita,Vicente Guaita,Goalkeeper,CRY,2,0
+2210616,Forster,Fraser Forster,Goalkeeper,SOU,3,0
+2210617,Schmeichel,Kasper Schmeichel,Goalkeeper,LEI,4,0
+2210617,Lloris,Hugo Lloris,Goalkeeper,TOT,1,0
+2210618,Pope,Nick Pope,Goalkeeper,BUR,1,0
+2210618,Foster,Ben Foster,Goalkeeper,WAT,4,0
+2210619,Ramsdale,Aaron Ramsdale,Goalkeeper,ARS,2,0
+2210619,Fabianski,Lukasz Fabianski,Goalkeeper,WHU,5,0
+2210620,Sanchez,Robert Sanchez,Goalkeeper,BHA,1,0
+2210620,José Sá,José Pedro Malheiro de Sá,Goalkeeper,WOL,6,0
+2210621,Ramsdale,Aaron Ramsdale,Goalkeeper,ARS,1,0
+2210621,Meslier,Illan Meslier,Goalkeeper,LEE,7,0
+2210622,Raya Martin,David Raya Martin,Goalkeeper,BRE,4,0
+2210622,Forster,Fraser Forster,Goalkeeper,SOU,2,0
+2210623,Sanchez,Robert Sanchez,Goalkeeper,BHA,5,0
+2210623,De Gea,David De Gea,Goalkeeper,MUN,1,0
+2210624,Martinez,Emiliano Martinez,Goalkeeper,AVL,5,0
+2210624,Pope,Nick Pope,Goalkeeper,BUR,4,0
+2210625,Mendy (Edouard),Edouard Mendy,Goalkeeper,CHE,2,0
+2210625,José Sá,José Pedro Malheiro de Sá,Goalkeeper,WOL,4,0
+2210626,Butland,Jack Butland,Goalkeeper,CRY,2,0
+2210626,Foster,Ben Foster,Goalkeeper,WAT,6,0
+2210627,Pickford,Jordan Pickford,Goalkeeper,EVE,7,0
+2210627,Schmeichel,Kasper Schmeichel,Goalkeeper,LEI,2,0
+2210628,Alisson,Alisson Ramses Becker,Goalkeeper,LIV,2,0
+2210628,Lloris,Hugo Lloris,Goalkeeper,TOT,2,0
+2210629,Ederson,Ederson Santana de Moraes,Goalkeeper,MCI,3,0
+2210629,Dubravka,Martin Dubravka,Goalkeeper,NEW,4,0
+2210630,Krul,Tim Krul,Goalkeeper,NOR,1,0
+2210630,Fabianski,Lukasz Fabianski,Goalkeeper,WHU,2,0
+2210631,Martinez,Emiliano Martinez,Goalkeeper,AVL,3,0
+2210631,Butland,Jack Butland,Goalkeeper,CRY,3,0
+2210632,Raya Martin,David Raya Martin,Goalkeeper,BRE,3,0
+2210632,Pickford,Jordan Pickford,Goalkeeper,EVE,4,0
+2210633,Sanchez,Robert Sanchez,Goalkeeper,BHA,3,0
+2210633,Meslier,Illan Meslier,Goalkeeper,LEE,5,0
+2210634,Mendy (Edouard),Edouard Mendy,Goalkeeper,CHE,2,0
+2210634,De Gea,David De Gea,Goalkeeper,MUN,5,0
+2210635,Ramsdale,Aaron Ramsdale,Goalkeeper,ARS,3,0
+2210635,Dubravka,Martin Dubravka,Goalkeeper,NEW,2,0
+2210636,Alisson,Alisson Ramses Becker,Goalkeeper,LIV,1,0
+2210636,McCarthy (Alex),Alex McCarthy,Goalkeeper,SOU,3,0
+2210637,Pope,Nick Pope,Goalkeeper,BUR,6,0
+2210637,Lloris,Hugo Lloris,Goalkeeper,TOT,1,0
+2210638,Ward (Danny),Danny Ward,Goalkeeper,LEI,4,0
+2210638,Foster,Ben Foster,Goalkeeper,WAT,2,0
+2210639,Ederson,Ederson Santana de Moraes,Goalkeeper,MCI,0,0
+2210639,Fabianski,Lukasz Fabianski,Goalkeeper,WHU,7,1
+2210640,Gunn,Angus Gunn,Goalkeeper,NOR,3,0
+2210640,Ruddy,John Ruddy,Goalkeeper,WOL,1,0
+2210641,Ramsdale,Aaron Ramsdale,Goalkeeper,ARS,1,0
+2210641,Begovic,Asmir Begovic,Goalkeeper,EVE,4,0
+2210642,Raya Martin,David Raya Martin,Goalkeeper,BRE,4,0
+2210642,Meslier,Illan Meslier,Goalkeeper,LEE,4,0
+2210643,Sanchez,Robert Sanchez,Goalkeeper,BHA,1,0
+2210643,Fabianski,Lukasz Fabianski,Goalkeeper,WHU,4,0
+2210644,Pope,Nick Pope,Goalkeeper,BUR,4,0
+2210644,Dubravka,Martin Dubravka,Goalkeeper,NEW,3,0
+2210645,Mendy (Edouard),Edouard Mendy,Goalkeeper,CHE,2,0
+2210645,Bachmann,Daniel Bachmann,Goalkeeper,WAT,6,0
+2210646,Guaita,Vicente Guaita,Goalkeeper,CRY,4,0
+2210646,De Gea,David De Gea,Goalkeeper,MUN,2,0
+2210647,Schmeichel,Kasper Schmeichel,Goalkeeper,LEI,1,0
+2210647,McCarthy (Alex),Alex McCarthy,Goalkeeper,SOU,2,0
+2210648,Alisson,Alisson Ramses Becker,Goalkeeper,LIV,4,0
+2210648,Ruddy,John Ruddy,Goalkeeper,WOL,3,0
+2210648,José Sá,José Pedro Malheiro de Sá,Goalkeeper,WOL,1,0
+2210649,Olsen,Robin Olsen,Goalkeeper,AVL,2,0
+2210649,Ederson,Ederson Santana de Moraes,Goalkeeper,MCI,0,0
+2210650,Krul,Tim Krul,Goalkeeper,NOR,7,0
+2210650,Lloris,Hugo Lloris,Goalkeeper,TOT,0,0
