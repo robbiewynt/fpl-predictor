@@ -30,3 +30,9 @@ check that the transfer table name is in full name
 if not, then print out list and manually check
 otherwise full name should be the same.
 ayyyy
+
+
+Next plan:
+
+- label valid data points as data points = True
+- make a 
