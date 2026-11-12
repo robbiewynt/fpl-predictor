@@ -1,0 +1,764 @@
+match_id,full_name,team,big_chances_saved
+2210271,Bernd Leno,ARS,0
+2210271,David Raya Martin,BRE,0
+2210272,Robert Sanchez,BHA,0
+2210272,Nick Pope,BUR,1
+2210273,Edouard Mendy,CHE,0
+2210273,Vicente Guaita,CRY,0
+2210274,Jordan Pickford,EVE,0
+2210274,Alex McCarthy,SOU,1
+2210275,Kasper Schmeichel,LEI,0
+2210275,José Pedro Malheiro de Sá,WOL,0
+2210276,Illan Meslier,LEE,0
+2210276,David De Gea,MUN,0
+2210277,Freddie Woodman,NEW,2
+2210277,Lukasz Fabianski,WHU,0
+2210278,Alisson Ramses Becker,LIV,1
+2210278,Tim Krul,NOR,1
+2210279,Ederson Santana de Moraes,MCI,0
+2210279,Hugo Lloris,TOT,0
+2210280,Emiliano Martinez,AVL,0
+2210280,Daniel Bachmann,WAT,0
+2210281,Bernd Leno,ARS,2
+2210281,Edouard Mendy,CHE,0
+2210282,Emiliano Martinez,AVL,0
+2210282,Freddie Woodman,NEW,0
+2210283,Robert Sanchez,BHA,0
+2210283,Daniel Bachmann,WAT,0
+2210284,David Raya Martin,BRE,0
+2210284,Vicente Guaita,CRY,0
+2210285,Jordan Pickford,EVE,0
+2210285,Illan Meslier,LEE,1
+2210286,Nick Pope,BUR,0
+2210286,Alisson Ramses Becker,LIV,1
+2210287,Ederson Santana de Moraes,MCI,0
+2210287,Tim Krul,NOR,0
+2210288,David De Gea,MUN,1
+2210288,Alex McCarthy,SOU,0
+2210289,Kasper Schmeichel,LEI,1
+2210289,Lukasz Fabianski,WHU,0
+2210290,Hugo Lloris,TOT,1
+2210290,José Pedro Malheiro de Sá,WOL,1
+2210291,Emiliano Martinez,AVL,1
+2210291,David Raya Martin,BRE,0
+2210292,Robert Sanchez,BHA,0
+2210292,Jordan Pickford,EVE,0
+2210293,Nick Pope,BUR,0
+2210293,Illan Meslier,LEE,0
+2210294,Edouard Mendy,CHE,0
+2210294,Alisson Ramses Becker,LIV,0
+2210295,Bernd Leno,ARS,3
+2210295,Ederson Santana de Moraes,MCI,0
+2210296,Freddie Woodman,NEW,1
+2210296,Alex McCarthy,SOU,0
+2210297,Kasper Schmeichel,LEI,1
+2210297,Tim Krul,NOR,1
+2210298,Hugo Lloris,TOT,0
+2210298,Daniel Bachmann,WAT,0
+2210299,Vicente Guaita,CRY,0
+2210299,Lukasz Fabianski,WHU,0
+2210300,David De Gea,MUN,1
+2210300,José Pedro Malheiro de Sá,WOL,0
+2210301,Aaron Ramsdale,ARS,0
+2210301,Tim Krul,NOR,1
+2210302,David Raya Martin,BRE,0
+2210302,Robert Sanchez,BHA,0
+2210303,Jed Steer,AVL,0
+2210303,Edouard Mendy,CHE,0
+2210304,Vicente Guaita,CRY,0
+2210304,Hugo Lloris,TOT,1
+2210305,Nick Pope,BUR,0
+2210305,Jordan Pickford,EVE,0
+2210306,Illan Meslier,LEE,1
+2210306,Alisson Ramses Becker,LIV,0
+2210307,Kasper Schmeichel,LEI,2
+2210307,Ederson Santana de Moraes,MCI,1
+2210308,David De Gea,MUN,0
+2210308,Freddie Woodman,NEW,0
+2210309,Alex McCarthy,SOU,0
+2210309,Lukasz Fabianski,WHU,0
+2210310,Daniel Bachmann,WAT,1
+2210310,José Pedro Malheiro de Sá,WOL,0
+2210311,Emiliano Martinez,AVL,0
+2210311,Asmir Begovic,EVE,0
+2210312,Robert Sanchez,BHA,0
+2210312,Kasper Schmeichel,LEI,0
+2210313,Aaron Ramsdale,ARS,0
+2210313,Nick Pope,BUR,0
+2210314,Vicente Guaita,CRY,1
+2210314,Alisson Ramses Becker,LIV,0
+2210315,Ederson Santana de Moraes,MCI,0
+2210315,Alex McCarthy,SOU,1
+2210316,Illan Meslier,LEE,1
+2210316,Karl Darlow,NEW,0
+2210317,Tim Krul,NOR,3
+2210317,Ben Foster,WAT,0
+2210318,Kepa Arrizabalaga Revuelta,CHE,1
+2210318,Hugo Lloris,TOT,2
+2210319,David De Gea,MUN,1
+2210319,Lukasz Fabianski,WHU,2
+2210320,David Raya Martin,BRE,0
+2210320,José Pedro Malheiro de Sá,WOL,1
+2210321,Aaron Ramsdale,ARS,0
+2210321,Hugo Lloris,TOT,0
+2210322,David Raya Martin,BRE,1
+2210322,Alisson Ramses Becker,LIV,0
+2210323,Edouard Mendy,CHE,1
+2210323,Ederson Santana de Moraes,MCI,0
+2210324,Robert Sanchez,BHA,0
+2210324,Vicente Guaita,CRY,1
+2210325,Jordan Pickford,EVE,0
+2210325,Tim Krul,NOR,1
+2210326,Illan Meslier,LEE,1
+2210326,Lukasz Fabianski,WHU,0
+2210327,Nick Pope,BUR,0
+2210327,Kasper Schmeichel,LEI,0
+2210328,Emiliano Martinez,AVL,0
+2210328,David De Gea,MUN,1
+2210329,Alex McCarthy,SOU,1
+2210329,José Pedro Malheiro de Sá,WOL,0
+2210330,Karl Darlow,NEW,0
+2210330,Ben Foster,WAT,1
+2210331,Aaron Ramsdale,ARS,0
+2210331,Robert Sanchez,BHA,0
+2210332,Nick Pope,BUR,0
+2210332,Tim Krul,NOR,0
+2210333,Edouard Mendy,CHE,0
+2210333,Alex McCarthy,SOU,2
+2210334,Vicente Guaita,CRY,0
+2210334,Kasper Schmeichel,LEI,0
+2210335,Illan Meslier,LEE,0
+2210335,Ben Foster,WAT,0
+2210336,Alisson Ramses Becker,LIV,1
+2210336,Ederson Santana de Moraes,MCI,0
+2210337,Jordan Pickford,EVE,1
+2210337,David De Gea,MUN,0
+2210338,Emiliano Martinez,AVL,2
+2210338,Hugo Lloris,TOT,0
+2210339,David Raya Martin,BRE,0
+2210339,Lukasz Fabianski,WHU,0
+2210340,Karl Darlow,NEW,0
+2210340,José Pedro Malheiro de Sá,WOL,1
+2210341,Aaron Ramsdale,ARS,0
+2210341,Vicente Guaita,CRY,1
+2210342,Emiliano Martinez,AVL,1
+2210342,José Pedro Malheiro de Sá,WOL,1
+2210343,David Raya Martin,BRE,0
+2210343,Edouard Mendy,CHE,2
+2210344,Jordan Pickford,EVE,1
+2210344,Lukasz Fabianski,WHU,0
+2210345,Kasper Schmeichel,LEI,0
+2210345,David De Gea,MUN,1
+2210346,Nick Pope,BUR,1
+2210346,Zackary Steffen,MCI,1
+2210347,Karl Darlow,NEW,0
+2210347,Hugo Lloris,TOT,0
+2210348,Robert Sanchez,BHA,0
+2210348,Tim Krul,NOR,0
+2210349,Illan Meslier,LEE,0
+2210349,Alex McCarthy,SOU,0
+2210350,Caoimhin Kelleher,LIV,0
+2210350,Ben Foster,WAT,0
+2210351,Aaron Ramsdale,ARS,1
+2210351,Emiliano Martinez,AVL,2
+2210352,David Raya Martin,BRE,0
+2210352,Kasper Schmeichel,LEI,0
+2210353,Robert Sanchez,BHA,1
+2210353,Ederson Santana de Moraes,MCI,0
+2210354,Edouard Mendy,CHE,1
+2210354,Tim Krul,NOR,1
+2210355,Vicente Guaita,CRY,0
+2210355,Karl Darlow,NEW,0
+2210356,Jordan Pickford,EVE,1
+2210356,Ben Foster,WAT,0
+2210357,Illan Meslier,LEE,0
+2210357,José Pedro Malheiro de Sá,WOL,1
+2210358,Alisson Ramses Becker,LIV,1
+2210358,David De Gea,MUN,1
+2210359,Nick Pope,BUR,0
+2210359,Alex McCarthy,SOU,0
+2210360,Hugo Lloris,TOT,0
+2210360,Lukasz Fabianski,WHU,1
+2210361,Emiliano Martinez,AVL,1
+2210361,Lukasz Fabianski,WHU,0
+2210362,Álvaro Fernández,BRE,1
+2210362,Nick Pope,BUR,0
+2210363,Aaron Ramsdale,ARS,2
+2210363,Kasper Schmeichel,LEI,1
+2210364,Robert Sanchez,BHA,0
+2210364,Alisson Ramses Becker,LIV,0
+2210365,Vicente Guaita,CRY,0
+2210365,Ederson Santana de Moraes,MCI,0
+2210366,Edouard Mendy,CHE,0
+2210366,Karl Darlow,NEW,0
+2210367,Illan Meslier,LEE,0
+2210367,Tim Krul,NOR,0
+2210368,David De Gea,MUN,0
+2210368,Hugo Lloris,TOT,0
+2210369,Alex McCarthy,SOU,1
+2210369,Ben Foster,WAT,0
+2210370,Jordan Pickford,EVE,0
+2210370,José Pedro Malheiro de Sá,WOL,1
+2210371,Aaron Ramsdale,ARS,0
+2210371,Ben Foster,WAT,1
+2210372,Álvaro Fernández,BRE,0
+2210372,Tim Krul,NOR,2
+2210373,Robert Sanchez,BHA,0
+2210373,Karl Darlow,NEW,0
+2210374,Nick Pope,BUR,0
+2210374,Edouard Mendy,CHE,0
+2210375,Vicente Guaita,CRY,0
+2210375,José Pedro Malheiro de Sá,WOL,0
+2210376,Jordan Pickford,EVE,0
+2210376,Hugo Lloris,TOT,0
+2210377,Illan Meslier,LEE,1
+2210377,Kasper Schmeichel,LEI,1
+2210378,Ederson Santana de Moraes,MCI,0
+2210378,David De Gea,MUN,0
+2210379,Emiliano Martinez,AVL,0
+2210379,Alex McCarthy,SOU,0
+2210380,Alisson Ramses Becker,LIV,0
+2210380,Lukasz Fabianski,WHU,1
+2210381,Emiliano Martinez,AVL,1
+2210381,Jason Steele,BHA,0
+2210382,Nick Pope,BUR,0
+2210382,Vicente Guaita,CRY,1
+2210383,Edouard Mendy,CHE,0
+2210383,Kasper Schmeichel,LEI,1
+2210384,Aaron Ramsdale,ARS,1
+2210384,Alisson Ramses Becker,LIV,0
+2210385,Jordan Pickford,EVE,1
+2210385,Ederson Santana de Moraes,MCI,0
+2210386,Álvaro Fernández,BRE,1
+2210386,Karl Darlow,NEW,0
+2210387,Tim Krul,NOR,0
+2210387,Alex McCarthy,SOU,0
+2210388,Illan Meslier,LEE,2
+2210388,Hugo Lloris,TOT,0
+2210389,David De Gea,MUN,2
+2210389,Ben Foster,WAT,2
+2210390,Lukasz Fabianski,WHU,0
+2210390,José Pedro Malheiro de Sá,WOL,0
+2210391,Aaron Ramsdale,ARS,0
+2210391,Martin Dubravka,NEW,2
+2210392,Álvaro Fernández,BRE,1
+2210392,Jordan Pickford,EVE,0
+2210393,Robert Sanchez,BHA,0
+2210393,Illan Meslier,LEE,0
+2210394,Nick Pope,BUR,0
+2210394,Hugo Lloris,TOT,1
+2210395,Edouard Mendy,CHE,0
+2210395,David De Gea,MUN,1
+2210396,Emiliano Martinez,AVL,0
+2210396,Vicente Guaita,CRY,0
+2210397,Kasper Schmeichel,LEI,1
+2210397,Daniel Bachmann,WAT,1
+2210398,Alisson Ramses Becker,LIV,2
+2210398,Alex McCarthy,SOU,0
+2210399,Ederson Santana de Moraes,MCI,0
+2210399,Lukasz Fabianski,WHU,2
+2210400,Tim Krul,NOR,0
+2210400,José Pedro Malheiro de Sá,WOL,2
+2210401,Emiliano Martinez,AVL,0
+2210401,Ederson Santana de Moraes,MCI,1
+2210402,Jordan Pickford,EVE,1
+2210402,Alisson Ramses Becker,LIV,0
+2210403,Vicente Guaita,CRY,0
+2210403,Illan Meslier,LEE,0
+2210404,Aaron Ramsdale,ARS,1
+2210404,David De Gea,MUN,1
+2210405,Edouard Mendy,CHE,1
+2210405,Daniel Bachmann,WAT,0
+2210406,Robert Sanchez,BHA,1
+2210406,Lukasz Fabianski,WHU,2
+2210407,Nick Pope,BUR,0
+2210407,José Pedro Malheiro de Sá,WOL,0
+2210408,Martin Dubravka,NEW,1
+2210408,Tim Krul,NOR,0
+2210409,Kasper Schmeichel,LEI,0
+2210409,Alex McCarthy,SOU,1
+2210410,Álvaro Fernández,BRE,1
+2210410,Hugo Lloris,TOT,0
+2210411,Emiliano Martinez,AVL,0
+2210411,Kasper Schmeichel,LEI,1
+2210412,Aaron Ramsdale,ARS,1
+2210412,Jordan Pickford,EVE,0
+2210413,Álvaro Fernández,BRE,0
+2210413,Illan Meslier,LEE,0
+2210414,Vicente Guaita,CRY,0
+2210414,David De Gea,MUN,1
+2210415,Nick Pope,BUR,0
+2210415,Martin Dubravka,NEW,0
+2210416,Robert Sanchez,BHA,1
+2210416,Alex McCarthy,SOU,1
+2210417,Tim Krul,NOR,0
+2210417,Hugo Lloris,TOT,0
+2210418,Ederson Santana de Moraes,MCI,0
+2210418,Daniel Bachmann,WAT,3
+2210419,Edouard Mendy,CHE,0
+2210419,Lukasz Fabianski,WHU,0
+2210420,Alisson Ramses Becker,LIV,0
+2210420,José Pedro Malheiro de Sá,WOL,1
+2210421,Aaron Ramsdale,ARS,0
+2210421,Willy Caballero,SOU,1
+2210422,Álvaro Fernández,BRE,1
+2210422,Daniel Bachmann,WAT,0
+2210423,Robert Sanchez,BHA,2
+2210423,Hugo Lloris,TOT,0
+2210424,Nick Pope,BUR,0
+2210424,Lukasz Fabianski,WHU,0
+2210425,Edouard Mendy,CHE,0
+2210425,Illan Meslier,LEE,1
+2210426,Vicente Guaita,CRY,0
+2210426,Jordan Pickford,EVE,1
+2210427,Kasper Schmeichel,LEI,0
+2210427,Martin Dubravka,NEW,0
+2210428,Emiliano Martinez,AVL,1
+2210428,Alisson Ramses Becker,LIV,0
+2210429,Ederson Santana de Moraes,MCI,0
+2210429,José Pedro Malheiro de Sá,WOL,0
+2210430,David De Gea,MUN,1
+2210430,Tim Krul,NOR,0
+2210431,Aaron Ramsdale,ARS,0
+2210431,Lukasz Fabianski,WHU,1
+2210432,Jonas Lössl,BRE,1
+2210432,David De Gea,MUN,2
+2210433,Robert Sanchez,BHA,1
+2210433,José Pedro Malheiro de Sá,WOL,0
+2210434,Nick Pope,BUR,1
+2210434,Ben Foster,WAT,0
+2210435,Jack Butland,CRY,0
+2210435,Willy Caballero,SOU,2
+2210436,Kasper Schmeichel,LEI,1
+2210436,Hugo Lloris,TOT,0
+2210437,Emiliano Martinez,AVL,0
+2210437,Tim Krul,NOR,0
+2210438,Edouard Mendy,CHE,0
+2210438,Jordan Pickford,EVE,3
+2210439,Alisson Ramses Becker,LIV,0
+2210439,Martin Dubravka,NEW,2
+2210440,Illan Meslier,LEE,2
+2210440,Ederson Santana de Moraes,MCI,0
+2210441,Emiliano Martinez,AVL,0
+2210441,Nick Pope,BUR,0
+2210442,Jordan Pickford,EVE,0
+2210442,Kasper Schmeichel,LEI,0
+2210443,Aaron Ramsdale,ARS,0
+2210443,Illan Meslier,LEE,2
+2210444,Robert Sanchez,BHA,3
+2210444,David De Gea,MUN,1
+2210445,Ederson Santana de Moraes,MCI,0
+2210445,Martin Dubravka,NEW,1
+2210446,Álvaro Fernández,BRE,0
+2210446,Fraser Forster,SOU,1
+2210447,Alisson Ramses Becker,LIV,2
+2210447,Hugo Lloris,TOT,0
+2210448,Jack Butland,CRY,0
+2210448,Ben Foster,WAT,0
+2210449,Tim Krul,NOR,1
+2210449,Lukasz Fabianski,WHU,0
+2210450,Edouard Mendy,CHE,1
+2210450,José Pedro Malheiro de Sá,WOL,1
+2210451,Emiliano Martinez,AVL,1
+2210451,Edouard Mendy,CHE,0
+2210452,Álvaro Fernández,BRE,0
+2210452,Robert Sanchez,BHA,0
+2210453,Nick Pope,BUR,0
+2210453,Jordan Pickford,EVE,0
+2210454,Illan Meslier,LEE,0
+2210454,Alisson Ramses Becker,LIV,0
+2210455,Kasper Schmeichel,LEI,1
+2210455,Ederson Santana de Moraes,MCI,1
+2210456,David De Gea,MUN,1
+2210456,Martin Dubravka,NEW,1
+2210457,Aaron Ramsdale,ARS,0
+2210457,Angus Gunn,NOR,0
+2210458,Jack Butland,CRY,0
+2210458,Hugo Lloris,TOT,0
+2210459,Fraser Forster,SOU,0
+2210459,Lukasz Fabianski,WHU,0
+2210460,Ben Foster,WAT,0
+2210460,José Pedro Malheiro de Sá,WOL,0
+2210461,Aaron Ramsdale,ARS,1
+2210461,José Pedro Malheiro de Sá,WOL,1
+2210462,Álvaro Fernández,BRE,0
+2210462,Ederson Santana de Moraes,MCI,0
+2210463,Robert Sanchez,BHA,0
+2210463,Edouard Mendy,CHE,0
+2210464,Vicente Guaita,CRY,0
+2210464,Angus Gunn,NOR,1
+2210465,Asmir Begovic,EVE,0
+2210465,Martin Dubravka,NEW,0
+2210466,Emiliano Martinez,AVL,0
+2210466,Illan Meslier,LEE,0
+2210467,Kasper Schmeichel,LEI,1
+2210467,Alisson Ramses Becker,LIV,0
+2210468,Wayne Hennessey,BUR,0
+2210468,David De Gea,MUN,0
+2210469,Fraser Forster,SOU,2
+2210469,Hugo Lloris,TOT,0
+2210470,Daniel Bachmann,WAT,2
+2210470,Lukasz Fabianski,WHU,1
+2210471,Aaron Ramsdale,ARS,0
+2210471,Ederson Santana de Moraes,MCI,0
+2210472,Emiliano Martinez,AVL,0
+2210472,Álvaro Fernández,BRE,0
+2210473,Edouard Mendy,CHE,1
+2210473,Caoimhin Kelleher,LIV,1
+2210474,Vicente Guaita,CRY,1
+2210474,Lukasz Fabianski,WHU,0
+2210475,Robert Sanchez,BHA,0
+2210475,Jordan Pickford,EVE,0
+2210476,Wayne Hennessey,BUR,0
+2210476,Illan Meslier,LEE,1
+2210477,Kasper Schmeichel,LEI,1
+2210477,Angus Gunn,NOR,2
+2210478,David De Gea,MUN,0
+2210478,José Pedro Malheiro de Sá,WOL,0
+2210479,Martin Dubravka,NEW,2
+2210479,Fraser Forster,SOU,0
+2210480,Hugo Lloris,TOT,0
+2210480,Daniel Bachmann,WAT,1
+2210481,Emiliano Martinez,AVL,1
+2210481,David De Gea,MUN,0
+2210482,Robert Sanchez,BHA,0
+2210482,Jack Butland,CRY,3
+2210483,Nick Pope,BUR,1
+2210483,Kasper Schmeichel,LEI,1
+2210484,Álvaro Fernández,BRE,2
+2210484,Alisson Ramses Becker,LIV,0
+2210485,Kepa Arrizabalaga Revuelta,CHE,1
+2210485,Ederson Santana de Moraes,MCI,1
+2210486,Martin Dubravka,NEW,1
+2210486,Ben Foster,WAT,0
+2210487,Jordan Pickford,EVE,0
+2210487,Tim Krul,NOR,0
+2210488,Aaron Ramsdale,ARS,1
+2210488,Hugo Lloris,TOT,0
+2210489,Illan Meslier,LEE,0
+2210489,Lukasz Fabianski,WHU,1
+2210490,Fraser Forster,SOU,0
+2210490,José Pedro Malheiro de Sá,WOL,2
+2210491,Aaron Ramsdale,ARS,0
+2210491,Nick Pope,BUR,0
+2210492,Jonas Lössl,BRE,0
+2210492,José Pedro Malheiro de Sá,WOL,0
+2210493,Kepa Arrizabalaga Revuelta,CHE,0
+2210493,Hugo Lloris,TOT,0
+2210494,Vicente Guaita,CRY,0
+2210494,Alisson Ramses Becker,LIV,1
+2210495,Emiliano Martinez,AVL,0
+2210495,Jordan Pickford,EVE,0
+2210496,Illan Meslier,LEE,1
+2210496,Martin Dubravka,NEW,2
+2210497,Robert Sanchez,BHA,2
+2210497,Kasper Schmeichel,LEI,2
+2210498,David De Gea,MUN,0
+2210498,Alphonse Areola,WHU,0
+2210499,Ederson Santana de Moraes,MCI,0
+2210499,Fraser Forster,SOU,1
+2210500,Angus Gunn,NOR,0
+2210500,Daniel Bachmann,WAT,0
+2210501,Emiliano Martinez,AVL,0
+2210501,Illan Meslier,LEE,0
+2210502,Robert Sanchez,BHA,0
+2210502,Kepa Arrizabalaga Revuelta,CHE,0
+2210503,Nick Pope,BUR,1
+2210503,David De Gea,MUN,0
+2210504,Vicente Guaita,CRY,0
+2210504,Angus Gunn,NOR,0
+2210505,Ben Foster,WAT,0
+2210505,Lukasz Fabianski,WHU,0
+2210506,Aaron Ramsdale,ARS,0
+2210506,José Pedro Malheiro de Sá,WOL,0
+2210507,Kasper Schmeichel,LEI,2
+2210507,Alisson Ramses Becker,LIV,1
+2210508,David Raya Martin,BRE,1
+2210508,Ederson Santana de Moraes,MCI,0
+2210509,Jordan Pickford,EVE,2
+2210509,Martin Dubravka,NEW,0
+2210510,Fraser Forster,SOU,1
+2210510,Hugo Lloris,TOT,1
+2210511,David Raya Martin,BRE,0
+2210511,Vicente Guaita,CRY,1
+2210512,Nick Pope,BUR,2
+2210512,Alisson Ramses Becker,LIV,1
+2210513,Aaron Ramsdale,ARS,0
+2210513,Edouard Mendy,CHE,0
+2210514,Jordan Pickford,EVE,0
+2210514,Illan Meslier,LEE,2
+2210515,Kasper Schmeichel,LEI,0
+2210515,Lukasz Fabianski,WHU,0
+2210516,David De Gea,MUN,0
+2210516,Fraser Forster,SOU,2
+2210517,Emiliano Martinez,AVL,0
+2210517,Martin Dubravka,NEW,0
+2210518,Ederson Santana de Moraes,MCI,0
+2210518,Angus Gunn,NOR,2
+2210519,Hugo Lloris,TOT,1
+2210519,José Pedro Malheiro de Sá,WOL,0
+2210520,Robert Sanchez,BHA,0
+2210520,Ben Foster,WAT,0
+2210521,Aaron Ramsdale,ARS,0
+2210521,David Raya Martin,BRE,1
+2210522,Emiliano Martinez,AVL,2
+2210522,Ben Foster,WAT,0
+2210523,Robert Sanchez,BHA,0
+2210523,Nick Pope,BUR,0
+2210524,Edouard Mendy,CHE,0
+2210524,Vicente Guaita,CRY,1
+2210524,Jack Butland,CRY,0
+2210525,Illan Meslier,LEE,2
+2210525,David De Gea,MUN,0
+2210526,Alisson Ramses Becker,LIV,0
+2210526,Angus Gunn,NOR,0
+2210527,Ederson Santana de Moraes,MCI,1
+2210527,Hugo Lloris,TOT,0
+2210528,Jordan Pickford,EVE,2
+2210528,Fraser Forster,SOU,0
+2210529,Martin Dubravka,NEW,0
+2210529,Lukasz Fabianski,WHU,1
+2210530,Kasper Schmeichel,LEI,0
+2210530,José Pedro Malheiro de Sá,WOL,0
+2210531,Aaron Ramsdale,ARS,0
+2210531,Alisson Ramses Becker,LIV,1
+2210532,David Raya Martin,BRE,1
+2210532,Martin Dubravka,NEW,1
+2210533,Emiliano Martinez,AVL,0
+2210533,Robert Sanchez,BHA,1
+2210534,Edouard Mendy,CHE,0
+2210534,Kasper Schmeichel,LEI,0
+2210535,Nick Pope,BUR,0
+2210535,Jack Butland,CRY,0
+2210536,Jordan Pickford,EVE,1
+2210536,Ederson Santana de Moraes,MCI,1
+2210537,Illan Meslier,LEE,1
+2210537,Hugo Lloris,TOT,0
+2210538,David De Gea,MUN,0
+2210538,Ben Foster,WAT,1
+2210539,Angus Gunn,NOR,1
+2210539,Fraser Forster,SOU,0
+2210540,Lukasz Fabianski,WHU,0
+2210540,José Pedro Malheiro de Sá,WOL,1
+2210541,Emiliano Martinez,AVL,1
+2210541,Fraser Forster,SOU,2
+2210542,Nick Pope,BUR,0
+2210542,Edouard Mendy,CHE,0
+2210543,Illan Meslier,LEE,0
+2210543,Kasper Schmeichel,LEI,1
+2210544,Alisson Ramses Becker,LIV,0
+2210544,Lukasz Fabianski,WHU,1
+2210545,Ederson Santana de Moraes,MCI,1
+2210545,David De Gea,MUN,1
+2210546,Robert Sanchez,BHA,0
+2210546,Martin Dubravka,NEW,1
+2210547,David Raya Martin,BRE,1
+2210547,Tim Krul,NOR,0
+2210548,Jordan Pickford,EVE,2
+2210548,Hugo Lloris,TOT,0
+2210549,Aaron Ramsdale,ARS,0
+2210549,Ben Foster,WAT,0
+2210550,Vicente Guaita,CRY,1
+2210550,José Pedro Malheiro de Sá,WOL,0
+2210551,Aaron Ramsdale,ARS,1
+2210551,Kasper Schmeichel,LEI,1
+2210552,David Raya Martin,BRE,1
+2210552,Nick Pope,BUR,0
+2210553,Robert Sanchez,BHA,1
+2210553,Alisson Ramses Becker,LIV,0
+2210554,Edouard Mendy,CHE,0
+2210554,Martin Dubravka,NEW,1
+2210555,Vicente Guaita,CRY,0
+2210555,Ederson Santana de Moraes,MCI,0
+2210556,Jordan Pickford,EVE,0
+2210556,José Pedro Malheiro de Sá,WOL,0
+2210557,Illan Meslier,LEE,1
+2210557,Tim Krul,NOR,1
+2210558,David De Gea,MUN,0
+2210558,Hugo Lloris,TOT,0
+2210559,Fraser Forster,SOU,1
+2210559,Ben Foster,WAT,0
+2210560,Emiliano Martinez,AVL,0
+2210560,Lukasz Fabianski,WHU,1
+2210561,Bernd Leno,ARS,0
+2210561,Emiliano Martinez,AVL,0
+2210562,Nick Pope,BUR,1
+2210562,Fraser Forster,SOU,2
+2210563,David Raya Martin,BRE,1
+2210563,Kasper Schmeichel,LEI,2
+2210564,Alisson Ramses Becker,LIV,0
+2210564,David De Gea,MUN,0
+2210565,Robert Sanchez,BHA,0
+2210565,Ederson Santana de Moraes,MCI,0
+2210566,Vicente Guaita,CRY,0
+2210566,Martin Dubravka,NEW,0
+2210567,Edouard Mendy,CHE,0
+2210567,Tim Krul,NOR,1
+2210568,Hugo Lloris,TOT,0
+2210568,Lukasz Fabianski,WHU,1
+2210569,Jordan Pickford,EVE,0
+2210569,Ben Foster,WAT,0
+2210570,Kristoffer Klaesson,LEE,0
+2210570,Illan Meslier,LEE,0
+2210570,José Pedro Malheiro de Sá,WOL,0
+2210571,Robert Sanchez,BHA,0
+2210571,Tim Krul,NOR,1
+2210572,Nick Pope,BUR,0
+2210572,Ederson Santana de Moraes,MCI,0
+2210573,David Raya Martin,BRE,0
+2210573,Edouard Mendy,CHE,0
+2210574,Aaron Ramsdale,ARS,0
+2210574,Vicente Guaita,CRY,1
+2210575,Illan Meslier,LEE,1
+2210575,Fraser Forster,SOU,0
+2210576,Alisson Ramses Becker,LIV,1
+2210576,Ben Foster,WAT,0
+2210577,Kasper Schmeichel,LEI,0
+2210577,David De Gea,MUN,0
+2210578,Martin Dubravka,NEW,0
+2210578,Hugo Lloris,TOT,0
+2210579,Jordan Pickford,EVE,1
+2210579,Lukasz Fabianski,WHU,0
+2210580,Emiliano Martinez,AVL,1
+2210580,José Pedro Malheiro de Sá,WOL,2
+2210581,Aaron Ramsdale,ARS,0
+2210581,Robert Sanchez,BHA,1
+2210582,Emiliano Martinez,AVL,0
+2210582,Hugo Lloris,TOT,2
+2210583,David Raya Martin,BRE,0
+2210583,Lukasz Fabianski,WHU,0
+2210584,Jordan Pickford,EVE,0
+2210584,David De Gea,MUN,0
+2210585,Vicente Guaita,CRY,0
+2210585,Kasper Schmeichel,LEI,1
+2210586,Alisson Ramses Becker,LIV,1
+2210586,Ederson Santana de Moraes,MCI,1
+2210587,Martin Dubravka,NEW,0
+2210587,José Pedro Malheiro de Sá,WOL,0
+2210588,Nick Pope,BUR,0
+2210588,Tim Krul,NOR,0
+2210589,Edouard Mendy,CHE,1
+2210589,Fraser Forster,SOU,2
+2210590,Illan Meslier,LEE,1
+2210590,Ben Foster,WAT,0
+2210591,Emiliano Martinez,AVL,0
+2210591,Alisson Ramses Becker,LIV,0
+2210592,Jack Butland,CRY,0
+2210592,Jordan Pickford,EVE,0
+2210593,Edouard Mendy,CHE,0
+2210593,Illan Meslier,LEE,0
+2210594,David De Gea,MUN,1
+2210594,Tim Krul,NOR,0
+2210595,Kasper Schmeichel,LEI,1
+2210595,Martin Dubravka,NEW,0
+2210596,Aaron Ramsdale,ARS,0
+2210596,Fraser Forster,SOU,1
+2210597,Robert Sanchez,BHA,0
+2210597,Hugo Lloris,TOT,0
+2210598,David Raya Martin,BRE,0
+2210598,Ben Foster,WAT,0
+2210599,Nick Pope,BUR,1
+2210599,Lukasz Fabianski,WHU,0
+2210600,Ederson Santana de Moraes,MCI,0
+2210600,José Pedro Malheiro de Sá,WOL,0
+2210601,Aaron Ramsdale,ARS,1
+2210601,David De Gea,MUN,1
+2210602,David Raya Martin,BRE,0
+2210602,Hugo Lloris,TOT,0
+2210603,Robert Sanchez,BHA,0
+2210603,Fraser Forster,SOU,2
+2210604,Nick Pope,BUR,0
+2210604,José Pedro Malheiro de Sá,WOL,0
+2210605,Edouard Mendy,CHE,1
+2210605,Lukasz Fabianski,WHU,1
+2210606,Vicente Guaita,CRY,0
+2210606,Illan Meslier,LEE,0
+2210607,Emiliano Martinez,AVL,0
+2210607,Kasper Schmeichel,LEI,0
+2210608,Jordan Pickford,EVE,0
+2210608,Alisson Ramses Becker,LIV,0
+2210609,Ederson Santana de Moraes,MCI,0
+2210609,Ben Foster,WAT,0
+2210610,Martin Dubravka,NEW,0
+2210610,Tim Krul,NOR,0
+2210611,Emiliano Martinez,AVL,0
+2210611,Tim Krul,NOR,1
+2210612,Edouard Mendy,CHE,0
+2210612,Jordan Pickford,EVE,2
+2210613,Illan Meslier,LEE,1
+2210613,Ederson Santana de Moraes,MCI,1
+2210614,David Raya Martin,BRE,0
+2210614,David De Gea,MUN,0
+2210615,Alisson Ramses Becker,LIV,0
+2210615,Martin Dubravka,NEW,1
+2210616,Vicente Guaita,CRY,0
+2210616,Fraser Forster,SOU,0
+2210617,Kasper Schmeichel,LEI,2
+2210617,Hugo Lloris,TOT,0
+2210618,Nick Pope,BUR,0
+2210618,Ben Foster,WAT,0
+2210619,Aaron Ramsdale,ARS,0
+2210619,Lukasz Fabianski,WHU,0
+2210620,Robert Sanchez,BHA,0
+2210620,José Pedro Malheiro de Sá,WOL,0
+2210621,Aaron Ramsdale,ARS,1
+2210621,Illan Meslier,LEE,0
+2210622,David Raya Martin,BRE,0
+2210622,Fraser Forster,SOU,0
+2210623,Robert Sanchez,BHA,1
+2210623,David De Gea,MUN,0
+2210624,Emiliano Martinez,AVL,0
+2210624,Nick Pope,BUR,0
+2210625,Edouard Mendy,CHE,0
+2210625,José Pedro Malheiro de Sá,WOL,0
+2210626,Jack Butland,CRY,0
+2210626,Ben Foster,WAT,0
+2210627,Jordan Pickford,EVE,0
+2210627,Kasper Schmeichel,LEI,1
+2210628,Alisson Ramses Becker,LIV,0
+2210628,Hugo Lloris,TOT,0
+2210629,Ederson Santana de Moraes,MCI,2
+2210629,Martin Dubravka,NEW,1
+2210630,Tim Krul,NOR,0
+2210630,Lukasz Fabianski,WHU,1
+2210631,Emiliano Martinez,AVL,0
+2210631,Jack Butland,CRY,0
+2210632,David Raya Martin,BRE,1
+2210632,Jordan Pickford,EVE,1
+2210633,Robert Sanchez,BHA,0
+2210633,Illan Meslier,LEE,1
+2210634,Edouard Mendy,CHE,0
+2210634,David De Gea,MUN,2
+2210635,Aaron Ramsdale,ARS,2
+2210635,Martin Dubravka,NEW,0
+2210636,Alisson Ramses Becker,LIV,0
+2210636,Alex McCarthy,SOU,0
+2210637,Nick Pope,BUR,1
+2210637,Hugo Lloris,TOT,1
+2210638,Danny Ward,LEI,2
+2210638,Ben Foster,WAT,1
+2210639,Ederson Santana de Moraes,MCI,0
+2210639,Lukasz Fabianski,WHU,1
+2210640,Angus Gunn,NOR,1
+2210640,John Ruddy,WOL,1
+2210641,Aaron Ramsdale,ARS,0
+2210641,Asmir Begovic,EVE,1
+2210642,David Raya Martin,BRE,1
+2210642,Illan Meslier,LEE,0
+2210643,Robert Sanchez,BHA,0
+2210643,Lukasz Fabianski,WHU,1
+2210644,Nick Pope,BUR,1
+2210644,Martin Dubravka,NEW,0
+2210645,Edouard Mendy,CHE,1
+2210645,Daniel Bachmann,WAT,1
+2210646,Vicente Guaita,CRY,1
+2210646,David De Gea,MUN,0
+2210647,Kasper Schmeichel,LEI,0
+2210647,Alex McCarthy,SOU,1
+2210648,Alisson Ramses Becker,LIV,1
+2210648,John Ruddy,WOL,0
+2210648,José Pedro Malheiro de Sá,WOL,0
+2210649,Robin Olsen,AVL,0
+2210649,Ederson Santana de Moraes,MCI,0
+2210650,Tim Krul,NOR,2
+2210650,Hugo Lloris,TOT,0
